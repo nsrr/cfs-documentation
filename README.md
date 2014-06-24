@@ -1,4 +1,4 @@
-cfs-documentation
+CFS Documentation
 =================
 
-CFS documentation for sleepdata.org
+Version controlled repository for CFS documentation on [sleepdata.org](http://sleepdata.org/datasets/cfs)
