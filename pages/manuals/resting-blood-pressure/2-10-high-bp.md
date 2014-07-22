@@ -1,7 +1,9 @@
 ## 2.10 Procedures if Participant is Found to Have Excessively High Blood Pressure
 
 **Please notify Dr. Redline if blood pressure is:**
+
 **Adults: 220/110 or greater**
+
 **Children: 180/110 or greater**
 
 
