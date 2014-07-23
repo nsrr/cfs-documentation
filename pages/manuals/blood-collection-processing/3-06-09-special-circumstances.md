@@ -23,7 +23,7 @@
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing/3-06-10-processing-completion.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/blood-collection-processing/3-06-10-00-processing-completion.md" class="btn btn-success">
     3.6.10 Processing Completion
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
