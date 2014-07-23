@@ -6,9 +6,9 @@
 
 ### 3.6.9.1 Blind Duplicate Special Circumstances
 
-4. <u>A participant may refuse to have the extra blind duplicate tube drawn</u>.  In this case, discard the blind duplicate QC number.  Continue with the next tube in the QC draw order for the next person selected for blind duplicates.
-5. <u>There may be errors in processing the blind duplicate sample</u>.  Discard the sample and the QC number and continue with the next tube in the QC draw order for the next person selected for blind duplicates.
-6. <u>The blind duplicate tube may not fill properly during the blood draw procedure</u>.  Discard the tube and the QC number and continue with the QC draw order for the next person selected for blind duplicates.
+* 4. <u>A participant may refuse to have the extra blind duplicate tube drawn</u>.  In this case, discard the blind duplicate QC number.  Continue with the next tube in the QC draw order for the next person selected for blind duplicates.
+* 5. <u>There may be errors in processing the blind duplicate sample</u>.  Discard the sample and the QC number and continue with the next tube in the QC draw order for the next person selected for blind duplicates.
+* 6. <u>The blind duplicate tube may not fill properly during the blood draw procedure</u>.  Discard the tube and the QC number and continue with the QC draw order for the next person selected for blind duplicates.
 
 
 <div class="center">
