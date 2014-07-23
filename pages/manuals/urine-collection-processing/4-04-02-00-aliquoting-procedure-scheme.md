@@ -18,7 +18,7 @@
 4. Place on ice.
 5. Pipette two 9.0 mL samples of urine from Container 2 (urine+acid) into 10.0 mL green-capped tubes #39–40.
 6. Place on ice.
-7. Freeze the samples at -70C or on dry ice within 10 minutes of aliquot preparation.
+7. Freeze the samples at -70°C or on dry ice within 10 minutes of aliquot preparation.
 8. Discard left-over urine (unless the participant has been selected as a blind duplicate for urine processing).
 9. Check-off on Processing Form the number of urine aliquots made (#s).
 10. Send the completed Urine Collection/Processing Form to the LCBR.
