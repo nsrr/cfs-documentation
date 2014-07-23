@@ -14,9 +14,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/urine-collection-processing/4-04-02-01-blind-duplicates.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/urine-collection-processing/4-05-01-general.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    4.4.2.1 Blind Duplicates
+    4.5.1 General
   </a>
 
   <a href=":pages_path:/manuals/urine-collection-processing" class="btn btn-default">
@@ -24,8 +24,8 @@
     Urine Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/urine-collection-processing/4-05-02-equipment-supplies.md" class="btn btn-success">
-    4.5.2 Equipment and Supplies
+  <a href=":pages_path:/manuals/urine-collection-processing/4-05-03-procedure.md" class="btn btn-success">
+    4.5.3 Procedure
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
