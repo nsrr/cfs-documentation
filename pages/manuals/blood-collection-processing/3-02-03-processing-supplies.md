@@ -13,7 +13,7 @@
 * Test tube racks / cryovial racks
 * Fixed volume pipettes with tips (MLA) or adjustable pipettes with tips.  Volumes needed to pipette:  0.5 mL, 1.0 mL and 3.0 mL
 * Cryovial and freezer box labels – provided by the LCBR
-* Revco Freezer Boxes 5x5x2 and 5x5x3 and dividers (10 x 10 and 7 x 7 grids)
+* Revco Freezer Boxes 5x5x2" and 5x5x3" and dividers (10x10 and 7x7 grids)
 * Styrofoam/insulated shipping boxes
 * Reagent bottles/containers for daily use
 * Labels/lab tape for reagents
