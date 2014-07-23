@@ -18,19 +18,14 @@ For <u>frozen</u> shipments to the LCBR at the University of Vermont. This shipp
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/blood-collection-processing/3-07-01-general.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing/3-07-02-equipment-supplies.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    3.7.1 General
+    3.7.2 Equipment and Supplies
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     Blood Collection and Processing
-  </a>
-
-  <a href=":pages_path:/manuals/blood-collection-processing/3-07-03-procedure.md" class="btn btn-success">
-    3.7.3 Procedure
-    <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
 </div>
