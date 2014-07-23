@@ -14,7 +14,7 @@ The urine samples collected and processed by General Clinical Research Center (G
 
   <a href=":pages_path:/manuals/urine-collection-processing" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Blood Collection and Processing
+    Urine Collection and Processing
   </a>
 
   <a href=":pages_path:/manuals/urine-collection-processing/4-02-equipment-supplies.md" class="btn btn-success">
