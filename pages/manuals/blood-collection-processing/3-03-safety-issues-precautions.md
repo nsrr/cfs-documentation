@@ -11,9 +11,9 @@ In accordance with the OSHA regulations on blood borne pathogens (see appendix f
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/blood-collection-processing/3-02-02-collection-supplies.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing/3-02-03-processing-supplies.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    3.2.2 Blood Collection Supplies
+    3.2.3 Blood Processing Supplies
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
@@ -21,8 +21,8 @@ In accordance with the OSHA regulations on blood borne pathogens (see appendix f
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing/3-03-safety-issues-precautions.md" class="btn btn-success">
-    3.3 Safety Issues and Precautions for Handling Blood Specimen
+  <a href=":pages_path:/manuals/blood-collection-processing/3-04-01-ppt-id-labels.md" class="btn btn-success">
+    3.4 Phlebotomy Logistics
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
