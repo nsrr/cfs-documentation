@@ -21,8 +21,8 @@ Blood drawing is standardized for the supine position for the 10:30 PM and 8:00 
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing/3-05-01-02-priority-of-tubes.md" class="btn btn-success">
-    3.5.1.2 Priority of Tubes
+  <a href=":pages_path:/manuals/blood-collection-processing/3-05-01-02-phlebotomy-processing-rooms.md" class="btn btn-success">
+    3.5.1.2 Phlebotomy/Processing Rooms
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
