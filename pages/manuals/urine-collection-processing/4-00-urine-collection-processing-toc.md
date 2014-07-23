@@ -1,7 +1,7 @@
 ## 4.0 Table of Contents - Urine Collection and Processing Procedures
 
 * [4.1 Background and Rationale](:pages_path:/manuals/urine-collection-processing/4-01-background.md)
-* [4.2 Equipment and Supplies](:pages_path:/manuals/urine-collection-processing/3-02-equipment-supplies.md)
+* [4.2 Equipment and Supplies](:pages_path:/manuals/urine-collection-processing/4-02-equipment-supplies.md)
 * 4.3 Urine Collection
  * [4.3.1 Preparation](:pages_path:/manuals/urine-collection-processing/4-03-01-preparation.md)
  * [4.3.2 Instructions for Participant](:pages_path:/manuals/urine-collection-processing/4-03-02-ppt-instructions.md)
