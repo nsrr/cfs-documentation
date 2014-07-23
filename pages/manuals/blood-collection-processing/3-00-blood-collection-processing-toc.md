@@ -1,7 +1,7 @@
 ## 3.0 Table of Contents - Blood Collection and Processing Procedures
 
 * [3.1 Background and Rationale](:pages_path:/manuals/blood-collection-processing/3-01-background.md)
-* [3.2 Equipment and Supplies](:pages_path:/manuals/blood-collection-processing/3-02-00-equipment.md)
+* 3.2 Equipment and Supplies
  * [3.2.1 LCBR Recommended Supplies](:pages_path:/manuals/blood-collection-processing/3-02-01-lcbr-recommended-supplies.md)
  * [3.2.2 Blood Collection Supplies](:pages_path:/manuals/blood-collection-processing/3-02-02-collection-supplies.md)
  * [3.2.3 Blood Processing Supplies](:pages_path:/manuals/blood-collection-processing/3-02-03-processing-supplies.md)
