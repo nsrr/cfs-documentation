@@ -51,7 +51,7 @@
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/3-02-03-processing-supplies.md" class="btn btn-success">
-    3.2.3 Blood Processing Supplies]
+    3.2.3 Blood Processing Supplies
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
