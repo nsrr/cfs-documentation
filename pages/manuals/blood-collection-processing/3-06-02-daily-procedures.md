@@ -5,9 +5,9 @@ Aliquot racks will be set up to correspond to each blood collection tube rack.  
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/blood-collection-processing/3-06-01-01-blind-duplicate-overview.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing/3-06-01-overview.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    3.6.1.1 Blind Duplicate Overview
+    3.6.1 Overview
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
