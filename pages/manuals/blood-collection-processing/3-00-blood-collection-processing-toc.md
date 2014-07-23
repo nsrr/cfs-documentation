@@ -20,8 +20,9 @@
     * [3.5.1.5 Setup of Draw Tube and Aliquot Racks](:pages_path:/manuals/blood-collection-processing/3-05-01-05-draw-tube-racks-setup.md)
     * [3.5.1.6 Preparation for Specimen Collection](:pages_path:/manuals/blood-collection-processing/3-05-01-06-specimen-collection-preparation.md)
     * [3.5.1.7 Phlebotomy Form Questions](:pages_path:/manuals/blood-collection-processing/3-05-01-07-phlebotomy-form-questions.md)
-  * [3.5.2 Venipuncture Procedure](:pages_path:/manuals/blood-collection-processing/3-05-02-venipuncture-procedure.md)
-  * [3.5.3 Guidelines for Difficulties](:pages_path:/manuals/blood-collection-processing/3-05-03-guidelines-for-difficulties.md)
+  * [3.5.2 Venipuncture Procedure](:pages_path:/manuals/blood-collection-processing/3-05-02-00-venipuncture-procedure.md)
+   * [3.5.2.1 Oral Glucose Procedure](:pages_path:/manuals/blood-collection-processing/3-05-02-01-oral-glucose-procedure.md)
+  * [3.5.4 Guidelines for Difficulties](:pages_path:/manuals/blood-collection-processing/3-05-04-guidelines-for-difficulties.md)
 * 3.6 Venipuncture Processing
  * [3.6.1 Overview](:pages_path:/manuals/blood-collection-processing/3-06-01-overview.md)
    * 3.6.1.1 Blind Duplicate Overview
