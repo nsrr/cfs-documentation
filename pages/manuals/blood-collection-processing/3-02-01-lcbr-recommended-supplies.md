@@ -30,17 +30,17 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/blood-collection-processinge/3-01-background.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing/3-01-background.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     3.1 Background and Rationale
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processinge" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processinge/3-02-02-collection-supplies.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/blood-collection-processing/3-02-02-collection-supplies.md" class="btn btn-success">
     3.2.2 Blood Collection Supplies
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
