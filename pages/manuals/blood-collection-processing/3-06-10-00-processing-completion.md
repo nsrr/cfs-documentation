@@ -22,7 +22,7 @@ Wipe down all work areas with 10% bleach solution (or approved biohazard disinfe
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing/3-06-10-01-blind-duplicate-process-completion.md" class="btn btn-success">
-    3.6.10.1 Blind Duplicate Process Completion
+    3.6.10.1 Blind Duplicate Processing Completion
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
