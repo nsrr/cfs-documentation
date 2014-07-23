@@ -13,9 +13,9 @@ The Urine Collection/Processing Form must be labeled with the Participant ID num
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/urine-collection-processing/4-02-equipment-supplies.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/urine-collection-processing/4-03-01-preparation.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    4.2 Equipment and Supplies
+    4.3.1 Preparation
   </a>
 
   <a href=":pages_path:/manuals/urine-collection-processing" class="btn btn-default">
@@ -23,8 +23,8 @@ The Urine Collection/Processing Form must be labeled with the Participant ID num
     Urine Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/urine-collection-processing/4-03-02-ppt-instructions.md" class="btn btn-success">
-    4.3.2 Instructions for Participant
+  <a href=":pages_path:/manuals/urine-collection-processing/4-04-01-procedure.md" class="btn btn-success">
+    4.4 Urine Processing
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
