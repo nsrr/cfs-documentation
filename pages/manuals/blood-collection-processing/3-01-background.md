@@ -9,17 +9,17 @@ This study involves the collection of 30 mLs of blood from participants both pri
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/blood-collection-processinge/3-00-blood-collection-processinge-toc.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing/3-00-blood-collection-processing-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     Table of Contents
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processinge" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processinge/3-02-01-lcbr-recommended-supplies.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/blood-collection-processing/3-02-01-lcbr-recommended-supplies.md" class="btn btn-success">
     3.2 Equipment and Supplies
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
