@@ -1,12 +1,25 @@
 ## 3.2.3 Blood Processing Supplies
 
-In accordance with the OSHA regulations on blood borne pathogens (see appendix for complete OSHA regulations), the LCBR recommends the following laboratory safety protocol for the blood collection at the GCRC:
-
-* Use of non-permeable lab coats, latex gloves, and face shields when handling any blood in any situation where splashes, spray, spatter, or droplets of blood may be generated, and eye, nose, or mouth contamination can be reasonably anticipated.
-* Use of aerosol containers in all centrifuges is recommended.
-* Follow 'Universal Precautions' when handling any blood or urine products.
-* Contaminated needles and sharps shall be immediately placed in a puncture-resistant, leak proof container.  Never recap or break needles.
-* The Hepatitis B vaccine is offered to all unvaccinated technicians handling blood, and documentation of vaccination, or technician’s declining to be vaccinated, should be kept on file at the GCRC.
+* Lab coats and gloves, splash shields, other Personal Protective Equipment as needed
+* Lab mats and wipes
+* Blood tube rocker
+* 10% bleach solution or approved biohazard disinfectant
+* Refrigerated centrifuge (4°C) capable of spinning at a minimum of 2000g
+* -70°C freezer (or colder) or -20°C freezer and dry ice
+* Refrigerator
+* Harvard Trip Balance / Pan balance
+* Water bottles for balance
+* Test tube holders (adapters) for centrifuges
+* Test tube racks / cryovial racks
+* Fixed volume pipettes with tips (MLA) or adjustable pipettes with tips.  Volumes needed to pipette:  0.5 mL, 1.0 mL and 3.0 mL
+* Cryovial and freezer box labels – provided by the LCBR
+* Revco Freezer Boxes 5x5x2 and 5x5x3 and dividers (10 x 10 and 7 x 7 grids)
+* Styrofoam/insulated shipping boxes
+* Reagent bottles/containers for daily use
+* Labels/lab tape for reagents
+* Sharpie pens
+* Emergency eye wash station
+* Biohazard trash can, with large and small biohazard bags (biohazardous waste puncture- proof containers)
 
 
 <div class="center">
