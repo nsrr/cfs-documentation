@@ -9,6 +9,7 @@
 * Thoroughly rub each electrode site with alcohol. This removes oil from the skin.
 * Ask the participant to avoid movements that may cause errors in marking the electrode locations, but encourage the participant to talk.
 * Check the following:
+
  * Bed <u>must</u> be wide enough to support the elbows
  * Participant is comfortable and relaxed
 
