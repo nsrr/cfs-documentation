@@ -17,9 +17,9 @@ MISSING_IMAGE
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/bioelectrical-impedance/7-05-00-procedure.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/bioelectrical-impedance/7-05-01-operator-proficiency-level.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    7.5 Procedure
+    7.5.1 Operator/Examiner Level of Proficiency
   </a>
 
   <a href=":pages_path:/manuals/bioelectrical-impedance" class="btn btn-default">
@@ -27,8 +27,8 @@ MISSING_IMAGE
     Bioelectrical Impedance Procedures
   </a>
 
-  <a href=":pages_path:/manuals/bioelectrical-impedance/7-05-02-electrode-placement.md" class="btn btn-success">
-    7.5.2 Electrode Placement
+  <a href=":pages_path:/manuals/bioelectrical-impedance/7-05-03-abdominal-impedance.md" class="btn btn-success">
+    7.5.3 Abdominal Impedance
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
