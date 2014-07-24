@@ -2,7 +2,7 @@
 
 * The subject should wear little clothing so that the tape may be positioned correctly. The measurement should not be made over clothing. Suggest the subject wear shorts or wear a gown.
 
-1. The subject should sit in a chair with knees and hips flexed to a 90 angle.
+1. The subject should sit in a chair with knees and hips flexed to a 90° angle.
 2. The measurer bends down on the right side and has the subject raise their heel to flex the calf muscle (subject will be resting on the front ball of the foot, heal will be raised).
 3. Using a non-stretching tape measure at the widest point on the calf.
 4. Take measurement twice and record.
