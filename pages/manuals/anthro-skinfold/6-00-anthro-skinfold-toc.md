@@ -32,7 +32,7 @@
     Table of Contents - Manuals
   </a>
 
-  <a href=":pages_path:/manuals/anthro-skinfold/6-01-overview" class="btn btn-success">
+  <a href=":pages_path:/manuals/anthro-skinfold/6-01-overview.md" class="btn btn-success">
     6.1 Overview
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
