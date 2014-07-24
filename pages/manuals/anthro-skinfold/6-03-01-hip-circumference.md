@@ -13,9 +13,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/anthro-skinfold/6-01-overview.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/anthro-skinfold/6-02-materials-needed.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    6.1 Overview
+    6.2 Materials Needed
   </a>
 
   <a href=":pages_path:/manuals/anthro-skinfold" class="btn btn-default">
@@ -23,8 +23,8 @@
     Anthropometry and Skinfold Procedures
   </a>
 
-  <a href=":pages_path:/manuals/anthro-skinfold/6-03-01-hip-circumference.md" class="btn btn-success">
-    6.3 Anthropometry Measurement
+  <a href=":pages_path:/manuals/anthro-skinfold/6-03-02-waist-circumference.md" class="btn btn-success">
+    6.3.2 Waist Circumference
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
