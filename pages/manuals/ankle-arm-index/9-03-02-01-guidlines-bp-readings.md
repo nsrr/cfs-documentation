@@ -1,17 +1,8 @@
 ## 9.3.2.1 Guidelines for Blood Pressure Readings
 
-See <u>General Methods</u> for this measurement.
-
-1. Participant should lay flat, straight knee. Feet will be flexed. Attach the cuff tubing to the manometer.
-2. Turn the Doppler unit on.
-3. Sit next to the participant’s arm.
-4. Locate the brachial artery by palpation. If you need to, you can also locate the brachial artery by using the Doppler.
-5. Apply more ultrasound jelly over brachial artery, if needed.
-6. Locate brachial artery using the Doppler.
-7. Measure the systolic blood pressure using the Doppler. Inflate the cuff quickly to the maximal inflation level
-8. Deflate at 2-3 mm Hg per second to 10 mm Hg below the appearance of systolic pressure
-9. Deflate the cuff quickly and completely.
-10. Record systolic blood pressure in space provided for brachial BP on form.
+* Record all readings to the nearest even digit, rounding up (ex. read any value that appears to fall exactly between the markings on the mercury column to the next higher even marking).
+* Make readings at the top of the meniscus, or rounded surface of the mercury columns
+* When the pressure is released too quickly from a high level, a vacuum is formed above the mercury and the meniscus is distorted. Allow a few moments for it to reappear before reading the manometer or doing a repeat measurement.
 
 
 <div class="center">
