@@ -12,7 +12,7 @@ Determine the pressure to which to inflate the cuff for the measurement of the s
 6. Repeat procedure for both arms.
 
 * Repeat the maximal inflation level if the first attempt was unsatisfactory or you have had to readjust the cuff after measuring the maximal inflation level. Wait 30 seconds before making a second attempt if the first is unsatisfactory.
-* If the brachial pulse is still heard at a level of 270 mm Hg or higher (which means that the maximal inflation level is 300 mm Hg or higher), repeat the maximal inflation level. If the maximal inflation level is still 300 mm Hg, terminate the blood pressure measurements and write in “300” in the place for MIL on the Physical Measurements (PM) form. Indicate the Doppler systolic blood pressure at the level actually heard. NOTE: The Doppler BP will always be higher than the blood pressure taken with a <u>stethoscope</u>. Medical alerts for BP are related to stethoscope readings.
+* If the brachial pulse is still heard at a level of 270 mm Hg or higher (which means that the maximal inflation level is 300 mm Hg or higher), repeat the maximal inflation level. If the maximal inflation level is still 300 mm Hg, terminate the blood pressure measurements and write in “300” in the place for MIL on the Physical Measurements (PM) form. Indicate the Doppler systolic blood pressure at the level actually heard. **<u>NOTE</u>:** The Doppler BP will always be higher than the blood pressure taken with a <u>stethoscope</u>. Medical alerts for BP are related to stethoscope readings.
 
 
 <div class="center">
