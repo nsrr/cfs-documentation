@@ -14,15 +14,15 @@
 * 6.4 Body Mass Index (BMI) Measurement
  * [6.4.1 Age, Sex, Weight, and Height](:pages_path:/manuals/anthro-skinfold/6-04-01-age-sex-weight-height.md)
  * [6.4.2 Skinfold Techniques](:pages_path:/manuals/anthro-skinfold/6-04-02-00-skinfold-techniques.md)
-  * [6.4.2.1 Tricep Skinfold](:pages_path:/manuals/anthro-skinfold/6-04-02-01-tricep-skinfold.md)
-  * [6.4.2.2 Subscapular Skinfold](:pages_path:/manuals/anthro-skinfold/6-04-02-02-subscapular-skinfold.md)
-  * [6.4.2.3 Midaxillary Skinfold](:pages_path:/manuals/anthro-skinfold/6-04-02-03-midaxillary-skinfold.md)
-  * [6.4.2.4 Suprailliac Skinfold](:pages_path:/manuals/anthro-skinfold/6-04-02-04-suprailliac-skinfold.md)
-  * [6.4.2.5 Abdominal Skinfold](:pages_path:/manuals/anthro-skinfold/6-04-02-05-abdominal-skinfold.md)
-  * [6.4.2.6 Chest Skinfold](:pages_path:/manuals/anthro-skinfold/6-04-02-06-chest-skinfold.md)
-  * [6.4.2.7 Bicep Skinfold](:pages_path:/manuals/anthro-skinfold/6-04-02-07-bicep-skinfold.md)
-  * [6.4.2.8 Thigh Skinfold](:pages_path:/manuals/anthro-skinfold/6-04-02-08-thigh-skinfold.md)
-  * [6.4.2.9 Calf Skinfold](:pages_path:/manuals/anthro-skinfold/6-04-02-09-calf-skinfold.md)
+   * [6.4.2.1 Tricep Skinfold](:pages_path:/manuals/anthro-skinfold/6-04-02-01-tricep-skinfold.md)
+   * [6.4.2.2 Subscapular Skinfold](:pages_path:/manuals/anthro-skinfold/6-04-02-02-subscapular-skinfold.md)
+   * [6.4.2.3 Midaxillary Skinfold](:pages_path:/manuals/anthro-skinfold/6-04-02-03-midaxillary-skinfold.md)
+   * [6.4.2.4 Suprailliac Skinfold](:pages_path:/manuals/anthro-skinfold/6-04-02-04-suprailliac-skinfold.md)
+   * [6.4.2.5 Abdominal Skinfold](:pages_path:/manuals/anthro-skinfold/6-04-02-05-abdominal-skinfold.md)
+   * [6.4.2.6 Chest Skinfold](:pages_path:/manuals/anthro-skinfold/6-04-02-06-chest-skinfold.md)
+   * [6.4.2.7 Bicep Skinfold](:pages_path:/manuals/anthro-skinfold/6-04-02-07-bicep-skinfold.md)
+   * [6.4.2.8 Thigh Skinfold](:pages_path:/manuals/anthro-skinfold/6-04-02-08-thigh-skinfold.md)
+   * [6.4.2.9 Calf Skinfold](:pages_path:/manuals/anthro-skinfold/6-04-02-09-calf-skinfold.md)
 
 
 <div class="center">
