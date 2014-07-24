@@ -11,7 +11,7 @@
 9. Write the Person ID number on the side of the tube with a permanent marker.
 10. Store at 4ºC in freezer.
 11. Log the specimen in the “BUCCAL” book.  **This is a crucial step!**
-12. Weekly take buccal sample to the –700 freezer located on the 6th floor of RB&C in Paul Hartman’s office, room 692. The Family Sleep Apnea samples are stored on the top shelf.
+12. Weekly take buccal sample to the –70ºC freezer located on the 6th floor of RB&C in Paul Hartman’s office, room 692. The Family Sleep Apnea samples are stored on the top shelf.
 13. Locate the last box used and put the buccal samples in their new location.
 14. Document the box number, and location within the box. For example, box 19, location A1 (A= the row and 1 = the column).
 15. Bring this information back to the office to be entered into the excel database.
