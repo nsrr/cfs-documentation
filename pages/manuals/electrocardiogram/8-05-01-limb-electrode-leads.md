@@ -2,7 +2,7 @@
 
 ### 8.5.1 Limb Electrode Leads
 
-Begin with the **RIGHT LEG****. This is an important connection as this is the ground connection. A careless skin electrode connection here will influence all ECG leads.
+Begin with the **RIGHT LEG**. This is an important connection as this is the ground connection. A careless skin electrode connection here will influence all ECG leads.
 
 1. On the inner side of the right leg (between the knee and ankle, traditionally placed a few inches above the ankle on the front), place a dot with a felt tip pen or a wax cosmetic pencil.
 2. Prepare an area about 1-2 inches in diameter. Use firm circular motions with the alcohol gauze. Rub about 10 times or until skin becomes red. For participants with dark skin, rub 10 times.
