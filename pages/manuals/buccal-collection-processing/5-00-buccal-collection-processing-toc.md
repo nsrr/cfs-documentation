@@ -9,7 +9,7 @@
  * [5.2.3 Collection Procedure](:pages_path:/manuals/buccal-collection-processing/5-02-03-collection-procedure.md)
 * 5.3 Processing of Buccal Swabs in Preparation for PCR
  * [5.3.1 Materials Needed](:pages_path:/manuals/buccal-collection-processing/5-03-01-materials-needed.md)
- * [5.3.2 Processing Procedure](:pages_path:/manuals/buccal-collection-processing/5-03-02-materials-needed.md)
+ * [5.3.2 Processing Procedure](:pages_path:/manuals/buccal-collection-processing/5-03-02-processing-procedure.md)
 
 
 <div class="center">
