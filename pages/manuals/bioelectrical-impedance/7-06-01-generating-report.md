@@ -30,9 +30,9 @@ MISSING_IMAGE
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/bioelectrical-impedance/7-05-02-electrode-placement.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/bioelectrical-impedance/7-05-03-abdominal-impedance.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    7.5.2.1 Figure 1. Electrode Placement
+    7.5.3 Abdominal Impedance
   </a>
 
   <a href=":pages_path:/manuals/bioelectrical-impedance" class="btn btn-default">
@@ -40,8 +40,8 @@ MISSING_IMAGE
     Bioelectrical Impedance Procedures
   </a>
 
-  <a href=":pages_path:/manuals/bioelectrical-impedance/7-06-01-generating-report.md" class="btn btn-success">
-    7.6 Exporting BIA Data
+  <a href=":pages_path:/manuals/bioelectrical-impedance/7-06-02-updating-ppt-file.md" class="btn btn-success">
+    7.6.2 Updating Participant Files
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
