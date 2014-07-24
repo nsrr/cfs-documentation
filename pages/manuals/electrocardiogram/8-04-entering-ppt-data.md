@@ -16,11 +16,11 @@
 14. Press **Enter**.
 15. The rest of the patient information is on **Medications**. Select the appropriate function key.
 
-* **None (F1) means patient is taking no medications
-* **Unknown (F2) should be used if you do not know what medications the patient is taking
-* **Clear (F3) will erase all medications that are currently **Enter**ed for the patient
-* **Add (F4) can be used to add a medication that the patient is taking
-* **Scroll (F5) allows you to review the patient’s medications one at a time.
+* **None (F1)** means patient is taking no medications
+* **Unknown (F2)** should be used if you do not know what medications the patient is taking
+* **Clear (F3)** will erase all medications that are currently **Enter**ed for the patient
+* **Add (F4)** can be used to add a medication that the patient is taking
+* **Scroll (F5)** allows you to review the patient’s medications one at a time.
 
 16. Press **Enter**.
 17. Press the **Stop** key to return to the main menu
