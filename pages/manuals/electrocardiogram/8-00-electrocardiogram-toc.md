@@ -7,10 +7,10 @@
 * 8.5 Electrode Placement
  * [8.5.1 Limb Electrode Leads](:pages_path:/manuals/electrocardiogram/8-05-01-limb-electrode-leads.md)
  * 8.5.2 Chest Electrod Leads
-   * [8.5.2.1 Locating Electrodes V1 and V2](:pages_path:/manuals/electrocardiogram/8-05-02-01-electrodes-v1-v2.md)
-   * [8.5.2.2 Locating Horizontal Reference Level for Electrodes V4,V5, and V6 (Point E)](:pages_path:/manuals/electrocardiogram/8-05-02-02-locating-point-e.md)
-   * [8.5.2.3 Locating Electrode V6](:pages_path:/manuals/electrocardiogram/8-05-02-03-electrodes-v6.md)
-   * [8.5.2.4 Locating Electrodes V3, V4, and V5](:pages_path:/manuals/electrocardiogram/8-05-02-04-electrodes-v3-v4-v5.md)
+    * [8.5.2.1 Locating Electrodes V1 and V2](:pages_path:/manuals/electrocardiogram/8-05-02-01-electrodes-v1-v2.md)
+    * [8.5.2.2 Locating Horizontal Reference Level for Electrodes V4,V5, and V6 (Point E)](:pages_path:/manuals/electrocardiogram/8-05-02-02-locating-point-e.md)
+    * [8.5.2.3 Locating Electrode V6](:pages_path:/manuals/electrocardiogram/8-05-02-03-electrodes-v6.md)
+    * [8.5.2.4 Locating Electrodes V3, V4, and V5](:pages_path:/manuals/electrocardiogram/8-05-02-04-electrodes-v3-v4-v5.md)
 * [8.6 Acquiring ECG](:pages_path:/manuals/electrocardiogram/8-06-acquiring-ecg.md)
 
 
