@@ -10,7 +10,7 @@
 <div class="btn-group">
   <a href=":pages_path:/manuals/brachial-reactivity/10-02-technical-requirements.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    10.1 Background
+    10.2 Technical Requirements
   </a>
 
   <a href=":pages_path:/manuals/brachial-reactivity" class="btn btn-default">
