@@ -1,4 +1,4 @@
-## 7-02-materials-needed.md
+## 7.2 Materials Needed
 
 * BIA – Quantum X Multifrequency (with fresh 9 volt battery)
 * Alcohol
