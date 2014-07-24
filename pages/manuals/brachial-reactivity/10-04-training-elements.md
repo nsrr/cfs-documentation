@@ -19,8 +19,8 @@
     Brachial Reactivity
   </a>
 
-  <a href=":pages_path:/manuals/brachial-reactivity/10-04-training-elements.md" class="btn btn-success">
-    10.4 Training Elements
+  <a href=":pages_path:/manuals/brachial-reactivity/10-05-study-site-certification.md" class="btn btn-success">
+    10.5 Study Site Certification
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
