@@ -8,7 +8,7 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/pharyngometry//13-12-administrator-guidelines.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/pharyngometry/13-12-administrator-guidelines.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     13.12.1 To Work the Computer While Simultaneously Holding Pharyngometer
   </a>
