@@ -23,7 +23,7 @@
     Rhinometry
   </a>
 
-  <a href=":pages_path:/manuals/rhinometry/12-11-01-wave-pieces.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/rhinometry/12-11-equipment-maintenance.md" class="btn btn-success">
     12.11 Equipment Maintenance
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
