@@ -44,7 +44,7 @@ Calibration should be performed at least once per day if it is going to be used 
     Spirometry
   </a>
 
-  <a href=":pages_path:/manuals/spirometry/11-04-00-preparing-ppt-testing.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/spirometry/11-04-01-entering-ppt-data.md" class="btn btn-success">
     11.4 Preparing for Participant Testing
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
