@@ -25,7 +25,7 @@ Test Quality is judged by the following criteria:
   </a>
 
   <a href=":pages_path:/manuals/rhinometry/12-13-01-01-figure1.md" class="btn btn-success">
-    12.13.1.1 Figure 1 Digital Screen of Rhinometry Testing Program
+    12.13.1.1 Figure 1: Digital Screen of Rhinometry Testing Program
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
