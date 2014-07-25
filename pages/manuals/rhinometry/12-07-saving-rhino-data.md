@@ -1,7 +1,7 @@
 ## 12.7 Saving Rhinometry Data Files
 
 1. Using the left/right arrow keys, highlight **Save** at the bottom of the screen.
-2. Press *Enter*
+2. Press **Enter**
 3. On the very bottom of the screen, there will be a prompt: **“Do you wish to review patient data? Y/N”**, press **Y**.  This will bring up the participant information that you used earlier to enter specific information.
 4. Confirm that all the participant information is correct.  Use the up/down arrow keys to move prompt for the information that you may want to change.
 5. Press **Esc** to exit this screen and return to the Main Acquisition Screen.
