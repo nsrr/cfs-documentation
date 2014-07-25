@@ -29,7 +29,7 @@
 <div class="btn-group">
   <a href=":pages_path:/manuals/rhinometry/12-13-01-01-figure1.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    12.13.1.1 Figure 1 - Digital Screen of Rhinometry Testing Program
+    12.13.1.1 Figure 1: Digital Screen of Rhinometry Testing Program
   </a>
 
   <a href=":pages_path:/manuals/rhinometry" class="btn btn-default">
