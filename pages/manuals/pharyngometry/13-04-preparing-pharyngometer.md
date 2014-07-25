@@ -8,9 +8,9 @@ Using rubber gloves, attach the scuba mouthpiece to end of the pharyngometer tub
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/pharyngometry/13-02-equipment.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/pharyngometry/13-03-computer-setup.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    13.2 Equipment
+    13.3 Computer Setup
   </a>
 
   <a href=":pages_path:/manuals/pharyngometry" class="btn btn-default">
@@ -18,8 +18,8 @@ Using rubber gloves, attach the scuba mouthpiece to end of the pharyngometer tub
     Pharyngometry
   </a>
 
-  <a href=":pages_path:/manuals/pharyngometry/13-04-preparing-pharyngometer.md" class="btn btn-success">
-    13.4 Preparing the Pharyngometer
+  <a href=":pages_path:/manuals/pharyngometry/13-05-entering-ppt-info.md" class="btn btn-success">
+    13.5 Entering Participant Information and Labeling Trial Graphs
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
