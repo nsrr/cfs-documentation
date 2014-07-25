@@ -4,9 +4,13 @@
 * 2. Perform the test, using some derivation of the following:
 
  _“Take in a deep cleansing breath, let it out. Take in another one, let it out.”
+
  “Take in a big, deep breath..."
+
  “Blast it out!”
+
  “Good, keep pushing, keep pushing, keep pushing...”
+
  “Stop. Okay, relax and breathe normally.”_
 
 * 3. Press the **spacebar** to terminate the test.
