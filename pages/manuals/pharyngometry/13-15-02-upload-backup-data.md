@@ -4,8 +4,8 @@ Upon receipt at the Research Center by a designated research assistant responsib
 
 * Windows 2000 or higher, with connections to DCE network.
 * Floppy drive.
-* Oral_scoring.bat batch file installed (found in \\Dcefilesrv01\DCE Share Root\DCE Projects\Family Study\Procedures_Manuals\Data Procedures\).
-* Network drive N:\ mapped to \\Dcefilesrv01\DCE Share Root\DCE Projects\Family Study
+* Oral_scoring.bat batch file installed (found in <u>\\Dcefilesrv01\DCE Share Root\DCE Projects\Family Study\Procedures_Manuals\Data Procedures</u>).
+* Network drive N:\ mapped to <u>\\Dcefilesrv01\DCE Share Root\DCE Projects\Family Study</u>
 * SAS for Windows V9.1x installed.
 * Pharyngometry scoring software (ORAL 5.03) installed
 
