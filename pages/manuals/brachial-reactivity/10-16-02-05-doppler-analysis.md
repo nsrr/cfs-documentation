@@ -1,6 +1,6 @@
 ## 10.16.2.5 Doppler Velocity Analysis
 
-Videocassette tapes will be kept in a locked metal file cabinet located with limited access only by research personnel. This room is located in one of the main hospital buildings in a locked, limited access corridor protected by standard fire safety measures and sprinkler systems. All other source documents including print outs from the videocassette tape for diameter measurements, core logbooks and correspondence will be kept in a locked, metal file cabinet in the Triangle Building.
+Doppler velocity analysis will be made by the ultrasonographer at the study site with electronic tracing from the ultrasound system. Hard-copy prints from the videocassette tape typically contain the frame number on the videocassette tape and time. Time will always be recorded on the videocassette tape irrespective of ultrasound system tape.
 
 
 <div class="center">
