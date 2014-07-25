@@ -3,7 +3,7 @@
 * [11.1 Purpose](:pages_path:/manuals/spirometry/11-01-purpose.md)
 * [11.2 Materials Needed](:pages_path:/manuals/spirometry/11-02-materials-needed.md)
 * [11.3 Calibrating the Multispiro Sensor](:pages_path:/manuals/spirometry/11-03-calibrating-multispiro-sensor.md)
-* [11.4 Preparing for Participant Testing](:pages_path:/manuals/spirometry/11-04-00-preparing-ppt-testing.md)
+* 11.4 Preparing for Participant Testing
  * [11.4.1 Entering Participant Data](:pages_path:/manuals/spirometry/11-04-01-entering-ppt-data.md)
  * [11.4.2 Coaching the Participant](:pages_path:/manuals/spirometry/11-04-02-coaching-ppt.md)
 * [11.5 Performing the Test](:pages_path:/manuals/spirometry/11-05-performing-test.md)
