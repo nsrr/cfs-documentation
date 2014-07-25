@@ -10,7 +10,7 @@
 * **Display priority** – spectral trace
 * **Duplex update** – 1 sweep
 * **Sweep speed** – To display 3-5 complete waveforms/sweep
-* Doppler frequency** – As low as possible
+* **Doppler frequency** – As low as possible
 * **Power** – 30-50%
 * **Receive Gain** – Adjust as necessary for optimum signal
 * **Pulse repetition frequency** – 2-4 kHz for baseline
