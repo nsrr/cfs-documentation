@@ -8,7 +8,7 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/pharyngometry//13-11-08-ppt-breathe-through-nose.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/pharyngometry/13-11-08-ppt-breathe-through-nose.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     13.11.8 Participant Continues to Breathe Through Nose When Asked to Breathe Through Mouth Only
   </a>
