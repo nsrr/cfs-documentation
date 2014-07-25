@@ -3,15 +3,15 @@
 * 1. After properly preparing the patient and zeroing the sensor, you are now ready to perform the actual testing.  Press the **spacebar** to begin the test.
 * 2. Perform the test, using some derivation of the following:
 
- _“Take in a deep cleansing breath, let it out. Take in another one, let it out.”
+ _“Take in a deep cleansing breath, let it out. Take in another one, let it out.”_
 
- “Take in a big, deep breath..."
+ _“Take in a big, deep breath..."_
 
- “Blast it out!”
+ _“Blast it out!”_
 
- “Good, keep pushing, keep pushing, keep pushing...”
+ _“Good, keep pushing, keep pushing, keep pushing...”_
 
- “Stop. Okay, relax and breathe normally.”_
+ _“Stop. Okay, relax and breathe normally.”_
 
 * 3. Press the **spacebar** to terminate the test.
 * 4. Select **Y** to accept the test or N to discard it.  Sometimes it is necessary to accept a test even though it may contain certain error messages.  For instance, some patients cannot blow a full six seconds.  This does not make the test invalid.
