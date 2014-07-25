@@ -28,7 +28,7 @@ RF1234ns.000
     Rhinometry
   </a>
 
-  <a href=":pages_path:/manuals/rhinometry/12-12-02-00-upload-backup-data.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/rhinometry/12-12-02-upload-backup-data.md" class="btn btn-success">
     12.12.2 Upload and Backup of Data
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
