@@ -26,8 +26,8 @@ Raw data disks are returned to the Research Center for processing.
     Pharyngometry
   </a>
 
-  <a href=":pages_path:/manuals/pharyngometry/13-15-01-testing-raw-data-dl.md" class="btn btn-success">
-    13.15 Data Procedure
+  <a href=":pages_path:/manuals/pharyngometry/13-15-02-upload-backup-data.md" class="btn btn-success">
+    13.15.2 Upload and Backup of Data
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
