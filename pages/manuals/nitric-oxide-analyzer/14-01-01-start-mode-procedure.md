@@ -29,7 +29,7 @@
     Nitric Oxide Analyzer
   </a>
 
-  <a href=":pages_path:/manuals/nitric-oxide-analyzer/13-02-equipment.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/nitric-oxide-analyzer/14-01-02-calibration-gas-procedure.md" class="btn btn-success">
     14.1.2 Calibration Gas Procedure
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
