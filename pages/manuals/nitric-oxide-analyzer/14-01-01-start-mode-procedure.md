@@ -26,7 +26,7 @@
 
   <a href=":pages_path:/manuals/nitric-oxide-analyzer" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    nitric-oxide-analyzer
+    Nitric Oxide Analyzer
   </a>
 
   <a href=":pages_path:/manuals/nitric-oxide-analyzer/13-02-equipment.md" class="btn btn-success">
