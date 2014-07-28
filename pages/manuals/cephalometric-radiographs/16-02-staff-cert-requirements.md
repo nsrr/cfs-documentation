@@ -24,7 +24,7 @@ Additionally, candidates must attend a radiation safety course offered by CWRU. 
 
   <a href=":pages_path:/manuals/cephalometric-radiographs" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Conners Performance Test
+    Cephalometric Radiographs
   </a>
 
   <a href=":pages_path:/manuals/cephalometric-radiographs/16-03-ppt-preparation.md" class="btn btn-success">
