@@ -18,7 +18,7 @@ In addition to the participant’s name and date of birth, also recorded on the 
 
   <a href=":pages_path:/manuals/cephalometric-radiographs" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
-    Conners Performance Test
+    Cephalometric Radiographs
   </a>
 
   <a href=":pages_path:/manuals/cephalometric-radiographs/16-02-staff-cert-requirements.md" class="btn btn-success">
