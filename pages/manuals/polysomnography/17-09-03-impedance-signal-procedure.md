@@ -39,7 +39,7 @@ Checking of the signal can be done in any order however it is described here in 
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/polysomnography/17-09-02-00-impedance-signal-quality-overview.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/polysomnography/17-09-02-impedance-signal-quality-overview.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     17.9.2 Impedance and Signal Quality Overview
   </a>
