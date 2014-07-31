@@ -33,7 +33,7 @@ This form includes the following:
     Polysomnography
   </a>
 
-  <a href=":pages_path:/manuals/polysomnography/17-09-02-00-impedance-signal-quality-overview.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/polysomnography/17-09-02-impedance-signal-quality-overview.md" class="btn btn-success">
     17.9.2 Impedance and Signal Quality Overview
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
