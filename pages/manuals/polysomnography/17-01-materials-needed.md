@@ -6,7 +6,7 @@ Below is a list of supplies for single person use (however, make sure you pack e
 * 4 X 4 gauze pads
 * 1 bottle Pre-Tac adhesive synergist
 * 1 tape measure
-* precut 1 x 1 gauze squares
+* Precut 1 x 1 gauze squares
 * 1 scissors
 * 1 small bottle acetone or acetone prep pads
 * 2 cotton tip applicators
