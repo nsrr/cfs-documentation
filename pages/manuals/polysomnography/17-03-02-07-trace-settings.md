@@ -22,6 +22,7 @@
 | 18      | POSITION    | Off       | Off       | Off   |
 
 7/25/2001 – Changed channel 5 EMG1-EMG2 to HP = 1, LP = 35, and 60Hz = off
+
 8/20/2001 – Changed EMG back to original settings (changed to 256 now back to 128 – original setting)
 
 
