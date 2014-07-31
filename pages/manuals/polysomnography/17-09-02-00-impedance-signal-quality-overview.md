@@ -6,11 +6,11 @@ For EEG, EOG, and EMG you want to achieve impedance of < 10k.  Most important is
 
 When troubleshooting high impedance, first check that the system (all cables) are connected and electrodes are tightly in place.  Loose electrodes create excessive impedance.
 
-17.9.2.1 If All Electrodes Register High
+### 17.9.2.1 If All Electrodes Register High
 
 During the impedance check, if all electrodes register high (>10 k) remove the ground electrodes (at Cz and the forehead), re-prep the sites and replace the electrodes.
 
-17.9.2.2 If Only Certain Electrodes Register High
+### 17.9.2.2 If Only Certain Electrodes Register High
 
 * 1. If impedance of any pair of electrodes (other than ECG) is >10k, or the difference between any pair of electrodes is > 5 k, remove the electrode, re-prep the electrode site and replace the electrode.
 * 2. If, on a second placement, impedance is still high there are two possible problems:
