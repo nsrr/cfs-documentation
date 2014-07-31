@@ -4,6 +4,7 @@
 * Inflate the cuff while the arm is elevated straight up.
 * Open and close the fist several times rapidly after the cuff has been inflated above the systolic level.
 
+
 <div class="center">
 <div class="btn-group">
   <a href=":pages_path:/manuals/resting-blood-pressure/2-07-01-procedure.md" class="btn btn-default">

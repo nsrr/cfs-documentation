@@ -12,7 +12,7 @@ The following additional supplies should be stocked in the processing area:
 * 4.0 mL Sarstedt cryovials
 * 10.0  mL Krackler cryovials with yellow and green cap inserts
 * 1-2 L sterile bottles to store pooled urine collections
-* 10% bleach solution or approved disinfectant
+* 10% bleach solution or approved disinfectant'
 * Lab mats and wipes
 * Pipets. Volumes needed to pipette: 3 mL, 9 mL and 25 mL
 * Refrigerator

@@ -10,6 +10,7 @@ Participants should empty their bladders prior to the 10:30 PM blood draw.   Thi
 
 Rarely, a patient will refuse to provide a urine sample.  Please keep a list of the ID numbers   of any of these participants and identify which test they refused.
 
+
 <div class="center">
 <div class="btn-group">
   <a href=":pages_path:/manuals/urine-collection-processing/4-02-equipment-supplies.md" class="btn btn-default">

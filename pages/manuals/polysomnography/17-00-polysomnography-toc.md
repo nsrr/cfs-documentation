@@ -36,16 +36,16 @@
      * [17.8.3.13 Attachement Sites for Gold Disk Electrodes](:pages_path:/manuals/polysomnography/17-08-03-13-attachment-sites.md)
      * [17.8.3.14 Techniques for Disk Electrode Application](:pages_path:/manuals/polysomnography/17-08-03-14-techniques-application.md)
  * [17.8.4 Step 4: Attach the Position Sensor](:pages_path:/manuals/polysomnography/17-08-04-step4.md)
- * [17.8.5 Step 5: Attach Oximeter](:pages_path:/manuals/polysomnography/17-08-05-00-step5.md)
+ * [17.8.5 Step 5: Attach Oximeter](:pages_path:/manuals/polysomnography/17-08-05-step5.md)
      * 17.8.5.1 Disposable Probe
      * 17.8.5.2 Non-Disposable Probe
- * [17.8.6 Step 6: Attach Termistor](:pages_path:/manuals/polysomnography/17-08-06-step6.md)
+ * [17.8.6 Step 6: Attach Thermistor](:pages_path:/manuals/polysomnography/17-08-06-step6.md)
  * [17.8.7 Step 7: Attach Nasal Cannula](:pages_path:/manuals/polysomnography/17-08-07-step7.md)
  * [17.8.8 Step 8: Attach Leg Sensors](:pages_path:/manuals/polysomnography/17-08-08-step8.md)
  * [17.8.9 Step 9: Attach Snore Microphone](:pages_path:/manuals/polysomnography/17-08-09-step9.md)
 * 17.9 Signal Verification
  * [17.9.1 Signal Verification Form](:pages_path:/manuals/polysomnography/17-09-01-signal-verification-form.md)
- * [17.9.2 Impedance and Signal Quality Overview](:pages_path:/manuals/polysomnography/17-09-02-00-impedance-signal-quality-overview.md)
+ * [17.9.2 Impedance and Signal Quality Overview](:pages_path:/manuals/polysomnography/17-09-02-impedance-signal-quality-overview.md)
      * 17.9.2.1 If All Electrodes Register High
      * 17.9.2.2 If Only Certain Electrodes Register High
  * [17.9.3 Impedance and Signal Quality Procedure](:pages_path:/manuals/polysomnography/17-09-03-impedance-signal-procedure.md)

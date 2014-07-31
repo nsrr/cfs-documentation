@@ -1,8 +1,9 @@
-## 10.2 Technical Requirements
+## 10.2 Training Objectives
 
-The procedures will be done by the same ultrasonographer who is trained, or who will be trained (preferably for 3-6 months), to minimize ultrasonographer-induced variability in the image acquisition.  The ultrasound system and procedure technique will remain consistent at the study site.  The study site will have documentation, preferably by the manufacturer of the ultrasound machine or an ISO 9001-registered ultrasound service company, that the machine is given a semiannual quality assurance audit indicating that it meets all the manufacturer’s field Q.A.A specifications.  It is recommended that the ultrasonographer measure his/her own pressure with the device once a month to ensure consistent operation.
-
-If the study site has the necessary equipment, videocassette tapes will be duplicated and kept on file at the site ultrasound laboratory.
+1. To correctly perform the sequence of tasks for the brachial ultrasound procedure.
+2. To acquire high-quality images for analysis
+3. To understand and identify the various sources of variability in image acquisition, measurement error and artifacts.
+4. To properly collect and record the study information as defined in the Brachial Artery Ultrasound Procedure section.
 
 
 <div class="center">

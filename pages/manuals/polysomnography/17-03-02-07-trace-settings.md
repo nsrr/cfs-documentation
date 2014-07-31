@@ -26,7 +26,6 @@
 8/20/2001 – Changed EMG back to original settings (changed to 256 now back to 128 – original setting)
 
 
-
 <div class="center">
 <div class="btn-group">
   <a href=":pages_path:/manuals/polysomnography/17-03-02-06-table3-channels-sampling-rates.md" class="btn btn-default">

@@ -38,7 +38,7 @@
  * [13.15.3 Check Pharyngometry Files](:pages_path:/manuals/pharyngometry/13-15-03-check-pharyn-files.md)
 * 13.16 Score Pharyngometry Curves and Print Reports
   * [13.16.1 The Pharyngometry Printout](:pages_path:/manuals/pharyngometry/13-16-01-00-pharyn-printout.md)
-   * [13.16.1.1 Figure 1: Digital Screen of Pharyngometry Testing Program](:pages_path:/manuals/pharyngometry/13-16-01-01-pharyn-printout.md)
+   * [13.16.1.1 Figure 1: Digital Screen of Pharyngometry Testing Program](:pages_path:/manuals/pharyngometry/13-16-01-01-figure1.md)
   * [13.16.2 Installing the ORAL 5.04 Scoring Program](:pages_path:/manuals/pharyngometry/13-16-02-installing-oral-program.md)
   * [13.16.3 Scoring Procedure](:pages_path:/manuals/pharyngometry/13-16-03-scoring-procedure.md)
 

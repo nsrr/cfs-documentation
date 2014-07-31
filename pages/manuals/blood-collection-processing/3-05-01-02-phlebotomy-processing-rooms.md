@@ -2,6 +2,7 @@
 
 The blood drawing (all three draws) takes place in the patient’s room at the GCRC.  The room is equipped with all of the necessary blood drawing supplies.  A plastic tray or cart is equipped with all of the materials and vials that are used in the blood drawing procedure.   A separate processing room contains an area for processing activities and the centrifuge, refrigerator, and freezer required for handling and storage.
 
+
 <div class="center">
 <div class="btn-group">
   <a href=":pages_path:/manuals/blood-collection-processing/3-05-01-01-ppt-preparation.md" class="btn btn-default">
