@@ -9,9 +9,9 @@ Within one day of the lab visit, check equipment and supplies.
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/polysomnography/17-02-01-certification.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/polysomnography/17-03-01-ppt-prep.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    17.2.1 Certification
+    17.3.1 Participant Preparation
   </a>
 
   <a href=":pages_path:/manuals/polysomnography" class="btn btn-default">
@@ -19,8 +19,8 @@ Within one day of the lab visit, check equipment and supplies.
     Polysomnography
   </a>
 
-  <a href=":pages_path:/manuals/polysomnography/17-03-02-00-equipment-prep.md" class="btn btn-success">
-    17.3.2 Equipment Preparation
+  <a href=":pages_path:/manuals/polysomnography/17-03-02-01-control-module.md" class="btn btn-success">
+    17.3.2.1 Control Module
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
