@@ -19,6 +19,8 @@
  * EMG 2 – Orange (right submental)
  * EMG 3 – Brown (left submental)
 
+MISSING_IMAGE
+
 
 <div class="center">
 <div class="btn-group">
