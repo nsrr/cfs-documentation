@@ -4,6 +4,9 @@ The table below shows the PIB/headbox configuration for Family as it is displaye
 
 MISSING_IMAGE
 
+_Positive leads are blue on the PIB and Negative leads are black on the PIB._
+
+
 <div class="center">
 <div class="btn-group">
   <a href=":pages_path:/manuals/polysomnography/17-03-02-02-pib.md" class="btn btn-default">
