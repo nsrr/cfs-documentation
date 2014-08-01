@@ -24,9 +24,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/polysomnography/17-14-07-creating-sas-reports.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/polysomnography/17-15-00-checking-outliers.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    17.14.7 Creating SAS Reports
+    17.15 Checking Outliers After Scoring
   </a>
 
   <a href=":pages_path:/manuals/polysomnography" class="btn btn-default">
@@ -34,8 +34,8 @@
     Polysomnography
   </a>
 
-  <a href=":pages_path:/manuals/polysomnography/17-15-01-checking-outliers-procedure.md" class="btn btn-success">
-    17.15.1 Checking Outliers Procedure
+  <a href=":pages_path:/manuals/polysomnography/17-15-02-troubleshooting.md" class="btn btn-success">
+    17.15.2 Troubleshooting
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
