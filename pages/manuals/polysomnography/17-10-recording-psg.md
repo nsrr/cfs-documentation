@@ -23,7 +23,7 @@
 
 **<u>NOTE</u>:** Must at least select ‘Configuration’ to be able to record. Next to the blinking box on the icon toolbar the patient information will be displayed.
 
-## 17.10.2 Set the Computer to Record the Sleep Study
+### 17.10.2 Set the Computer to Record the Sleep Study
 
 1. While in the View screen, select **Record** icon on the tool bar. Make sure you only click once. Twice will turn it off.
 2. Check the ‘blinking’ icon. It should now read REC (in red) for recording.
