@@ -2,8 +2,8 @@
 
 The chart of arm circumference measurements and corresponding cuff sizes (below) is consulted, and the indicated cuff size is checked on the study form and used. (A copy of this chart should be attached to the sphygmomanometer for easy reference.)  If the proper cuff size is wider than the length of the arm, use the next smaller cuff in order to get the most reliable readings.  This chart should be consulted for each arm measurement. The markings found on most BP cuffs should not be used for reference, as they may be incorrect.
 
-|:----------------------:|:----------------------:|
 | ARM CIRCUMFERENCE (cm) | CUFF SIZE (cm)         |
+|:----------------------:|:----------------------:|
 | Up to 5.9              | “newborn”              |
 | 6.0 to 16.0            | “infant”               |
 | 16.1 to 26.0           | “child” or “pediatric” |
