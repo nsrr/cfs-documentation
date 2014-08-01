@@ -23,6 +23,12 @@
 
 **<u>NOTE</u>:** Must at least select ‘Configuration’ to be able to record. Next to the blinking box on the icon toolbar the patient information will be displayed.
 
+## 17.10.2 Set the Computer to Record the Sleep Study
+
+1. While in the View screen, select **Record** icon on the tool bar. Make sure you only click once. Twice will turn it off.
+2. Check the ‘blinking’ icon. It should now read REC (in red) for recording.
+3. You are now ready to start signal verification.
+
 
 <div class="center">
 <div class="btn-group">
@@ -36,8 +42,8 @@
     Polysomnography
   </a>
 
-  <a href=":pages_path:/manuals/polysomnography/17-10-02-set-computer-record-study.md" class="btn btn-success">
-    17.10.2 Set the Computer to Record the Sleep Study
+  <a href=":pages_path:/manuals/polysomnography/17-11-leaving-lab.md" class="btn btn-success">
+    17.11 Leaving the Lab
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

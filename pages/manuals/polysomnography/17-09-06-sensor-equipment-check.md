@@ -20,7 +20,7 @@ Now that you have ascertained that all sensors have been properly applied, you w
     Polysomnography
   </a>
 
-  <a href=":pages_path:/manuals/polysomnography/17-10-01-starting-new-study.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/polysomnography/17-10-recording-psg.md" class="btn btn-success">
     17.10 Recording the PSG
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
