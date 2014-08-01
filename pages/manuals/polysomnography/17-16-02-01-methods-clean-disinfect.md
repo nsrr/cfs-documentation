@@ -14,7 +14,7 @@ High-level disinfection is appropriate to inactivate the human immunodeficiency 
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/polysomnography/17-16-01-00-electrode-overview.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/polysomnography/17-16-01-electrode-overview.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     17.16.1 Electrode Overview
   </a>
