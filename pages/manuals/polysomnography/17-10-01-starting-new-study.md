@@ -2,15 +2,15 @@
 
 ### 17.10.1 Starting a New Study
 
-1. Turn on the computer.
-2. Make sure the control box and Patient Interface Box (PIB) and connected and plugged in.
-3. Click on **NetBeacon (Record) Icon**.
-4. “E-Sleep” display box will come up.
-5. Double click on the appropriate monitor that you will be using. Family has two monitors #266 and #269.
-6. Viewing window with signals will be displayed. Maximize window to full screen.
-7. Toggle off of **View** (single click on the tool bar).
-8. Click on **New** located on the toolbar.
-9. Enter patient information:
+* 1. Turn on the computer.
+* 2. Make sure the control box and Patient Interface Box (PIB) and connected and plugged in.
+* 3. Click on **NetBeacon (Record) Icon**.
+* 4. “E-Sleep” display box will come up.
+* 5. Double click on the appropriate monitor that you will be using. Family has two monitors #266 and #269.
+* 6. Viewing window with signals will be displayed. Maximize window to full screen.
+* 7. Toggle off of **View** (single click on the tool bar).
+* 8. Click on **New** located on the toolbar.
+* 9. Enter patient information:
 
  * **Surname:** Family and Personi number (F1234567)
  * **Given name:** Leave blank
@@ -19,7 +19,9 @@
  * Select **FamilySUM.** It will be highlighted.
  * **Prompt will appear:** “About to apply configuration for new study? Yes/No.” Select Yes.
 
-10. Click **OK** at the bottom.
+* 10. Click **OK** at the bottom.
+
+**<u>NOTE</u>:** Must at least select ‘Configuration’ to be able to record. Next to the blinking box on the icon toolbar the patient information will be displayed.
 
 
 <div class="center">
