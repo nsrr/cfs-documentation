@@ -73,7 +73,7 @@ Check with another scorer.  If outlier is real, on the QS form for Question 29d 
     Polysomnography
   </a>
 
-  <a href=":pages_path:/manuals/polysomnography/17-16-01-00-electrode-overview.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/polysomnography/17-16-01-electrode-overview.md" class="btn btn-success">
     17.16 PSG Equipment Care and Maintenance
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
