@@ -1,4 +1,4 @@
-## 3.6.7 Aliquoting Description and Scheme - 10:00 AM
+## 3.6.8 Aliquoting Description and Scheme - 10:00 AM
 
 <u>10:00 AM Aliquot Assignments</u>:
 
@@ -19,9 +19,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/blood-collection-processing/3-06-06-aliquoting-description-800AM.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing/3-06-07-aliquoting-description-800AM.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    3.6.6 Aliquoting Description and Scheme - 8:00 AM
+    3.6.7 Aliquoting Description and Scheme - 8:00 AM
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
@@ -29,8 +29,8 @@
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing/3-06-08-01-edta-scat1-citrate.md" class="btn btn-success">
-    3.6.8 Centrifugation
+  <a href=":pages_path:/manuals/blood-collection-processing/3-06-09-special-circumstances.md" class="btn btn-success">
+    3.6.9 Special Circumstances
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

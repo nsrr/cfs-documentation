@@ -52,9 +52,9 @@
  * [17.9.4 Troubleshooting Bad Signals](:pages_path:/manuals/polysomnography/17-09-04-troubleshooting.md)
  * [17.9.5 Priority of Signals](:pages_path:/manuals/polysomnography/17-09-05-signals-priority.md)
  * [17.9.6 Final Sensor Equipment Check](:pages_path:/manuals/polysomnography/17-09-06-sensor-equipment-check.md)
-* 17.10 Recording the PSG
- * [17.10.1 Starting a New Study](:pages_path:/manuals/polysomnography/17-10-01-starting-new-study.md)
- * [17.10.2 Set the Computer to Record the Sleep Study](:pages_path:/manuals/polysomnography/17-10-02-set-computer-record-study.md)
+* [17.10 Recording the PSG](:pages_path:/manuals/polysomnography/17-10-recording-psg.md)
+ * 17.10.1 Starting a New Study
+ * 17.10.2 Set the Computer to Record the Sleep Study
 * [17.11 Leaving the Lab](:pages_path:/manuals/polysomnography/17-11-leaving-lab.md)
 * [17.12 Morning Arrival](:pages_path:/manuals/polysomnography/17-12-morning-arrival.md)
 * [17.13 Data Management](:pages_path:/manuals/polysomnography/17-13-00-data-management.md)
@@ -82,17 +82,17 @@
      * 17.15.2.8 RDI=0
      * 17.15.2.9 Maximum Length of Resp. Event >150 Sec
 * 17.16 PSG Equipment Care and Maintenance
- * [17.16.1 Electrode Overview](:pages_path:/manuals/polysomnography/17-16-01-00-electrode-overview.md)
+ * [17.16.1 Electrode Overview](:pages_path:/manuals/polysomnography/17-16-01-electrode-overview.md)
      * 17.16.1.1 Keep Gold Disks Clean
      * 17.16.1.2 Disinfect Gold Disks Between Participants
      * 17.16.1.3 Treat Electrode Wires with Respect
      * 17.16.1.4 Cleaning and Disinfection Before the First Use
- * 17.16.2 Cleaning and Disinfection of Equipment
-     * [17.16.2.1 Methods for Cleaning/Disinfection](:pages_path:/manuals/polysomnography/17-16-02-01-methods-clean-disinfect.md)
-     * [17.16.2.2 Gold Disk Electrodes](:pages_path:/manuals/polysomnography/17-16-02-02-gold-disk-electrodes.md)
-     * [17.16.2.3 Thermistor](:pages_path:/manuals/polysomnography/17-16-02-03-thermistor.md)
-     * [17.16.2.4 Oximeter Probe, Position Sensor, and ECG Electrode Wires](:pages_path:/manuals/polysomnography/17-16-02-04-oximeter-probe-etc.md)
-     * [17.16.2.5 Respiratory Band Covers](:pages_path:/manuals/polysomnography/17-16-02-05-resp-band-covers.md)
+ * [17.16.2 Cleaning and Disinfection of Equipment](:pages_path:/manuals/polysomnography/17-16-02-clean-disinfect.md)
+     * 17.16.2.1 Methods for Cleaning/Disinfection
+     * 17.16.2.2 Gold Disk Electrodes
+     * 17.16.2.3 Thermistor
+     * 17.16.2.4 Oximeter Probe, Position Sensor, and ECG Electrode Wires
+     * 17.16.2.5 Respiratory Band Covers
  * [17.16.3 Masimo Calibration Procedures](:pages_path:/manuals/polysomnography/17-16-03-masimo-calibration.md)
  * [17.16.4 Body Position Sensor Calibration Procedures](:pages_path:/manuals/polysomnography/17-16-04-position-sensor-calibration.md)
 

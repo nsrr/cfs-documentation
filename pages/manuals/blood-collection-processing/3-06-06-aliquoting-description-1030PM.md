@@ -1,4 +1,4 @@
-## 3.6.5 Aliquoting Description and Scheme - 10:30 PM
+## 3.6.6 Aliquoting Description and Scheme - 10:30 PM
 
 <u>10:30 PM Aliquot Assignments</u>:
 
@@ -39,9 +39,9 @@ Once the samples are aliquoted, the EDTA, Citrate and SCAT-1 blood collection tu
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/blood-collection-processing/3-06-04-summary-timing-issues.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing/3-06-05-summary-timing-issues.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    3.6.4 Summary of Timing Issues
+    3.6.5 Summary of Timing Issues
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
@@ -49,8 +49,8 @@ Once the samples are aliquoted, the EDTA, Citrate and SCAT-1 blood collection tu
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing/3-06-06-aliquoting-description-800AM.md" class="btn btn-success">
-    3.6.6 Aliquoting Description and Scheme - 8:00 AM
+  <a href=":pages_path:/manuals/blood-collection-processing/3-06-07-aliquoting-description-800AM.md" class="btn btn-success">
+    3.6.7 Aliquoting Description and Scheme - 8:00 AM
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

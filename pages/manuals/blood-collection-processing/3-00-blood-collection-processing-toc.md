@@ -27,14 +27,18 @@
  * [3.6.1 Overview](:pages_path:/manuals/blood-collection-processing/3-06-01-overview.md)
    * 3.6.1.1 Blind Duplicate Overview
  * [3.6.2 Daily Procedures](:pages_path:/manuals/blood-collection-processing/3-06-02-daily-procedures.md)
- * [3.6.3 Aliquoting Sample Tubes](:pages_path:/manuals/blood-collection-processing/3-06-03-aliquoting-sample-tubes.md)
- * [3.6.4 Summary of Timing Issues](:pages_path:/manuals/blood-collection-processing/3-06-04-summary-timing-issues.md)
- * [3.6.5 Aliquoting Description and Scheme - 10:30 PM](:pages_path:/manuals/blood-collection-processing/3-06-05-aliquoting-description-1030PM.md)
- * [3.6.6 Aliquoting Description and Scheme - 8:00 AM](:pages_path:/manuals/blood-collection-processing/3-06-06-aliquoting-description-800AM.md)
- * [3.6.7 Aliquoting Description and Scheme - 10:00 AM](:pages_path:/manuals/blood-collection-processing/3-06-07-aliquoting-description-1000AM.md)
- * 3.6.8 Centrifugation
-   * [3.6.8.1 EDTA, SCAT-1, and Citrate Tubes](:pages_path:/manuals/blood-collection-processing/3-06-08-01-edta-scat1-citrate.md)
-   * [3.6.8.2 Serum](:pages_path:/manuals/blood-collection-processing/3-06-08-02-serum.md)
+  *[3.6.3 Centrifugation](:pages_path:/manuals/blood-collection-processing/3-06-03-centrifugation.md)
+   * 3.6.3.1 EDTA, SCAT-1, and Citrate Tubes
+   * 3.6.3.2 Serum
+ * [3.6.4 Aliquoting Sample Tubes](:pages_path:/manuals/blood-collection-processing/3-06-04-aliquoting-sample-tubes.md)
+  * 3.6.4.1 Procedures for Special Anticoagulant Tubes (SCAT-I, SCAT-II)
+  * 3.6.4.2 Procedures for Platelet Tube (Diatube H)
+  * 3.6.4.3 Any Citrate Tube for Factor VIIc Assays
+  * 3.6.4.4 Any Citrate Tube for PAI-1 Assays
+ * [3.6.5 Summary of Timing Issues](:pages_path:/manuals/blood-collection-processing/3-06-05-summary-timing-issues.md)
+ * [3.6.6 Aliquoting Description and Scheme - 10:30 PM](:pages_path:/manuals/blood-collection-processing/3-06-06-aliquoting-description-1030PM.md)
+ * [3.6.7 Aliquoting Description and Scheme - 8:00 AM](:pages_path:/manuals/blood-collection-processing/3-06-07-aliquoting-description-800AM.md)
+ * [3.6.8 Aliquoting Description and Scheme - 10:00 AM](:pages_path:/manuals/blood-collection-processing/3-06-08-aliquoting-description-1000AM.md)
  * [3.6.9 Special Circumstances](:pages_path:/manuals/blood-collection-processing/3-06-09-special-circumstances.md)
    * 3.6.9.1 Blind Duplicate Special Circumstances
  * [3.6.10 Processing Completion](:pages_path:/manuals/blood-collection-processing/3-06-10-00-processing-completion.md)

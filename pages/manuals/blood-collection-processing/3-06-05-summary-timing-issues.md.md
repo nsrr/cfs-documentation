@@ -1,4 +1,4 @@
-## 3.6.4 Summary of Timing Issues
+## 3.6.5 Summary of Timing Issues
 
 **After aliquoting, ALL samples must be frozen within 10 minutes.** After blood drawing, time before centrifugation:
 
@@ -8,9 +8,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/blood-collection-processing/3-06-03-aliquoting-sample-tubes.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing/3-06-04-aliquoting-sample-tubes.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    3.6.3 Aliquoting Sample Tubes
+    3.6.4 Aliquoting Sample Tubes
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
@@ -18,8 +18,8 @@
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing/3-06-05-aliquoting-description-1030PM.md" class="btn btn-success">
-    3.6.5 Aliquoting Description and Scheme - 10:30 PM
+  <a href=":pages_path:/manuals/blood-collection-processing/3-06-06-aliquoting-description-1030PM.md" class="btn btn-success">
+    3.6.6 Aliquoting Description and Scheme - 10:30 PM
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

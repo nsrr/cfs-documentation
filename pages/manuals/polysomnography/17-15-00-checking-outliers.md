@@ -7,7 +7,6 @@ After study is scored and SAS report created, report has to be checked for the p
 * Name of the SAS report has to be Participant ID with added the letter "S" at the beginning and file has to be saved as a text file (extension .txt).
 
 
-
 <div class="center">
 <div class="btn-group">
   <a href=":pages_path:/manuals/polysomnography/17-14-07-creating-sas-reports.md" class="btn btn-default">

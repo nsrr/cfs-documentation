@@ -1,4 +1,4 @@
-## 3.6.6 Aliquoting Description and Scheme - 8:00 AM
+## 3.6.7 Aliquoting Description and Scheme - 8:00 AM
 
 <u>8:00 AM Aliquot Assignments</u>: * indicates samples for blind duplicates.  The blind duplicate tube is collected <u>after</u> the regular tubes are filled.  It would be the fifth tube filled at the **8:00 AM draw**.  The following blind duplicate tube types will be drawn:
 
@@ -68,9 +68,9 @@ Once the samples are aliquoted, the EDTA, Citrate and SCAT-1 blood collection tu
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/blood-collection-processing/3-06-05-aliquoting-description-1030PM.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing/3-06-06-aliquoting-description-1030PM.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    3.6.5 Aliquoting Description and Scheme - 10:30 PM
+    3.6.6 Aliquoting Description and Scheme - 10:30 PM
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
@@ -78,8 +78,8 @@ Once the samples are aliquoted, the EDTA, Citrate and SCAT-1 blood collection tu
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing/3-06-07-aliquoting-description-1000AM.md" class="btn btn-success">
-    3.6.7 Aliquoting Description and Scheme - 10:00 AM
+  <a href=":pages_path:/manuals/blood-collection-processing/3-06-08-aliquoting-description-1000AM.md" class="btn btn-success">
+    3.6.8 Aliquoting Description and Scheme - 10:00 AM
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
