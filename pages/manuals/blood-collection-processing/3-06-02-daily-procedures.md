@@ -15,8 +15,8 @@ Aliquot racks will be set up to correspond to each blood collection tube rack.  
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing/3-06-03-aliquoting-sample-tubes.md" class="btn btn-success">
-    3.6.3 Aliquoting Sample Tubes
+  <a href=":pages_path:/manuals/blood-collection-processing/3-06-03-centrifugation.md" class="btn btn-success">
+    3.6.3 Centrifugation
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
