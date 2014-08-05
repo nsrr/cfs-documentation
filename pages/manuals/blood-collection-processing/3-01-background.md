@@ -4,7 +4,9 @@ The Familial Aggregation and Natural History of Sleep Apnea study is a genetic-e
 
 The blood samples collected and processed by General Clinical Research Center (GCRC) technicians are the foundation for many of these tests.  The most important step (and potentially the most variable) in these tests is the collection and processing of the blood samples.   If the blood sample itself is not correctly drawn and processed, the laboratory results may not be precise or may not be valid.
 
-This study involves the collection of 30 mLs of blood from participants both prior to bed, and subsequent to final awakening, during the GCRC overnight visit.  An additional 5 mLs of blood are collected subsequent to glucose loading.  (A total of 65 mLs of blood will be drawn.)
+This study involves the collection of 30 mL of blood from participants both prior to bed, and subsequent to final awakening, during the GCRC overnight visit.  PM and AM biochemical markers will be compared to associate changes with OSA disease severity indices.  An additional 5 mL of blood are collected subsequent to glucose loading.  A total of 65 mL of blood will be drawn.
+
+Subsequent biochemical assays will measure the following domains: metabolism, inflammation, procoagulation and fibrinolysis, oxidative stress, and SNSA.  Markers were selected to improve characterization of an OSA-CVD phenotype and/or to measure individual responses to OSA-related stresses.  Assays were chosen for their known associations with CVD; data suggesting associations with OSA or hypoxia; or described variation in response to oxidative stress.
 
 
 <div class="center">
