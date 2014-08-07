@@ -15,7 +15,7 @@ The Sleep Reading Center (SRC) for the Family Study will:
 <div class="btn-group">
   <a href=":pages_path:/manuals/psg-reading-center/18-00-psg-reading-center-toc.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    Dedication
+    Table of Contents
   </a>
 
   <a href=":pages_path:/manuals/psg-reading-center" class="btn btn-default">
