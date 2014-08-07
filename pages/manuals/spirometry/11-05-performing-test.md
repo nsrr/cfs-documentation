@@ -27,12 +27,10 @@
 * 10. Select **F1 Patient**.
 * 11. From the pull-down menu, select **Save Patient Data**.
 * 12. You will be asked to Save and Continue or Save and End Session.  Select **Save and End Session**
-* 13. At this time, either continue testing other patients or select **F5 File**.
-* 14. Select **Exit** from the F5 pull-down menu. This action gets you to the MS-DOS prompt.
-* 15. Type **"Exit"** and this will put you into the Windows start-up menu
-* 16. Select **Start**.
-* 17. Select **Shutdown the Computer**.  Wait until the computer shuts itself off.
-* 18. Disconnect the sensor and the power cord, pack up the equipment, and thank the participant(s) for participating in the testing.
+* 13. At this time, either continue testing other patients or select **F5 File** to exit the program.
+* 14. Type **"Exit"** and this will put you into the Windows start menu
+* 15. From the Windows start menu, select **Shut Down**. Wait until the computer shuts itself off.
+* 17. Disconnect the sensor and the power cord, pack up the equipment, and thank the participant(s) for participating in the testing.
 
 
 <div class="center">
