@@ -7,7 +7,7 @@
  * <u>Typed participant ID and first field of the report (which should be participant ID) are matching.</u>  If they are not error message appears (program will not stop).
  * <u>Scorer ID is correct.  Program is checking, if second field of the SAS report is three-digit number starting from 9.</u>  If it's something else error message (scorer ID out of range) appears.
  * <u>First and last lines of the report do not have string "30sec".</u>  When this string is found message: "30sec found in the first (or last) line of the report" appears.
- * <u>Presence of the outliers in the final report.</u> If any outlier is detected message appears on the screen with the description of outlier and actual value of outlier. If no outliers are detected message "NO OUTLIERS FOUND” appears. The following values will be considered outliers:
+ * <u>Presence of the outliers in the final report.</u> If any outlier is detected message appears on the screen with the description of outlier and actual value of outlier. If no outliers are detected message "No Outliers Found” appears. The following values will be considered outliers:
 
      * 0% of Stage 1, Stage 2 or Stage REM
      * 90 % of any stage of sleep (Stage 1, Stage 2, Deep Sleep, Stage REM)
