@@ -17,3 +17,4 @@
 * [15. Connors Performance Test](:pages_path:/manuals/connors-performance-test)
 * [16. Cephalometric Radiographs](:pages_path:/manuals/cephalometric-radiographs)
 * [17. Polysomnography](:pages_path:/manuals/polysomnography)
+* [18. Polysomnography Reading Center](:pages_path:/manuals/psg-reading-center)
