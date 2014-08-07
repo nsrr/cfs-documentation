@@ -1,10 +1,10 @@
 ## 17.15.2 Troubleshooting
 
-### 17.15.2.1 When Outlier Program Reports Problems or Outliers
+<u>When Outlier Program Reports Problems or Outliers</u>
 
 If during checking, any changes or corrections need to be done, they can be done without exiting program (or closing DOS window).  Just let the program wait (window can be minimized) and make the necessary changes. Continue checking by typing **“c”** in the DOS window and entering the Participant ID again.
 
-### 17.15.2.2 When Outlier Program Cannot Open Study
+<u>When Outlier Program Cannot Open Study</u>
 
 * Check if Participant ID was typed correctly.  If not, in the DOS window type **"C"** and retype Participant ID.
 * Make sure, that study is located in the root directory of the C: drive.  If it is not, move study to the root directory C: drive. In the DOS window, type **"C"** and retype participant ID.
@@ -13,7 +13,7 @@ If during checking, any changes or corrections need to be done, they can be done
 * If SAS report is missing, run report (in Replay) and save it.
 * If SAS report is saved as a RTF file, it does not have to be run again.  Double click on it and save again as a text file.
 
-### 17.15.2.3 Typed Participant ID and First Field of the Report are Not Matching
+<u>Typed Participant ID and First Field of the Report are Not Matching</u>
 
 1. Open SAS report (double click on it) and see what's in it.  First number has to be Participant ID and nothing else.
 2. If it is something else, open study in Profusion program.
@@ -21,7 +21,7 @@ If during checking, any changes or corrections need to be done, they can be done
 4. Click **OK**.
 5. Run SAS report again.
 
-### 17.15.2.4 Scorer ID Is Not Correct
+<u>Scorer ID Is Not Correct</u>
 
 1. Open SAS report (double click on it) and see what's in it on the second place (usually it's Scorer ID missing and in the second place is date of the study).
 2. To correct Scorer ID, open study in Profusion program.
@@ -29,19 +29,19 @@ If during checking, any changes or corrections need to be done, they can be done
 4. Click **OK**.
 5. Run SAS report again.
 
-### 17.15.2.5 First (Or Last Line of the Report) Has String '30 Sec'
+<u>First (Or Last Line of the Report) Has String '30 Sec'</u>
 
 1. Open SAS report
 2. Find string "30sec" and replace it with **“00:01”**
 3. Save report.  **<u>NOTE</u>:** This has to be done every time after SAS report is run.
 
-### 17.15.2.6 Minimum Respiratory Event Length <10 Sec
+<u>Minimum Respiratory Event Length <10 Sec</u>
 
 This outlier needs to be corrected in the study, a new SAS report created, and checked again for the presence of the outliers.
 
 **<u>NOTE</u>:** Due to the rounding error some respiratory events lengths (9.5-9.9 sec) can be difficult to find.  They will appear as a 10 sec long in the list of the respiratory events on the screen and 9 sec in the report.  In this case, they can be left.  On QS form, for Question 29e (outliers - other), check box "yes" and place note in the Notes section (ex. Outlier 9 sec hypopnea).
 
-### 17.15.2.7 0% Of Any Sleep Stages, >90% Of Any Sleep Stages
+<u>0% Of Any Sleep Stages, >90% Of Any Sleep Stages</u>
 
 There are two possible sources of this outlier:
 
@@ -52,11 +52,11 @@ There are two possible sources of this outlier:
 * In the Box Initials/Date, write initials of Reviewing Physician (or ‘Group’ if it was group review).
 * In the Notes section, enter short note with the explanation (ex. Outlier: REM=0 - real)
 
-### 17.15.2.8 RDI=0
+<u>RDI=0</u>
 
 If outlier is real, it does not have to be reviewed.  On The QS form, for Question 29c (RDI=0 real), check box "yes”.
 
-### 17.15.2.9 Maximum Length of Resp. Event >150 Sec
+<u>Maximum Length of Resp. Event >150 Sec</u>
 
 Check with another scorer.  If outlier is real, on the QS form for Question 29d (Max length of resp. event > 150s real), check box "yes".
 
