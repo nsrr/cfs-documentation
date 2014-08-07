@@ -22,8 +22,7 @@
 20. Continue until the three best tests are printed.
 21. After printing all of the tests, press **Escape**.
 22. Select another patient, or select **F5 File** to exit the program.
-23. Type **Exit**. This takes you back to the Windows start menu.
-24. From the Windows start menu, select **Shut Down** and wait until the computer shuts down.
+23. Type **Exit**. This will take you back to the Windows start menu. The computer may now be shut down
 
 
 <div class="center">
