@@ -21,13 +21,9 @@
 19. Press **Enter**.
 20. Continue until the three best tests are printed.
 21. After printing all of the tests, press **Escape**.
-22. Select another patient, or select **F5 File**.
-23. From the F5 File pull-down menu, select **Exit to DOS**
-24. Press **Enter**.
-25. At the MS-DOS prompt, type **"Exit"**.
-26. Press **Enter**.  This gets you back to the Windows Start Up Menu.
-27. Press **Start**.
-28. Then shut down the computer and wait until the computer shuts down.
+22. Select another patient, or select **F5 File** to exit the program.
+23. Type **Exit**. This takes you back to the Windows start menu.
+24. From the Windows start menu, select **Shut Down** and wait until the computer shuts down.
 
 
 <div class="center">
