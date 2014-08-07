@@ -19,9 +19,9 @@ Setup of the screen used for scoring should be the same on all scorers’ comput
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/polysomnography/17-13-03-opening-study.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/polysomnography/17-13-06-creating-sas-reports.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    17.13.3 Opening the Study from the CD in Profusion
+    17.13.6 Creating SAS Reports
   </a>
 
   <a href=":pages_path:/manuals/polysomnography" class="btn btn-default">
