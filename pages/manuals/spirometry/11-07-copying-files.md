@@ -14,8 +14,8 @@
 12. As each item is highlighted, select **Enter**.
 13. Each item will be highlighted in red and you will be asked to **“Delete? Y/N.”**  Select **Y** to delete the item.
 14. Continue this process until all of the items have been deleted. By deleting the items in the laptop’s hard drive, more room is left for future patient testing.
-15. When finished deleting the files, select **F5 File**.
-16. From the F5 File pull-down menu select **Exit to DOS** and exit to the Windows start-up menu. The computer may now be shut down
+15. When finished deleting the files, select **F5 File** to exit program.
+16. Type **Exit**. This will take you back to the Windows start menu. The computer may now be shut down
 
 
 <div class="center">
