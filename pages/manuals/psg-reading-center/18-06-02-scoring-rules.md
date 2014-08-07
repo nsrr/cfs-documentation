@@ -31,8 +31,8 @@ Finally, the following will be done:
     Polysomnography Reading Center
   </a>
 
-  <a href=":pages_path:/manuals/psg-reading-center/18-06-03-00-scoring-rules.md" class="btn btn-success">
-    18.6.3 Scoring Rules
+  <a href=":pages_path:/manuals/psg-reading-center/18-06-03-01-scoring-sleep-stages.md" class="btn btn-success">
+    18.6.3.1 Scoring Sleep Stages
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
