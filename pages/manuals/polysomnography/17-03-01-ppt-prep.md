@@ -14,9 +14,9 @@ _Explain that this is not an issue of cleanliness, but that the special procedur
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/polysomnography/17-02-01-certification.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/polysomnography/17-02-psg-training-cert.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    17.2.1 Certification
+    17.2 PSG Training and Certification Requirements
   </a>
 
   <a href=":pages_path:/manuals/polysomnography" class="btn btn-default">
