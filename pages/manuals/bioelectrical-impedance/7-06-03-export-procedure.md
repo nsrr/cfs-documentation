@@ -11,7 +11,7 @@
 
 * 4. After exporting, select **Close**.
 * 5. Exit program, if done.
-* 6. On the desktop there is a folder called Cyprus Export. If you open the file you will see all the data you have entered into Cyprus. **Save As** and save to <u>n:\common\family\Body Fat_ K. Warman\excel.dat</u>
+* 6. On the desktop there is a folder called Cyprus Export. If you open the file you will see all the data you have entered into Cyprus. Save to Family Body Fat folder.
 * 7. You will be asked if you should save over the last file. Select **Yes**. This gives a backup of the file on the network.
 
 
