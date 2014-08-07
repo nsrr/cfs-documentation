@@ -9,9 +9,9 @@ Scoring sleep stages is based on the guidelines specified by Rechtshaffen and Ka
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/psg-reading-center/18-06-03-00-scoring-rules.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/psg-reading-center/18-06-02-scoring-rules.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    18.6.3 Scoring Rules
+    18.6.2 Summary of Scoring Process
   </a>
 
   <a href=":pages_path:/manuals/psg-reading-center" class="btn btn-default">
