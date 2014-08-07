@@ -18,6 +18,29 @@ Setup of the screen used for scoring should be the same on all scorers’ comput
 12. <u>Scored study backup</u>.  A copy of the folder with the scored study is placed in Family Scored Files folder.  A second copy of the folder with the scored files (without Rawdata.slp file) placed on the file server (Drive N on scorers’ computer).  Then save a copy to a CD. Once the study is saved to a CD, it may be deleted. **<u>NOTE</u>:** Verify that the CD is working and can be read BEFORE deleting the study from the hard drive.
 13. <u>Scored study deleted from the hard drive</u>.
 
+### 17.14.1 Sleep Staging and Arousals
+
+* For staging and arousals the following tracings are displayed (from the top to the bottom of the screen):  EOG(L), EOG(R), EMG, EEG, EEG(sec) and ECG.  Timebase: (Top) 30 sec.
+* As a default for scoring sleep stages and arousals, zoom for both EEGs should be x5 (full scale 125 mV).  In some cases, (alpha intrusion) scoring, use zoom x8 (full scale 250 mV).
+* No tracing with the respiratory signals should be visible during this phase of scoring.
+
+MISSING_IMAGE
+
+### 17.14.2 Setting Lights
+
+1. Open window by selecting **View/Summary** from the menu or clicking on the button with the blue sign **E**.
+2. Lights recorded during study are on the top of the screen. Lights set up are on the bottom of this screen (called Stage Lights).  They can be changed manually by placing the cursor on the epoch and pressing **F8** key to set them ON and pressing **F9** to set them OFF.
+
+### 17.14.3 Respiratory Events
+
+For scoring respiratory events, the following tracings are displayed (from the top to the bottom of the screen): L Leg, R Leg, Nasal Pressure, Airflow, Thoracic, Abdomen, SaO2 and SaO2 status.  No other signals should be visible during scoring respiratory events. As a default, Timebase: 5 min/page is used.
+
+MISSING_IMAGE
+
+### 17.14.4 Patient Information Window
+
+Patient Information window can be opened from menu by clicking on **View/Patient Information** or by clicking on the icon with the letter ‘I’ in the blue circle on the toolbar.  Changes made in this window are saved when the **OK** button is pressed.
+
 
 <div class="center">
 <div class="btn-group">
@@ -31,8 +54,8 @@ Setup of the screen used for scoring should be the same on all scorers’ comput
     Polysomnography
   </a>
 
-  <a href=":pages_path:/manuals/polysomnography/17-14-01-sleep-staging-arousals.md" class="btn btn-success">
-    17.14.1 Sleep Staging and Arousals
+  <a href=":pages_path:/manuals/polysomnography/17-15-00-checking-outliers.md" class="btn btn-success">
+    17.15 Checking Outliers After Scoring
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
