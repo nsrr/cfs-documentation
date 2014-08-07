@@ -26,8 +26,7 @@ The analysis, for the most part, is done completely by the program.  You will on
 * 19. Select **OK**.
 * 20. When back to the Automatic Analysis menu, select **OK**.
 * 21. The automatic analysis process usually takes a while (normally 15-35 minutes or so).  Once the computer finishes running the automatic analysis, the computer will present you with a new screen.
-* 22. Close the study.
-* 23. Exit the Profusion 2 program.
+* 22. Close the study and exit the Profusion 2 program.
 
 
 <div class="center">
