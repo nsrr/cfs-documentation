@@ -31,9 +31,9 @@ The analysis, for the most part, is done completely by the program.  You will on
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/polysomnography/17-13-00-data-management.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/polysomnography/17-13-00-data-collection.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    17.13 Data Management
+    17.13 Data Collection
   </a>
 
   <a href=":pages_path:/manuals/polysomnography" class="btn btn-default">
