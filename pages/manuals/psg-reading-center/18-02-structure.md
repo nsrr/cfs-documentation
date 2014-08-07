@@ -1,4 +1,4 @@
-## 6.2 Structure
+## 18.2 Structure
 
 The Sleep Reading Center (SRC) will be directed by Susan Redline, MD, MPH.  She will hire and assist in the training of an Administrative Assistant, a Chief Polysomnologist, and PSG scorers, and be ultimately responsible for all goals specified above.
 
