@@ -9,9 +9,9 @@ After study is scored and SAS report created, report has to be checked for the p
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/polysomnography/17-14-07-creating-sas-reports.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/polysomnography/17-14-04-pt-info-window.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    17.14.7 Creating SAS Reports
+    17.14.4 Patient Information Window
   </a>
 
   <a href=":pages_path:/manuals/polysomnography" class="btn btn-default">
