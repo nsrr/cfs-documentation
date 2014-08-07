@@ -35,8 +35,7 @@
     * [18.6.3.9 Dealing with ambiguous respiratory events](:pages_path:/manuals/psg-reading-center/18-06-03-09-dealing-with-ambiguous-respiratory-events.md)
 * [18.7 QS Form - Scoring Notes](:pages_path:/manuals/psg-reading-center/18-07-qs-form-scoring-notes.md)
 * [Appendix A – List of Illustrations](:pages_path:/manuals/psg-reading-center/18-AA-list-of-illustrations.md)
-* [Appendix B – Sample QS Form](:pages_path:/manuals/psg-reading-center/18-AB-sample-qs-form.md)
-* [Appendix C – Sample Participant Feedback – Sleep Report](:pages_path:/manuals/psg-reading-center/18-AC-sample-participant-feedback-sleep-report.md)
+
 
 <hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
 
