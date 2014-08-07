@@ -1,5 +1,7 @@
 ## 17.14 Scoring Procedures
 
+For more details on scoring rules, please refer to the <u>Family Reading Center PSG Manual</u>.
+
 Setup of the screen used for scoring should be the same on all scorers’ computers.  The setup used for staging and scoring arousals is saved in the polygraph <u>Family Staging.pol</u>.  The setup used for scoring respiratory events is saved in the polygraph <u>Family Respi.pol</u>.
 
 1. <u>Sleep stages assigned and arousals scored</u> according to the rules below.  This is done using polygraph Family Staging.
