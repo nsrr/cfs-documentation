@@ -24,7 +24,7 @@ _Explain that this is not an issue of cleanliness, but that the special procedur
     Polysomnography
   </a>
 
-  <a href=":pages_path:/manuals/polysomnography/17-03-02-00-equipment-prep.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/polysomnography/17-03-02-equipment-prep.md" class="btn btn-success">
     17.3.2 Equipment Preparation
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
