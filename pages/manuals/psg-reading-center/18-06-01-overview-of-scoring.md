@@ -25,14 +25,13 @@ The <u>desaturation associated with any respiratory event</u> will be based on t
 <u>RDI</u> (Respiratory Disturbance Index) is defined as the number of respiratory events (apneas and hypopneas) per hour of the sleep. Events will be included in different indices according to level of associated desaturation and/or arousal:
 
 * All events (regardless of desaturation or arousal)
-* Summary RDI values, based on events associated with ≥ 2%, ≥ 3%, ≥ 4%, and
- ≥ 5% desaturation levels.
-* Summary RDI values based on events associated with  > 2%, 3%, 4%, and 5% desaturation levels or associated arousal.
+* Summary RDI values, based on events associated with ≥ 2%, ≥ 3%, ≥ 4%, and ≥ 5% desaturation levels.
+* Summary RDI values based on events associated with > 2%, 3%, 4%, and 5% desaturation levels or associated arousal.
 * Summary RDI values based on events associated with arousal regardless of desaturation.
 
 <u>Time in apnea or hypopnea:</u>
 
-* Percent sleep time in apnea (obstructive or central, with at least a 3% desaturation +/* arousal).
+* Percent sleep time in apnea (obstructive or central, with at least a 3% desaturation +/- arousal).
 * Percent sleep time in hypopnea (with at least a 3% desaturation +/- arousal).
 
 <u>Oxygen Desaturation Profile:</u>
