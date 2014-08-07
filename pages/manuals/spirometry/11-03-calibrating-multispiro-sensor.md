@@ -24,8 +24,7 @@ Calibration should be performed at least once per day if it is going to be used 
 20. You will then be asked if you want to **“Save the Calibration Report”** for archival purposes.  Select **Y** for “yes”.
 21. You will then be asked if you want to **“Print the Calibration Report”**. Select **N** for no.
 22. At this point, either continue with spirometry testing or shut down the computer and pack all supplies in the Multispiro carrying case excluding the 3.00-Liter syringe.
-23. Select **F5 File** and type **"Exit"** to exit the program.
-24. From the Windows start menu, you can select **Shut Down**.
+23. Select **F5 File** and type **"Exit"** to exit the program. This will take you back to the Windows start menu. The computer may now be shut down
 
 
 <div class="center">
