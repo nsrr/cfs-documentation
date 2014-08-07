@@ -13,9 +13,9 @@ Setup of the screen used for scoring should be the same on all scorers’ comput
 7. **<u>NOTE</u>:** If study meets criteria for Medical Alert, e-mail needs to be sent to Dr. Redline and it has to be reviewed by PI (Dr. Redline or assigned MD) before proceeding
 8. <u>SAS report created</u>. Run the <u>sas_pro5</u> program from the Profusion report option to create a SAS report. Save in the folder containing study. Name of the report should be Participant ID proceeded by letter ‘SF’ and saved as a text file (.txt)
 9. <u>Outliers checked and removed if applicable</u>. **<u>NOTE</u>:** If outliers were removed, a new SAS report has to be created and outliers checked again. Delete the original SAS report and create a new SAS report as stated in Step 8.
-10. Copy of the SAS report placed in the SAS Reports folder and then saved as <u>n:\common\family\FAM_SAS\filename.txt</u>.
+10. Copy of the SAS report placed in the SAS Reports folder and then saved as a text file in the Family SAS folder.
 11. <u>QS form completed</u>.
-12. <u>Scored study backup</u>.  A copy of the folder with the scored study is placed in <u>n:\common\family\scored files</u> folder.  A second copy of the folder with the scored files (without Rawdata.slp file) placed on the file server (Drive N on scorers’ computer.  Then send a copy to <u>n:\common\family\create CD</u>. Once the study is saved to a CD it may be deleted. **<u>NOTE</u>:** Verify that the CD is working and can be read BEFORE deleting the study from the hard drive.
+12. <u>Scored study backup</u>.  A copy of the folder with the scored study is placed in Family Scored Files folder.  A second copy of the folder with the scored files (without Rawdata.slp file) placed on the file server (Drive N on scorers’ computer).  Then save a copy to a CD. Once the study is saved to a CD, it may be deleted. **<u>NOTE</u>:** Verify that the CD is working and can be read BEFORE deleting the study from the hard drive.
 13. <u>Scored study deleted from the hard drive</u>.
 
 
