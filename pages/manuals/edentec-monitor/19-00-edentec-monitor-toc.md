@@ -1,10 +1,10 @@
 ## 19.0 Table of Contents - Edentec Monitor
 
 * [19.1 Materials Needed](:pages_path:/manuals/edentec-monitors/19-01-materials-needed.md)
-* 19.2 Prepping the Monitor
- * [19.2.1 Set Up Mode](:pages_path:/manuals/edentec-monitors/19-02-01-setup-mode.md)
- * [19.2.2 Connect New Sensors to Their Respective Leads](:pages_path:/manuals/edentec-monitors/19-02-02-connect-sensors-respective-leads.md)
- * [19.2.3 Check Signals](:pages_path:/manuals/edentec-monitors/19-02-03-check-signals.md)
+* [19.2 Prepping the Monitor](:pages_path:/manuals/edentec-monitors/19-02-prepping-monitor.md)
+ * 19.2.1 Set Up Mode
+ * 19.2.2 Connect New Sensors to Their Respective Leads
+ * 19.2.3 Check Signals
 * [19.3 In-Home Explanation of Monitor Use](:pages_path:/manuals/edentec-monitors/19-03-monitor-explanation.md)
 * [19.4 Data Collection](:pages_path:/manuals/edentec-monitors/19-04-00-data-collection.md)
  * [19.4.1 Printing a Sleep Study](:pages_path:/manuals/edentec-monitors/19-04-01-printing-sleep-study.md)
