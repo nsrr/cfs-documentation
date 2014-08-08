@@ -1,12 +1,9 @@
 ## 13.16.3 Scoring Procedure
 
-* 1. Run the <u>oral_scoring.bat</u> batch file, by clicking the shortcut or running C:\oral_scoring.bat.
+* 1. Run the <u>oral_scoring.bat</u> batch file.
 * 2. Select the appropriate option based on which data you wish to process (2. Family Pharyngometry)
 * 3. Exit program
-* 4. The program will remove all files currently in the c:\oralfile\ directory and will copy files from the appropriate study directory to c:\oralfile
-
- * Family Pharyngometry: <u>\\Dcefilesrv01\DCE Share Root\DCE Projects\Family Study\RawData\PharynNew</u>
-
+* 4. he program will remove all files currently in the Oral File directory and will copy files from the appropriate study directory to the Oral File folder.
 * 5. In the ORAL 5.03 scoring program, hit **F6** to view patient list.  If <u>Pharyn Check.sas</u> was not run or did not run successfully, the userfile will not be valid and there will be no studies to view.
 * 6. Select the patient file of interest.
 * 7. Press **Enter**
@@ -20,9 +17,10 @@
 * 10. Using the left/right arrows select **Print** (it will highlight when chosen)
 * 11. Press **Enter**. The screen will go from color to B&W while the report is queued
 * 12. Once finished grading and printing all tests of interest, press Esc to C:/> prompt
-* 13. Type **"exit"**
+* 13. Type **'Exit'**
 * 14. Press **Enter**.
 * 15. Press **Esc** to exit ORAL 5.03.
+
 
 <div class="center">
 <div class="btn-group">
