@@ -4,8 +4,8 @@ The Rhinometer must be calibrated before data acquisition.
 
 1. Fit the calibration tube to the end of the rhinometer while it sits on a flat surface.
 2. The calibration command will already be highlighted at the bottom of the screen. Press **Enter** to start the calibration.
-3. After hearing a series of clicks, the program will present a message saying “calibration OK” across the screen.  The highlight automatically moves to “Acquire” and data can be collected.
-4. If “bad cal” message, exit to MS-DOS and typing **“ncnose”**.  This stands for New Calibration and reboots the system so to speak.
+3. After hearing a series of clicks, the program will present a message saying 'Calibration OK' across the screen.  The highlight automatically moves to “Acquire” and data can be collected.
+4. If 'Bad Cal' message, exit to MS-DOS and type **'ncnose'**.  This stands for New Calibration and reboots the system.
 
 
 <div class="center">
