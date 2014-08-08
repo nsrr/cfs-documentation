@@ -31,8 +31,8 @@ Once all the measures are complete on the data sheet, make a copy for Karen Worm
     Anthropometry and Skinfold Procedures
   </a>
 
-  <a href=":pages_path:/manuals/anthro-skinfold/6-04-02-01-tricep-skinfold.md" class="btn btn-success">
-    6.4.2.1 Tricep Skinfold
+  <a href=":pages_path:/manuals/anthro-skinfold/6-04-03-skinfold-descriptions.md" class="btn btn-success">
+    6.4.3 Skinfold Descriptions
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
