@@ -20,7 +20,7 @@
     Anthropometry and Skinfold Procedures
   </a>
 
-  <a href=":pages_path:/manuals/anthro-skinfold/6-03-01-hip-circumference.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/anthro-skinfold/6-03-anthro-measurements.md" class="btn btn-success">
     6.3 Anthropometry Measurement
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
