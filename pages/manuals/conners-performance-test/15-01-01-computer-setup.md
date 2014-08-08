@@ -3,11 +3,10 @@
 ### 15.1.1 Computer Setup
 
 1. From MS DOS mode, you will see **“C:\Windows>”**
-2. Type **“cd..”**
-3. Type **“cd CPT”**
-4. At the ‘CPT>’ prompt, type **“CPT”**
-5. At the main screen, go to **Administration**
-6. Select **Standard Practice** which will start 2 minute practice
+2. Type **'cd..'** and **'cd CPT'**
+3. At the CPT> prompt, type **'CPT'**
+4. At the main screen, go to **Administration**
+5. Select **Standard Practice** which will start 2 minute practice
 
 
 <div class="center">
