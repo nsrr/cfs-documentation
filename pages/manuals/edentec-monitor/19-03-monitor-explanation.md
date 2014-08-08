@@ -26,9 +26,9 @@ Explain the following instructions to the participants and show them the instruc
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/edentec-monitor/19-01-materials-needed.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/edentec-monitor/19-02-prepping-monitor.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    19.1 Materials Needed
+    19.2 Prepping the Monitor
   </a>
 
   <a href=":pages_path:/manuals/edentec-monitor" class="btn btn-default">
@@ -36,8 +36,8 @@ Explain the following instructions to the participants and show them the instruc
     Edentec Monitor
   </a>
 
-  <a href=":pages_path:/manuals/edentec-monitor/19-03-monitor-explanation.md" class="btn btn-success">
-    19.3 In-Home Explanation of Monitor Use
+  <a href=":pages_path:/manuals/edentec-monitor/19-04-01-printing-sleep-study.md" class="btn btn-success">
+    19.4 Data Collection
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
