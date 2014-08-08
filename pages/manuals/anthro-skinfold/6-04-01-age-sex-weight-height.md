@@ -17,7 +17,7 @@ Each of the above measurements must be taken in order for use in skinfold predic
     Anthropometry and Skinfold Procedures
   </a>
 
-  <a href=":pages_path:/manuals/anthro-skinfold/6-04-02-00-skinfold-techniques.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/anthro-skinfold/6-04-02-skinfold-techniques.md" class="btn btn-success">
     6.4.2 Skinfold Techniques
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
