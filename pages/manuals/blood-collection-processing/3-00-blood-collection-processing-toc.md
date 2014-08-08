@@ -1,10 +1,10 @@
 ## 3.0 Table of Contents - Blood Collection and Processing Procedures
 
 * [3.1 Background and Rationale](:pages_path:/manuals/blood-collection-processing/3-01-background.md)
-* 3.2 Equipment and Supplies
- * [3.2.1 LCBR Recommended Supplies](:pages_path:/manuals/blood-collection-processing/3-02-01-lcbr-recommended-supplies.md)
- * [3.2.2 Blood Collection Supplies](:pages_path:/manuals/blood-collection-processing/3-02-02-collection-supplies.md)
- * [3.2.3 Blood Processing Supplies](:pages_path:/manuals/blood-collection-processing/3-02-03-processing-supplies.md)
+* [3.2 Equipment and Supplies](:pages_path:/manuals/blood-collection-processing/3-02-equipment.md)
+ * 3.2.1 LCBR Recommended Supplies
+ * 3.2.2 Blood Collection Supplies
+ * 3.2.3 Blood Processing Supplies
 * [3.3 Safety Issues and Precautions for Handling Blood Specimen](:pages_path:/manuals/blood-collection-processing/3-03-safety-issues-precautions.md)
 * 3.4 Phlebotomy Logistics
  * [3.4.1 Participant ID Labels](:pages_path:/manuals/blood-collection-processing/3-04-01-ppt-id-labels.md)
@@ -12,17 +12,17 @@
  * [3.4.3 Participant Refusal of Phlebotomy](:pages_path:/manuals/blood-collection-processing/3-04-03-ppt-refusal.md)
  * [3.4.4 Description of Collection Tubes](:pages_path:/manuals/blood-collection-processing/3-04-04-description-collection-tubes.md)
 * 3.5 Venipuncture
- * 3.5.1 Preparation
-    * [3.5.1.1 Preparation of Participants for Phlebotomy](:pages_path:/manuals/blood-collection-processing/3-05-01-01-ppt-preparation.md)
-    * [3.5.1.2 Phlebotomy/Processing Rooms](:pages_path:/manuals/blood-collection-processing/3-05-01-02-phlebotomy-processing-rooms.md)
-    * [3.5.1.3 Priority of Tubes](:pages_path:/manuals/blood-collection-processing/3-05-01-03-priority-of-tubes.md)
-    * [3.5.1.4 Summary of Blood Mixing During Venipuncture](:pages_path:/manuals/blood-collection-processing/3-05-01-04-summary-of-blood-mixing.md)
-    * [3.5.1.5 Setup of Draw Tube and Aliquot Racks](:pages_path:/manuals/blood-collection-processing/3-05-01-05-draw-tube-racks-setup.md)
-    * [3.5.1.6 Preparation for Specimen Collection](:pages_path:/manuals/blood-collection-processing/3-05-01-06-specimen-collection-preparation.md)
-    * [3.5.1.7 Phlebotomy Form Questions](:pages_path:/manuals/blood-collection-processing/3-05-01-07-phlebotomy-form-questions.md)
-  * [3.5.2 Venipuncture Procedure](:pages_path:/manuals/blood-collection-processing/3-05-02-00-venipuncture-procedure.md)
-   * [3.5.2.1 Oral Glucose Procedure](:pages_path:/manuals/blood-collection-processing/3-05-02-01-oral-glucose-procedure.md)
-  * [3.5.4 Guidelines for Difficulties](:pages_path:/manuals/blood-collection-processing/3-05-04-guidelines-for-difficulties.md)
+ * [3.5.1 Preparation](:pages_path:/manuals/blood-collection-processing/3-05-01-preperation.md)
+    * 3.5.1.1 Preparation of Participants for Phlebotomy
+    * 3.5.1.2 Phlebotomy/Processing Rooms
+    * 3.5.1.3 Priority of Tubes
+    * 3.5.1.4 Summary of Blood Mixing During Venipuncture
+    * 3.5.1.5 Setup of Draw Tube and Aliquot Racks
+    * 3.5.1.6 Preparation for Specimen Collection
+    * 3.5.1.7 Phlebotomy Form Questions
+  * [3.5.2 Venipuncture Procedure](:pages_path:/manuals/blood-collection-processing/3-05-02-venipuncture-procedure.md)
+   * 3.5.2.1 Oral Glucose Procedure
+  * [3.5.3 Guidelines for Difficulties](:pages_path:/manuals/blood-collection-processing/3-05-03-guidelines-for-difficulties.md)
 * 3.6 Venipuncture Processing
  * [3.6.1 Overview](:pages_path:/manuals/blood-collection-processing/3-06-01-overview.md)
    * 3.6.1.1 Blind Duplicate Overview
@@ -43,10 +43,10 @@
    * 3.6.9.1 Blind Duplicate Special Circumstances
  * [3.6.10 Processing Completion](:pages_path:/manuals/blood-collection-processing/3-06-10-00-processing-completion.md)
   * [3.6.10.1 Blind Duplicate Processing Completion](:pages_path:/manuals/blood-collection-processing/3-06-10-01-blind-duplicate-process-completion.md)
-3.7 Shipping Blood Samples
- * [3.7.1 General](:pages_path:/manuals/blood-collection-processing/3-07-01-general.md)
- * [3.7.2 Equipment and Supplies](:pages_path:/manuals/blood-collection-processing/3-07-02-equipment-supplies.md)
- * [3.7.3 Procedure](:pages_path:/manuals/blood-collection-processing/3-07-03-procedure.md)
+* [3.7 Shipping Blood Samples](:pages_path:/manuals/blood-collection-processing/3-07-shipping-samples.md)
+ * 3.7.1 General
+ * 3.7.2 Equipment and Supplies
+ * 3.7.3 Procedure
 
 
 <div class="center">
