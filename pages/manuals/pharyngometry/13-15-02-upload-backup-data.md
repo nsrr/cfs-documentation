@@ -4,16 +4,14 @@ Upon receipt at the Research Center by a designated research assistant responsib
 
 * Windows 2000 or higher, with connections to DCE network.
 * Floppy drive.
-* Oral_scoring.bat batch file installed (found in <u>\\Dcefilesrv01\DCE Share Root\DCE Projects\Family Study\Procedures_Manuals\Data Procedures</u>).
-* Network drive N:\ mapped to <u>\\Dcefilesrv01\DCE Share Root\DCE Projects\Family Study</u>
+* Oral_scoring.bat batch file installed (found in the Family Data Procedures folder)..
+* Network drive N:\ mapped to Family Study folder
 * SAS for Windows V9.1x installed.
 * Pharyngometry scoring software (ORAL 5.03) installed
 
 ### 13.15.2.1 Backup Files on Disc
 
 Copy files from floppy disk to the Pharyn transfer folder and to the appropriate folder on the study’s network drive.
-
-* Family:  <u>\\Dcefilesrv01\DCE Share Root\DCE Projects\Family Study\RawData\Pharynnew</u>
 
 
 <div class="center">
