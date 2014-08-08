@@ -1,11 +1,8 @@
 ## 12.13.2 Scoring Procedure
 
-* 1. Run the <u>oral_scoring.bat</u> batch file, by clicking the shortcut or running C:\oral_scoring.bat.
+* 1. Run the <u>oral_scoring.bat</u> batch file.
 * 2. Select the appropriate option based on which data you wish to process (1. Family Rhinometry)
-* 3. The program will remove all files currently in the c:\oralfile\ directory and will copy files from the appropriate study directory to c:\oralfile
-
- * Family Rhinometry: <u>\\Dcefilesrv01\DCE Share Root\DCE Projects\Family Study\RawData\Rhino</u>
-
+* 3. The program will remove all files currently in the Oral File Directory folder and will copy files from the appropriate study directory to Oral File folder.
 * 4. In the ORAL 5.03 scoring program, hit **F6** to view patient list.  If RhinoCheck.sas was not run or did not run successfully, the userfile will not be valid and there will be no studies to view.
 * 5. Select the participant file of interest.  There will be two files identically named.  This is because of the pre- and post- nasal steroid tests. Do one at a time.
 * 6. Press **Enter**.
