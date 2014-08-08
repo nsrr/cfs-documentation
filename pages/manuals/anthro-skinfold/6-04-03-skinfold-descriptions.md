@@ -1,6 +1,6 @@
-### 6.4.3 Skinfold Descriptions
+## 6.4.3 Skinfold Descriptions
 
-## 6.4.3.1 Tricep Skinfold
+### 6.4.3.1 Tricep Skinfold
 
 The direction of fold for the tricep skinfold is vertical (midline).
 
@@ -9,44 +9,44 @@ The direction of fold for the tricep skinfold is vertical (midline).
 3. The fold is lifted 1 cm above marked line on posterior aspect of arm.
 4. The caliper is then applied at the marked level.
 
-## 6.4.3.2 Subscapular Skinfold
+### 6.4.3.2 Subscapular Skinfold
 
 * The direction of fold for the subscapular skinfold is diagonal.
 * The fold is along the natural cleavage line of skin, just inferior to the inferior angle of scapula, with the caliper applied 1 cm below fingers.
 
-## 6.4.3.3 Midaxillary Skinfold
+### 6.4.3.3 Midaxillary Skinfold
 
 * The direction of fold for the midaxillary skinfold is horizontal.
 * The fold is taken on the midaxillary line at the level of xiphisternal junction (the point where costal cartilage of ribs 5-6 articulate with the sternum, slightly above inferior tip of xiphoid process).
 
-## 6.4.3.4 Suprailliac Skinfold
+### 6.4.3.4 Suprailliac Skinfold
 
 * The direction of fold for the suprailiac skinfold is oblique.
 * The fold is grasped posteriorly to midaxillary line and superiorly to iliac crest along natural cleavage of skin with caliper applied 1 cm below fingers.
 
-## 6.4.3.5 Abdominal Skinfold
+### 6.4.3.5 Abdominal Skinfold
 
 * The direction of fold for the abdominal skinfold is horizontal.
 * The fold is taken 3 cm lateral and 1 cm inferior to center of the umbilicus.
 
-## 6.4.3.6 Chest Skinfold
+### 6.4.3.6 Chest Skinfold
 
 * The direction of fold for the chest skinfold is diagonal.
 * The fold is taken between axilla and nipple as high as possible on anterior axillary fold with measurements taken 1 cm below the fingers.
 
-## 6.4.3.7 Bicep Skinfold
+### 6.4.3.7 Bicep Skinfold
 
 * The direction of fold for the bicep skinfold is vertical (midline).
 * The fold is lifted over the belly of the biceps brachii at the level marked for the triceps and on line with the anterior border of the acromial process and the antecubital fossa.
 * The caliper is applied 1 cm below fingers.
 
-## 6.4.3.8 Thigh Skinfold
+### 6.4.3.8 Thigh Skinfold
 
 * The direction of fold for the thigh skinfold is vertical (midline).
 * The fold is lifted on anterior aspect of thigh midway between inguinal crease and proximal border of patella.
 * Body weight is shifted to the left foot and the caliper is applied 1 cm below fingers.
 
-## 6.4.3.9 Calf Skinfold
+### 6.4.3.9 Calf Skinfold
 
 For this measurement the subject should be sitting. The measurement should not be made over clothing.
 
