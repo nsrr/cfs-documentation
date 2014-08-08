@@ -26,9 +26,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/blood-collection-processing/3-05-02-01-oral-glucose-procedure.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing/3-05-02-venipuncture-procedure.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    3.5.2.1 Oral Glucose Procedure
+    3.5.2 Venipuncture Procedure
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
