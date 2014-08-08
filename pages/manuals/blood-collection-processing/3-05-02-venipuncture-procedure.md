@@ -19,7 +19,7 @@
  * **<u>NOTE</u>:** Attention should be paid to <u>minimizing turbulence</u> whenever possible.
  * Small steps, such as slanting the needle in the Vacutainer to have the blood run down the side of the tube instead of shooting all the way to the bottom, may result in significant improvement.
 
-10. Note the blood flow into the first collection tube.
+* 10. Note the blood flow into the first collection tube.
 
  * If blood is flowing freely, the butterfly needle can be taped to the participant's arm for the duration of the draw.
  * If the flow rate is very slow, the needle may not be positioned correctly.  Try moving the needle slightly without causing discomfort to the participant.
