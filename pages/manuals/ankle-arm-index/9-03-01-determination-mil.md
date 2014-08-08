@@ -27,7 +27,7 @@ Determine the pressure to which to inflate the cuff for the measurement of the s
     Ankle Arm Index
   </a>
 
-  <a href=":pages_path:/manuals/ankle-arm-index/9-03-02-00-performing-measurements.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/ankle-arm-index/9-03-02-performing-measurements.md" class="btn btn-success">
     9.3.2 Performing the Measurements
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
