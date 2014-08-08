@@ -21,7 +21,7 @@ Subsequent biochemical assays will measure the following domains: metabolism, in
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing/3-02-01-lcbr-recommended-supplies.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/blood-collection-processing/3-02-equipment.md" class="btn btn-success">
     3.2 Equipment and Supplies
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
