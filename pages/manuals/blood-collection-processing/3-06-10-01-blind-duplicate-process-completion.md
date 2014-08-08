@@ -23,7 +23,7 @@ After packing the boxes, wipe down all areas with 10% bleach solution (or approv
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing/3-07-01-general.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/blood-collection-processing/3-07-shipping-samples.md" class="btn btn-success">
     3.7 Shipping Blood Samples
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
