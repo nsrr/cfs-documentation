@@ -8,12 +8,12 @@
  * [9.2.4 Application of Blood Pressure Cuffs](:pages_path:/manuals/ankle-arm-index/9-02-04-application-bp-cuffs.md)
 * 9.3 Detailed Methods
  * [9.3.1 Determination of the Maximal Inflation Level (MIL)](:pages_path:/manuals/ankle-arm-index/9-03-01-determination-mil.md)
- * [9.3.2 Performing the Measurements](:pages_path:/manuals/ankle-arm-index/9-03-02-00-performing-measurements.md)
-    * [9.3.2.1 Guidelines for Blood Pressure Readings](:pages_path:/manuals/ankle-arm-index/9-03-02-01-guidlines-bp-readings.md)
-    * [9.3.2.2 Arm (Brachial) Systolic Blood Pressure Measurement](:pages_path:/manuals/ankle-arm-index/9-03-02-02-brachial-systolic-bp.md)
-    * [9.3.2.3 Right Ankle Systolic Blood Pressure Measurement](:pages_path:/manuals/ankle-arm-index/9-03-02-03-right-ankle-systolic-bp.md)
-    * [9.3.2.4 Left Ankle Systolic Blood Pressure Measurement](:pages_path:/manuals/ankle-arm-index/9-03-02-04-left-ankle-systolic-bp.md)
-    * [9.3.2.5 Tips for the Ankle-Arm Measurements](:pages_path:/manuals/ankle-arm-index/9-03-02-05-tips-ankle-arm-measurements.md)
+ * [9.3.2 Performing the Measurements](:pages_path:/manuals/ankle-arm-index/9-03-02-performing-measurements.md)
+    * 9.3.2.1 Guidelines for Blood Pressure Readings
+    * 9.3.2.2 Arm (Brachial) Systolic Blood Pressure Measurement
+    * 9.3.2.3 Right Ankle Systolic Blood Pressure Measurement
+    * 9.3.2.4 Left Ankle Systolic Blood Pressure Measurement
+    * 9.3.2.5 Tips for the Ankle-Arm Measurements
  * [9.3.3 Calculations](:pages_path:/manuals/ankle-arm-index/9-03-03-calculations.md)
 
 
