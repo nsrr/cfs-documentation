@@ -1,12 +1,10 @@
 ## 12.3 Compputer Setup
 
 1. Assure that the rhinometer is connected securely to the back of the hard drive in the appropriate jack (marked “nose”).
-2. Go to the **Start** icon.
-3. Highlight **Shut Down**
-4. Highlight **Restart in DOS mode from the window**.  This will produce the “C:\WINDOWS>”prompt.
-5. Type **“cd ..”** to remove the WINDOWS prompt, the computer should display only the “C:\”
-6. Type **“ncnose”**
-7. Press **Enter**. This will bring up the rhinometry data acquisition screen.  There will be one large graph, and 4 smaller ones below it.
+2. From the Windows start menu, restart computer in MS-DOS mode.
+3. Type **“cd ..”** to remove the Windows prompt. The computer should display only the ‘C:\’
+4. Type **“ncnose”**
+5. Press **Enter**. This will bring up the rhinometry data acquisition screen.  There will be one large graph, and 4 smaller ones below it.
 
 
 <div class="center">
