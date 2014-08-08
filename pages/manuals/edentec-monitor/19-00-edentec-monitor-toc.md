@@ -6,7 +6,7 @@
  * 19.2.2 Connect New Sensors to Their Respective Leads
  * 19.2.3 Check Signals
 * [19.3 In-Home Explanation of Monitor Use](:pages_path:/manuals/edentec-monitors/19-03-monitor-explanation.md)
-* [19.4 Data Collection](:pages_path:/manuals/edentec-monitors/19-04-00-data-collection.md)
+* 19.4 Data Collection
  * [19.4.1 Printing a Sleep Study](:pages_path:/manuals/edentec-monitors/19-04-01-printing-sleep-study.md)
  * [19.4.2 Digitizing a Sleep Study](:pages_path:/manuals/edentec-monitors/19-04-02-digitizing-sleep-study.md)
  * [19.4.3 Edentec Filenames](:pages_path:/manuals/edentec-monitors/19-04-03-edentec-filenames.md)
