@@ -63,7 +63,7 @@ There are three questions to ask the participant before the start of venipunctur
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing/3-05-02-00-venipuncture-procedure.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/blood-collection-processing/3-05-02-venipuncture-procedure.md" class="btn btn-success">
     3.5.2 Venipuncture Procedure
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
