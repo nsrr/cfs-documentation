@@ -19,7 +19,7 @@ Within 24 hours of receipt of the videocassette tape, the scorer will decide on 
     Brachial Reactivity
   </a>
 
-  <a href=":pages_path:/manuals/brachial-reactivity/10-16-02-00-tape-evaluation.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/brachial-reactivity/10-16-02-tape-evaluation.md" class="btn btn-success">
     10.16.2 Videocassette Tape Evaluation
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
