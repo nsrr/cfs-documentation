@@ -2,9 +2,9 @@
 
 * 1. Log on to a computer that has SAS on its hard drive and has access to the network folders for the Family study.
 * 2. Run the SAS <u>cptcheck</u> program. This will update the data set and compare the CPT files to the patient files
-* 3. Open the SAS <u>cptimport</u> program and make sure that the most recent .dat file is listed.  (You can look at the .dat files in the N:\Common\Family\CPTdata folder.)
+* 3. Open the SAS <u>cptimport</u> program and make sure that the most recent .dat file is listed.  (You can look at the .dat files in the Family CPT Data folder.)
 * 4. Run the SAS <u>cptimport</u> program. Write down the patient IDs from the output section (or print the output).
-* 5. From the <u>N:\Common\Family\CPTdata</u> folder, copy all patient files that were shown in the output to a floppy disk.
+* 5. From the Family CPT Data folder, copy all patient files that were shown in the output to a floppy disk.
 * 6. Setup the old gray Texas Instruments laptop.  You will need to watch the screen and press **F1** to Resume Setup.
 
 * It might say, **“Operating system not found”**.  Turn the computer off and back on again.  Press **F1** to Resume Setup.  It will prompt you to ‘hit any key’.  It should start up.
@@ -13,9 +13,9 @@
 * 8. Transfer the files to the old gray Texas Instruments laptop computer.
 * 9. Transfer files to the famcpt folder.
 * 10. Restart the computer in MS-DOS, make sure the CPT floppy disk is in the a: drive
-* 11. At the “C:/WINDOWS:>” prompt, type **“cd desktop”**
-* 12. At the “C:/>” prompt, type **“CD CPT”**
-* 13. At the “C:/CPT:/>” prompt, type **“CPT”**
+* 11. At the “C:/WINDOWS:>” prompt, type **‘cd desktop’**
+* 12. Type **“CD CPT”**
+* 13. Type **‘CPT’**
 * 14. From the main window of the CPT program, select the **Patient/Subject** menu
 * 15. Select **Export Data**
 * 16. Verify that the path is C:/Famcpt
