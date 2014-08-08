@@ -7,9 +7,9 @@ Each of the above measurements must be taken in order for use in skinfold predic
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/anthro-skinfold/6-03-08-neck-size.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/anthro-skinfold/6-03-anthro-measurements.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    6.3.8 Neck Size
+    6.3 Anthropometry Measurement
   </a>
 
   <a href=":pages_path:/manuals/anthro-skinfold" class="btn btn-default">
