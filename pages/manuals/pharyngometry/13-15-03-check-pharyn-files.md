@@ -2,9 +2,6 @@
 
 * 1. Verify the number of Pharyngometry files existing in the network Pharynnew directory. This will be the number of files you will expect to be read in by the SAS program.
 * 2. Open the SAS System for Windows, and open the program Pharyn Check.sas from the study’s SAS folder.
-
- * Family: <u>\\Dcefilesrv01\DCE Share Root\DCE Projects\Family Study\SAS\Pharyngometry\FPharyn Check.sas</u>
-
 * 3. Submit the program by clicking the **Run** button from the toolbar.
 * 4. When the program has completed running, check the **Log** by clicking on Log at the bottom of the screen.
 * 5. Check the log.  At the very end of the log, check that the number of records written to the userfile match the number of files you expected.
