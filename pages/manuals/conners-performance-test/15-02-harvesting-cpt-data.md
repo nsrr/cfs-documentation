@@ -2,9 +2,8 @@
 
 * 1. Boot up the CPT computer used on the patient of interest.
 * 2. Restart the computer in MS DOS mode.
-* 3. Type **“cd..”**
-* 4. Type **“cd cpt”**
-* 5. At the ‘CPT>’ prompt, type **“CPT”**
+* 3. Type **‘cd..’** and **‘cd cpt’**
+* 5. At the CPT> prompt, type **‘CPT’**
 * 6. When the program opens, using the arrows, tab to **Patient/Subject** header
 * 7. The default is set to Produce Report, press **ENTER**
 * 8. A **“Loading patient data, please wait…”** message will appear. (This message will be visible for a while.)
@@ -31,7 +30,7 @@
 * 20. Press **F10** again to access main menu.
 * 21. If necessary, repeat procedure from Step 8 to harvest another data file.  Otherwise, arrow over to Administration
 * 22. Select **Exit**
-* 23. At the CPT> prompt, type **“exit”** to restart Windows.
+* 23. At the CPT> prompt, type **‘exit’ ** to restart Windows.
 * 24. Attach CPT Data Entry Sheet to the patients PHYSIO sheet in the file.
 
 
