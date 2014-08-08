@@ -35,7 +35,7 @@
     Blood Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/blood-collection-processing/3-05-01-01-ppt-preparation.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/blood-collection-processing/3-05-01-preperation.md" class="btn btn-success">
     3.5 Venipuncture
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
