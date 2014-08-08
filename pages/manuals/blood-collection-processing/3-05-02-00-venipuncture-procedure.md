@@ -45,9 +45,9 @@ Since there are multiple draws involved in this protocol, care must be taken in 
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/blood-collection-processing/3-05-01-07-phlebotomy-form-questions.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing/3-05-01-preperation.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    3.5.1.7 Phlebotomy Form Questions
+    3.5.1 Preparation
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
