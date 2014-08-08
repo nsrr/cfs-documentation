@@ -12,9 +12,9 @@ After the study is both printed and digitized, answer **No** when the monitor as
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/edentec-monitor/19-04-02-digitizing-sleep-study.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/edentec-monitor/19-04-03-edentec-filenames.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    19.4.2 Digitizing a Sleep Study
+    19.4.3 Edentec Filenames
   </a>
 
   <a href=":pages_path:/manuals/edentec-monitor" class="btn btn-default">
@@ -22,8 +22,8 @@ After the study is both printed and digitized, answer **No** when the monitor as
     Edentec Monitor
   </a>
 
-  <a href=":pages_path:/manuals/edentec-monitor/19-04-04-converting-file.md" class="btn btn-success">
-    19.4.4 Converting a File
+  <a href=":pages_path:/manuals/edentec-monitor/19-04-05-moving-file-to-network.md" class="btn btn-success">
+    19.4.5 Moving the Converted File to the Network
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
