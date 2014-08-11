@@ -12,9 +12,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/brachial-reactivity/10-13-02-procedure.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/brachial-reactivity/10-13-reactive-hypermia.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    10.13.2 Procedure
+    10.13 Reactive Hypermia
   </a>
 
   <a href=":pages_path:/manuals/brachial-reactivity" class="btn btn-default">
