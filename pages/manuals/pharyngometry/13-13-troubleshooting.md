@@ -32,7 +32,7 @@ Gary Glass approved of these techniques, and suggested the nose holding techniqu
 * You may also ask them to blow out slowly – as if they were blowing up a balloon.
 * As a last resort, you may have them hold their nose, so they will only breathe though their mouth.
 
-<u>**13.13.6 Scattered Curves, Sailboats, or Flat Lines**</u>
+<u>**Scattered Curves, Sailboats, or Flat Lines**</u>
 
 If you find that you are obtaining “scattered” curves, “sailboats”, or flat lines, there are several things you may do.
 
