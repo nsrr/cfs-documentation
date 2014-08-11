@@ -8,9 +8,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/electrocardiogram/8-05-02-04-electrodes-v3-v4-v5.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/electrocardiogram/8-05-02-chest-electrode-leads.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    8.5.2.4 Locating Electrodes V3, V4, and V5
+    8.5.2 Chest Electrode Leads
   </a>
 
   <a href=":pages_path:/manuals/electrocardiogram" class="btn btn-default">
