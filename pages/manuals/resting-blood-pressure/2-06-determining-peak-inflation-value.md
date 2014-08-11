@@ -2,7 +2,7 @@
 
 It is necessary to determine, for each participant, the pressure level to which the cuff is to be inflated for accurate measurement of the systolic pressure. (This is because the cuff pressure at the start of the reading should always exceed the systolic pressure—otherwise the first of the Korotkoff sounds will be missed.) This starting pressure is called the “peak inflation pressure” and is determined as follows:
 
-## 2.6.1 Procedure
+### 2.6.1 Procedure
 
 1. The cuff tubing should be attached to the sphygmomanometer.
 2. The cuff should be inflated while the radial pulse is palpated and the mercury column watched closely.
