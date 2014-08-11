@@ -8,9 +8,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/pharyngometry/13-11-08-ppt-breathe-through-nose.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/pharyngometry/13-11-common-ppt-complaints.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    13.11.8 Participant Continues to Breathe Through Nose When Asked to Breathe Through Mouth Only
+    13.11 Common Participant Complains
   </a>
 
   <a href=":pages_path:/manuals/pharyngometry" class="btn btn-default">
@@ -18,7 +18,7 @@
     Pharyngometry
   </a>
 
-  <a href=":pages_path:/manuals/pharyngometry/13-13-01-looking-for-the-oropharynx.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/pharyngometry/13-13-troubleshooting.md" class="btn btn-success">
     13.13 Troubleshooting Guidelines
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
