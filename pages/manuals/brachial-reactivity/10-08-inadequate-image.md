@@ -15,7 +15,7 @@ An inadequate image includes near and/or far blood-vessel wall interfaces with l
     Brachial Reactivity
   </a>
 
-  <a href=":pages_path:/manuals/brachial-reactivity/10-09-00-preultrasound-preparation.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/brachial-reactivity/10-09-preultrasound-preparation.md" class="btn btn-success">
     10.9 Pre-Ultrasound Preparation
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
