@@ -46,7 +46,7 @@ The patient ID will be entered as follows: patient initials, screening number, a
     Brachial Reactivity
   </a>
 
-  <a href=":pages_path:/manuals/brachial-reactivity/10-10-scan-technique.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/brachial-reactivity/10-10-01-2d-image-acquisition.md" class="btn btn-success">
     10.10 Scan Technique
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
