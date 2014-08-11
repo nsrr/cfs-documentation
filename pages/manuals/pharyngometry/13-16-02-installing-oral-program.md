@@ -20,9 +20,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/pharyngometry/13-16-01-01-figure1.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/pharyngometry/13-16-01-pharyn-printout.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    13.16.1.1 Figure 1: Digital Screen of Pharyngometry Testing Program
+    13.16.1 The Pharyngometry Printout
   </a>
 
   <a href=":pages_path:/manuals/pharyngometry" class="btn btn-default">
