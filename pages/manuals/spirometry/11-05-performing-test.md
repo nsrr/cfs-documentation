@@ -34,9 +34,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/spirometry/11-04-02-coaching-ppt.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/spirometry/11-04-prep-ppt-testing.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    11.4.2 Coaching the Participant
+    11.4 Preparing for Participant Testing
   </a>
 
   <a href=":pages_path:/manuals/spirometry" class="btn btn-default">
