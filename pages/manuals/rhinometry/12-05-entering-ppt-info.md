@@ -20,7 +20,7 @@
     Rhinometry
   </a>
 
-  <a href=":pages_path:/manuals/rhinometry/12-06-00-acquiring-data.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/rhinometry/12-06-acquiring-data.md" class="btn btn-success">
     12.6 Acquiring Data
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
