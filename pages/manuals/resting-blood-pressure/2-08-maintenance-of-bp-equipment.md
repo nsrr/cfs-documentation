@@ -5,9 +5,9 @@ The condition of the instruments for BP measurement is too often neglected in co
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/resting-blood-pressure/2-07-02-ways-to-emphasize-sound.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/resting-blood-pressure/2-07-blood-pressure-readings.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    2.7.2 Ways to Emphasize Sound
+    2.7 Blood Pressure Readings
   </a>
 
   <a href=":pages_path:/manuals/resting-blood-pressure" class="btn btn-default">
