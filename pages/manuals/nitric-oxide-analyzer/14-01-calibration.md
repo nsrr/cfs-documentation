@@ -49,7 +49,7 @@ Two or three gas calibrations should be performed to make sure that the calibrat
     Nitric Oxide Analyzer
   </a>
 
-  <a href=":pages_path:/manuals/nitric-oxide-analyzer/14-01-02-calibration-gas-procedure.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/nitric-oxide-analyzer/14-02-data-collection.md" class="btn btn-success">
     14.2 Data Collection Procedure
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
