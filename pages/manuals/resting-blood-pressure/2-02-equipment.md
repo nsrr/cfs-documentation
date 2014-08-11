@@ -18,7 +18,7 @@
     Resting Blood Pressure
   </a>
 
-  <a href=":pages_path:/manuals/resting-blood-pressure/2-03-00-arm-measurement.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/resting-blood-pressure/2-03-arm-measurement.md" class="btn btn-success">
     2.3 Arm Measurement
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
