@@ -25,7 +25,7 @@ The Rhinometer wave tube needs no other cleaning process other than to wipe down
     Rhinometry
   </a>
 
-  <a href=":pages_path:/manuals/rhinometry/12-12-01-testing-raw-data-dl.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/rhinometry/12-12-data-procedure.md" class="btn btn-success">
     12.12 Data Procedure
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
