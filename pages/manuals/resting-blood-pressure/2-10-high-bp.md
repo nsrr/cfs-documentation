@@ -14,7 +14,7 @@ Make notes on the Nursing Assessment Form.
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/resting-blood-pressure/2-09-00-checking-sphygo-accuracy.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/resting-blood-pressure/2-09-checking-sphygo-accuracy.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     2.9 Checking Shygmomanometer for Accuracy
   </a>
