@@ -31,9 +31,9 @@ _Bladder widths shown are at least 40% of the largest corresponding arm circumfe
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/resting-blood-pressure/2-03-arm-measurement.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/resting-blood-pressure/2-02-equipment.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    2.3 Arm Measurement
+    2.2 Equipment
   </a>
 
   <a href=":pages_path:/manuals/resting-blood-pressure" class="btn btn-default">
