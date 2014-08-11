@@ -28,7 +28,7 @@ MISSING_IMAGE
     Pharyngometry
   </a>
 
-  <a href=":pages_path:/manuals/pharyngometry/13-16-01-00-pharyn-printout.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/pharyngometry/13-16-01-pharyn-printout.md" class="btn btn-success">
     13.16 Score Pharyngometry Curves and Print Reports
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
