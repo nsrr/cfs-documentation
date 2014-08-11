@@ -31,7 +31,7 @@ The following additional supplies should be stocked in the processing area:
     Urine Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/urine-collection-processing/4-03-01-preparation.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/urine-collection-processing/4-03-urine-collection.md" class="btn btn-success">
     4.3 Urine Collection
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
