@@ -12,9 +12,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/nitric-oxide-analyzer/14-02-02-data-collection-procedure.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/nitric-oxide-analyzer/14-02-data-collection.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    14.2.2 Data Collection Procedure
+    14.2 Data Collection Procedure
   </a>
 
   <a href=":pages_path:/manuals/nitric-oxide-analyzer" class="btn btn-default">
