@@ -36,9 +36,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/conners-performance-test/15-01-03-test-administration.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/conners-performance-test/15-01-procedures.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    15.1.3 Test Administration
+    15.1 Procedures
   </a>
 
   <a href=":pages_path:/manuals/conners-performance-test" class="btn btn-default">
@@ -46,7 +46,7 @@
     Conners Performance Test
   </a>
 
-  <a href=":pages_path:/manuals/conners-performance-test/15-03-01-data-export-from-cpt-computer.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/conners-performance-test/15-03-data-export.md" class="btn btn-success">
     15.3 Data Export
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
