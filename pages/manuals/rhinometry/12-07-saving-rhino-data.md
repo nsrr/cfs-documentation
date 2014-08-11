@@ -14,9 +14,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/rhinometry/12-06-01-administering-decongestant.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/rhinometry/12-06-acquiring-data.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    12.6.1 Administering Decongestant to the Participant
+    12.6 Acquiring Data
   </a>
 
   <a href=":pages_path:/manuals/rhinometry" class="btn btn-default">
