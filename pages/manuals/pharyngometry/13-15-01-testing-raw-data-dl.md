@@ -16,9 +16,9 @@ Raw data disks are returned to the Research Center for processing.
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/pharyngometry/13-14-02-nose-mouth-pieces.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/pharyngometry/13-14-equipment-maintenance.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    13.14.2 Nose and Mouth Pieces
+    13.14 Equipment Maintenance
   </a>
 
   <a href=":pages_path:/manuals/pharyngometry" class="btn btn-default">
