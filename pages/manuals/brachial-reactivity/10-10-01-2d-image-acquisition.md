@@ -65,7 +65,7 @@ The highly detailed zoomed image will be held as steady as possible for one minu
     Brachial Reactivity
   </a>
 
-  <a href=":pages_path:/manuals/brachial-reactivity/10-11-01-initial-doppler-settings.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/brachial-reactivity/10-11-pw-doppler.md" class="btn btn-success">
     10.11 Pulse Wave (PW) Doppler
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
