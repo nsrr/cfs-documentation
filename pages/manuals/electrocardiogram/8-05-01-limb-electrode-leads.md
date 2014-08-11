@@ -27,7 +27,7 @@ Begin with the **RIGHT LEG**. This is an important connection as this is the gro
     Electrocardiogram
   </a>
 
-  <a href=":pages_path:/manuals/electrocardiogram/8-05-02-01-electrodes-v1-v2.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/electrocardiogram/8-05-02-chest-electrode-leads.md" class="btn btn-success">
     8.5.2 Chest Electrod Leads
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
