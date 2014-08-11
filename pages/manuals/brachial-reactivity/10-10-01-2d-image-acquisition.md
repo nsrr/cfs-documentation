@@ -55,9 +55,9 @@ The highly detailed zoomed image will be held as steady as possible for one minu
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/brachial-reactivity/10-09-02-scan-preparation.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/brachial-reactivity/10-09-preultrasound-preparation.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    10.9.2 Scan Preparation
+    10.9 Pre-Ultrasound Preparation
   </a>
 
   <a href=":pages_path:/manuals/brachial-reactivity" class="btn btn-default">
