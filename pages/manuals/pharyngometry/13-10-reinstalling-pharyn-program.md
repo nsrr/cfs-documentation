@@ -21,7 +21,7 @@ In the event that power is disrupted during the time the pharyngometry program i
     Pharyngometry
   </a>
 
-  <a href=":pages_path:/manuals/pharyngometry/13-11-01-ppt-unsure-pharyn-tube.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/pharyngometry/13-11-common-ppt-complaints.md" class="btn btn-success">
     13.11 Common Participant Complains
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
