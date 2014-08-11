@@ -7,9 +7,9 @@ Part of the BP measurement procedure is the measurement of the pulse, as observe
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/resting-blood-pressure/2-03-02-table1-cuff-size.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/resting-blood-pressure/2-03-arm-measurement.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    2.3.2 Table 1: Cuff Size Indicated by Measured Arm Circumference
+    2.3 Arm Measurement
   </a>
 
   <a href=":pages_path:/manuals/resting-blood-pressure" class="btn btn-default">
