@@ -17,7 +17,7 @@
     Resting Blood Pressure
   </a>
 
-  <a href=":pages_path:/manuals/resting-blood-pressure/2-06-00-determining-peak-inflation-value.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/resting-blood-pressure/2-06-determining-peak-inflation-value.md" class="btn btn-success">
     2.6 Determining The Peak Inflation Value
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
