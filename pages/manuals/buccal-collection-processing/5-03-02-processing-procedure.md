@@ -17,7 +17,13 @@
 15. Bring this information back to the office to be entered into the excel database.
 
  * The excel data base can be found at n:\common\family\family blood data\allbuccul.xls.
- * **<u>NOTE</u>:** To enter you will need the following information; familyi, personi, rectype, firstname, lastname, boxno, loc (row and column), there is also room for any necessary comments.
+
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    To enter you will need the following information; familyi, personi, rectype, firstname, lastname, boxno, loc (row and column), there is also room for any necessary comments.
+  </p>
+</div>
 
 
 <div class="center">
