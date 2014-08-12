@@ -2,7 +2,12 @@
 
 Upon awakening, the nurse will have stopped the recording of the study.
 
-**<u>NOTE</u>:** The blinking red icon will turn to ‘DONE’. **That will be your only indicator that the study is done.**
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    The blinking red icon will turn to ‘DONE’. **That will be your only indicator that the study is done.
+  </p>
+</div>
 
 1. Leave the machine as is until the research assistant comes to shut the equipment down or exit the program by clicking on the **File** drop down menu and select **Exit**.
 2. Close profusion NetBeacon by clicking **Done**.
