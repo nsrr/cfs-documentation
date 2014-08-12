@@ -59,7 +59,15 @@
 * <u>Citrate</u> – After centrifugation, 0.5 mL of plasma is pipetted into cryovials #17–20.  These will be blue-capped cryovials.  The packed cells remaining in the tube can be added to tube #33.  Tube #33 is a red-capped 10.0 mL tube.
 * <u>EDTA</u> – After centrifugation, plasma will be pipetted into cryovials # 21–24.  1.0 mL of plasma is added to clear-capped vial #21.  1.0 mL of plasma is added to white-capped vials #22-24.  The packed cells remaining in the tube are added to tube #33.
 * <u>SCAT-1</u> – After centrifugation, plasma will be pipetted into cryovials #25–28.  These will be yellow-capped cryovials.  The packed cells remaining in the tube are added to tube #33.
-* <u>Packed Cells</u> – The packed cell tube #33 is a red-capped cryovial that will be frozen and shipped to the LCBR for storage.  **<u>NOTE</u>:** Packed cells are only collected from the 8:00 AM draw and not the PM draw.  Although the tube holds 10 mL, only 9 mL of material can be added to the tube due to expansion during freezing.  The cells from the EDTA and SCAT-1 tubes should be added to tube #33 first and, if there is sufficient space, cells from the citrate tube can also be added for a total volume of 9 mL
+* <u>Packed Cells</u> – The packed cell tube #33 is a red-capped cryovial that will be frozen and shipped to the LCBR for storage.
+
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    Packed cells are only collected from the 8:00 AM draw and not the PM draw.  Although the tube holds 10 mL, only 9 mL of material can be added to the tube due to expansion during freezing.  The cells from the EDTA and SCAT-1 tubes should be added to tube #33 first and, if there is sufficient space, cells from the citrate tube can also be added for a total volume of 9 mL
+  </p>
+</div>
+
 * <u>Serum</u> – 1.0 mL of the serum is pipetted into cryovials #29–32.  Tube #29 is a clear-capped cryovial and tubes #30–32 are red-capped cryovials.
 * <u>Blind Duplicates*</u> – The tubes are handled in the same way as the regular collection tubes. The EDTA, Citrate and SCAT-1 tubes are placed on the mixer for approximately 30 seconds, then placed in ice, and centrifuged within 15 to 30 minutes. The Serum tube remains at room temperature for a minimum of 40 minutes to clot before centrifuging.
 
