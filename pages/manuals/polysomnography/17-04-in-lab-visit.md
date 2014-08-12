@@ -17,9 +17,9 @@ Listed are some features that will assure a successful visit:
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/polysomnography/17-03-02-07-trace-settings.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/polysomnography/17-03-02-equipment-prep.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    17.3.2.7 Table 4: Trace Settings for the Family Study
+    17.3.2 Equipment Preparation
   </a>
 
   <a href=":pages_path:/manuals/polysomnography" class="btn btn-default">
