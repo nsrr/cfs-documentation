@@ -13,7 +13,15 @@
      * 90 % of any stage of sleep (Stage 1, Stage 2, Deep Sleep, Stage REM)
      * Arousal Index < 3
      * Min O2sat < 40 %
-     * Min duration of respiratory event < 10 sec.  **<u>NOTE</u>:** duration of respiratory event should be at least 10 sec, but due to the rounding error (length of events is rounded on the computer screen and truncated at the reports) some events length 9 sec will be left in the report.
+     * Min duration of respiratory event < 10 sec.
+
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    Duration of respiratory event should be at least 10 sec, but due to the rounding error (length of events is rounded on the computer screen and truncated at the reports) some events length 9 sec will be left in the report.
+  </p>
+</div>
+
      * Max duration of resp. event  > 150 sec
 
 <div class="bs-callout bs-callout-info">
