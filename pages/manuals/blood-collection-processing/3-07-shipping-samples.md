@@ -33,7 +33,12 @@ For <u>frozen</u> shipments to the LCBR at the University of Vermont. This shipp
 10. Affix shipping label(s).  Place the entire box in the refrigerator if pickup is not immediate. (Samples should not be on dry ice for >24 hours).
 11. Fill out the Shipping Log including the FedEx airbill numbers and fax to the LCBR at the University of Vermont at (802) 656-8965.
 
-**<u>NOTE</u>:** If blind duplicates are included in the shipment to the LCBR, the Blind Duplicate Shipping Form should be completed and faxed to the LCBR.
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    If blind duplicates are included in the shipment to the LCBR, the Blind Duplicate Shipping Form should be completed and faxed to the LCBR.
+  </p>
+</div>
 
 
 <div class="center">
