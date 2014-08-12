@@ -9,8 +9,14 @@
 7. Press **Enter**.  The screen will quickly flash blank and return to the same screen with no further prompts given.  You can assume that the file was saved.
 8. When the second set of data has been collected, highlight **Save** on the screen.
 9. Re-enter the same patient information as above, adding **“ns”** at the end of the filename to indicate that this set of data was collected after the neosynephrine was used.
-10. The computer will ask if you wish to update patient information.  Do so if not already completed. **<u>NOTE</u>:** Once saved, the data cannot be manipulated and saved under the same name.  Make sure data is accurate and complete before saving.
+10. The computer will ask if you wish to update patient information.  Do so if not already completed.
 
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    Once saved, the data cannot be manipulated and saved under the same name.  Make sure data is accurate and complete before saving.
+  </p>
+</div>
 
 <div class="center">
 <div class="btn-group">
