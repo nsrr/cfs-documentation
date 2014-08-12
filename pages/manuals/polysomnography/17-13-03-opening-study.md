@@ -20,7 +20,7 @@
     Polysomnography
   </a>
 
-  <a href=":pages_path:/manuals/polysomnography/17-14-00-scoring-procedures.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/polysomnography/17-14-scoring-procedures.md" class="btn btn-success">
     17.14 Scoring Procedures
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
