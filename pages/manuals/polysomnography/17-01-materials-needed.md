@@ -42,7 +42,7 @@ Below is a list of supplies for single person use (however, make sure you pack e
     Polysomnography
   </a>
 
-  <a href=":pages_path:/manuals/polysomnography/17-02-00-psg-training-cert.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/polysomnography/17-02-psg-training-cert.md" class="btn btn-success">
     17.2 PSG Training and Certification Requirements
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
