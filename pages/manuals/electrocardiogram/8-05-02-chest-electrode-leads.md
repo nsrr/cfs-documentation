@@ -36,7 +36,13 @@
 1. Place to mark the location of V4, which is at the intersection of the midclavicular line and the fifth intercostal space
 2. Proceed to mark location V3, which is equidistant between V4 and V6
 
-**<u>NOTE</u>:** Chest electrode positions are determined with respect to anatomical landmarks on the thorax. In women with large pendulous breasts, place electrodes on top of the breast in their natural positions when supine. Do not attempt to place the electrodes under the breast or to move the breast upwards or laterally. If the position for V4 is at the nipple, move electrode a bit to the side.
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    Chest electrode positions are determined with respect to anatomical landmarks on the thorax. In women with large pendulous breasts, place electrodes on top of the breast in their natural positions when supine. Do not attempt to place the electrodes under the breast or to move the breast upwards or laterally. If the position for V4 is at the nipple, move electrode a bit to the side.
+
+  </p>
+</div>
 
 
 <div class="center">
