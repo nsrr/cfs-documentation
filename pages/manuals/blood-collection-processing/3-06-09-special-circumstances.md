@@ -13,9 +13,9 @@
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/blood-collection-processing/3-06-08-02-serum.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing/3-06-08-aliquoting-description-1000AM.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
-    3.6.8.2 Serum
+    3.6.8 Aliquoting Description and Scheme - 10:00 AM
   </a>
 
   <a href=":pages_path:/manuals/blood-collection-processing" class="btn btn-default">
