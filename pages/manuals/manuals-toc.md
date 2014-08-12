@@ -14,7 +14,7 @@
 * [12. Rhinometry](:pages_path:/manuals/rhinometry)
 * [13. Pharyngometry](:pages_path:/manuals/pharyngometry)
 * [14. Nitric Oxide Analyzer](:pages_path:/manuals/nitric-oxide-analyzer)
-* [15. Connors Performance Test](:pages_path:/manuals/connors-performance-test)
+* [15. Conners Performance Test](:pages_path:/manuals/conners-performance-test)
 * [16. Cephalometric Radiographs](:pages_path:/manuals/cephalometric-radiographs)
 * [17. Polysomnography](:pages_path:/manuals/polysomnography)
 * [18. Polysomnography Reading Center](:pages_path:/manuals/psg-reading-center)
