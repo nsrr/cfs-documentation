@@ -4,7 +4,13 @@ Set up can be done in any comfortable chair. Clear a flat surface area to set up
 
 If the participant has not taken a shower (24 hrs.) prior to your arrival, ask him/her to wash his/her face and chest with soap and water before applying electrodes.  Explain that the electrodes will adhere better and a better study will be produced if the skin is cleansed in this manner.
 
-**<u>NOTE</u>:** If the setting is poorly lighted, you may consider using a camping style headlamp to help illuminate the scalp, the neck and other areas in which placement is critical.
+
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    If the setting is poorly lighted, you may consider using a camping style headlamp to help illuminate the scalp, the neck and other areas in which placement is critical.
+  </p>
+</div>
 
 
 <div class="center">
