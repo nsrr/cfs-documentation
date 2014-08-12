@@ -43,8 +43,12 @@ _Positive leads are blue on the PIB and Negative leads are black on the PIB._
 | PtRef   | Gray gold cup (pt forehead to the right)                               |
 | GRD     | One gold cup electrode (Cz ground)(green)                              |
 
-
-**<u>NOTE</u>:** You may want to separately gather all right sided electrodes (C4, A2, EOG/R) and all left sided electrodes (C3, A1, EOG/L) and secure them through a styrofoam cup that has had a hole punched into its bottom. This may prevent tangling, and help with easier identification during placement.
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    You may want to separately gather all right sided electrodes (C4, A2, EOG/R) and all left sided electrodes (C3, A1, EOG/L) and secure them through a styrofoam cup that has had a hole punched into its bottom. This may prevent tangling, and help with easier identification during placement.
+  </p>
+</div>
 
 Oximeter Probe and Nasal Cannula are attached directly to the Control Module. Both of these use a clear plastic adaptor. The nasal cannula goes into the airflow port, NOT pressure port (the pressure port is for administering CPAP titration which we do not do).
 
