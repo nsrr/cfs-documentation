@@ -46,7 +46,7 @@ Electrodes are a durable object with a long shelf life.  They may have been manu
     Polysomnography
   </a>
 
-  <a href=":pages_path:/manuals/polysomnography/17-16-02-01-methods-clean-disinfect.md" class="btn btn-success">
+  <a href=":pages_path:/manuals/polysomnography/17-16-02-clean-disinfect.md" class="btn btn-success">
     17.16.2 Cleaning and Disinfection of Equipment
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
