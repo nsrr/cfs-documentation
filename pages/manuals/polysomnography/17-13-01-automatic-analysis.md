@@ -35,14 +35,14 @@ The analysis, for the most part, is done completely by the program.  You will on
     <span class="glyphicon glyphicon-chevron-left"></span>
     17.13 Data Collection
   </a>
-
+U
   <a href=":pages_path:/manuals/polysomnography" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-up"></span>
     Polysomnography
   </a>
 
-  <a href=":pages_path:/manuals/polysomnography/17-13-00-data-collection.md" class="btn btn-success">
-    17.13 Data Collection
+  <a href=":pages_path:/manuals/polysomnography/17-13-02-saving-sleep-study.md" class="btn btn-success">
+    17.13.2 Saving the Sleep Study on CD-ROM
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
