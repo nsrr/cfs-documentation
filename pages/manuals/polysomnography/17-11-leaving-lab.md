@@ -5,7 +5,12 @@
 3. Tell the participant what to expect in the morning and what time you will return.
 4. Clean up, leaving the area as neat as it was before your visit.
 
-**<u>NOTE</u>:**  If a male participant reports the need to make frequent trips to the bathroom, consider providing a hand-held urinal for bedside use.
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    If a male participant reports the need to make frequent trips to the bathroom, consider providing a hand-held urinal for bedside use.
+  </p>
+</div>
 
 
 <div class="center">
