@@ -33,7 +33,16 @@ If during checking, any changes or corrections need to be done, they can be done
 
 1. Open SAS report
 2. Find string "30sec" and replace it with **“00:01”**
-3. Save report.  **<u>NOTE</u>:** This has to be done every time after SAS report is run.
+3. Save report.
+
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    This has to be done every time after SAS report is run.
+
+  </p>
+</div>
+
 
 <u>Minimum Respiratory Event Length <10 Sec</u>
 
