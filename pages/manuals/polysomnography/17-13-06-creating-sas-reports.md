@@ -2,7 +2,12 @@
 
 In New Report window, select **SAS** from the drop down menu.  This report has to be saved in the study folder as a text-only document. Name of the report should be Participant ID proceeded by letter ‘S’ and saved as a text file (.txt)
 
-**<u>NOTE</u>:** Make sure that in the Save As Type menu, ‘Text Only’ is selected.  Do not select ‘Text Only with the line breaks’. Ignore warnings given by Word while saving.
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    Make sure that in the Save As Type menu, ‘Text Only’ is selected.  Do not select ‘Text Only with the line breaks’. Ignore warnings given by Word while saving.
+  </p>
+</div>
 
 
 <div class="center">
