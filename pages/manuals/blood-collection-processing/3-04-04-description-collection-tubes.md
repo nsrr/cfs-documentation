@@ -18,7 +18,14 @@
 **<u>Tube #4 is a 5mL red-topped "Special Coagulation" tube (SCAT-I) containing a white, powdered anticoagulant provided by the LCBR.</u>**
 
 * This tube contains a special combination of anticoagulants that ensure long-term stability of the plasma sample.  Specifically, this tube, when filled, will contain 4.5 mM EDTA, 150 KIU/mL aprotinin and 20 uM D-Phe-Pro-Arg-chloromethylketone.  The SCAT-1 tube must be stored refrigerated. It must be drawn <u>after</u> at least one other tube has been drawn.
-* **<u>NOTE</u>:** This tube is 'non-sterile', therefore it must be drawn using a butterfly apparatus with 12 inches of tubing; alternatively, a syringe may be used for the venipuncture, and expressed through the cap (with great care to limit turbulence) into the SCAT tube.
+
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    This tube is 'non-sterile', therefore it must be drawn using a butterfly apparatus with 12 inches of tubing; alternatively, a syringe may be used for the venipuncture, and expressed through the cap (with great care to limit turbulence) into the SCAT tube.
+  </p>
+</div>
+
 * <u>It is critical that the SCAT-1 tube is mixed well (>30 sec of gentle inversion) before being placed on ice to await further processing/centrifugation.</u>  The plasma will be aliquoted after centrifugation (4 yellow-capped 0.5 mL cryovials with 0.5 mL each).  Once the plasma is removed, the packed cells are removed into the 10 mL red-capped cryovial.
 * _The plasma will be used for measuring inflammatory markers._
 
