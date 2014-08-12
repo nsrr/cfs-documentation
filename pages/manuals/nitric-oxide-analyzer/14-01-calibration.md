@@ -34,7 +34,12 @@ Two or three gas calibrations should be performed to make sure that the calibrat
 12. Disconnect the tubing from the tank.
 13. Leave the machine running for testing.
 
-**<u>NOTE</u>:** If you are going to let the machine set for any length of time you should attach the tubing to the zero air filter.
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    If you are going to let the machine set for any length of time you should attach the tubing to the zero air filter.
+  </p>
+</div>
 
 
 <div class="center">
