@@ -14,8 +14,12 @@
 | 39                           | 19.5           | 7.8            |
 | 40                           | 20.0           | 8.0            |
 
-
-**<u>NOTE</u>:** If the _total_ value measurement contains a fraction, continue to use the percentage values as the whole number. Example: Total measurement = 35.2, 35.5, 35.7 continue to use the percentage values for 35.
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    If the _total_ value measurement contains a fraction, continue to use the percentage values as the whole number. Example: Total measurement = 35.2, 35.5, 35.7 continue to use the percentage values for 35.
+  </p>
+</div>
 
 
 Remember:
