@@ -39,7 +39,14 @@ If during checking, any changes or corrections need to be done, they can be done
 
 This outlier needs to be corrected in the study, a new SAS report created, and checked again for the presence of the outliers.
 
-**<u>NOTE</u>:** Due to the rounding error some respiratory events lengths (9.5-9.9 sec) can be difficult to find.  They will appear as a 10 sec long in the list of the respiratory events on the screen and 9 sec in the report.  In this case, they can be left.  On QS form, for Question 29e (outliers - other), check box "yes" and place note in the Notes section (ex. Outlier 9 sec hypopnea).
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    Due to the rounding error some respiratory events lengths (9.5-9.9 sec) can be difficult to find.  They will appear as a 10 sec long in the list of the respiratory events on the screen and 9 sec in the report.  In this case, they can be left.  On QS form, for Question 29e (outliers - other), check box "yes" and place note in the Notes section (ex. Outlier 9 sec hypopnea).
+
+  </p>
+</div>
+
 
 <u>0% Of Any Sleep Stages, >90% Of Any Sleep Stages</u>
 
