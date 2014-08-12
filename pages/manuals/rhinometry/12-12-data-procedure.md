@@ -13,7 +13,12 @@ RF1234ns.000
 * __  – 2 underscores
 * Ns identifies test after nasal spray
 
-**<u>NOTE</u>:** There should be two files for each ID, one before and one after administration of nasal spray.  Raw data disks are returned to the Research Center for processing.
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    There should be two files for each ID, one before and one after administration of nasal spray.  Raw data disks are returned to the Research Center for processing.
+  </p>
+</div>
 
 ### 12.12.2 Upload and Backup of Data
 
