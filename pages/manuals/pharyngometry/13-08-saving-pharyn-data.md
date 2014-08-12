@@ -11,7 +11,12 @@ After acquiring one ‘nose breath’ trial and three reproducible ‘mouth brea
 7. Press **Enter**.  They screen will quickly flash blank and return to the same screen with no further prompts given.
 8. You can assume that the file was saved.
 
-**<u>NOTE</u>:** Once saved, the subject information and data cannot be manipulated and re-saved under the same name.  Make sure data are accurate and complete before saving.
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    Once saved, the subject information and data cannot be manipulated and re-saved under the same name.  Make sure data are accurate and complete before saving.
+  </p>
+</div>
 
 
 <div class="center">
