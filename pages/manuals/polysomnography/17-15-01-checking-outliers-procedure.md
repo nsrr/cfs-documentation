@@ -14,6 +14,7 @@
      * Arousal Index < 3
      * Min O2sat < 40 %
      * Min duration of respiratory event < 10 sec.
+     * Max duration of resp. event  > 150 sec
 
 <div class="bs-callout bs-callout-info">
   <p>
@@ -22,7 +23,7 @@
   </p>
 </div>
 
-     * Max duration of resp. event  > 150 sec
+
 
 <div class="bs-callout bs-callout-info">
   <p>
