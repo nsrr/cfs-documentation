@@ -31,7 +31,14 @@ Standard procedures as outlined below is followed for most Vacutainer tubes with
 ### 3.6.4.3 Any Citrate Tube for Factor VIIc Assays
 
 * Factor VIIc has been shown to be affected by incubation at 4ºC (i.e., on ice or in the refrigerator).  Consequently, if the most accurate assay is desired, care should be taken to use room temperature handling and processing.
-* **<u>NOTE</u>:** Excessive heat (such as might be generated during centrifugation if temperature is not controlled) is also inconsistent with accurate results.
+
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    Excessive heat (such as might be generated during centrifugation if temperature is not controlled) is also inconsistent with accurate results.
+  </p>
+</div>
+
 * Samples should not be snap-frozen in a dry ice bath or in a –70°C freezer, once preparation is complete.  When room temperature handling and processing is not available, Astandard processing at 4°C may be used with an effort to limit the time the sample is in the cold, with the understand that some degree of activation will occur.
 
 ### 3.6.4.4 Any Citrate Tube for PAI-1 Assays
