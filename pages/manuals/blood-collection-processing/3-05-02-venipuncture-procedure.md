@@ -8,15 +8,29 @@
 * 4. Cleanse venipuncture site by wiping with alcohol prep pad in a circular motion from center to periphery.  Allow area to dry.
 * 5. Reapply tourniquet and start timer.
 
- * **<u>NOTE</u>:** If possible, it is best to <u>release the tourniquet</u> as soon as possible after flow has been established.
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    If possible, it is best to <u>release the tourniquet</u> as soon as possible after flow has been established.
+  </p>
+</div>
+
  * Tightened tourniquet should be on no longer than 2 minutes recommended or loosen tourniquet, then reapply if necessary.  In our experience, however, especially with sick and/or elderly subjects, this may result in flow stopping, and the trauma of a second venipuncture. Therefore, this is a judgment call based upon the phlebotomist’s experience and skill.
+
+
 
 * 6. Grasp the participant's arm firmly, using your thumb to draw the skin taut. This anchors the vein.  The thumb should be 1 or 2 inches below the venipuncture site.
 * 7. With the needle bevel upward, enter the vein in a smooth continuous motion.
 * 8. Make sure the participant's arm is in a flat or downward position while maintaining the tube below the site when the needle is in the vein.  It may be helpful to have the participant make a fist with the opposite hand and place it under the elbow for support.
 * 9. Grasp the flange of the Vacutainer holder and gently push the tube forward until the butt end of the needle punctures the stopper, exposing the full lumen of the needle.
 
- * **<u>NOTE</u>:** Attention should be paid to <u>minimizing turbulence</u> whenever possible.
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    Attention should be paid to <u>minimizing turbulence</u> whenever possible.
+  </p>
+</div>
+
  * Small steps, such as slanting the needle in the Vacutainer to have the blood run down the side of the tube instead of shooting all the way to the bottom, may result in significant improvement.
 
 * 10. Note the blood flow into the first collection tube.
