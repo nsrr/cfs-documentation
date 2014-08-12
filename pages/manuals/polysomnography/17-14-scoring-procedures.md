@@ -37,7 +37,15 @@ Setup of the screen used for scoring should be the same on all scorers’ comput
 
 * 10. Copy of the SAS report placed in the SAS Reports folder and then saved as a text file in the Family SAS folder.
 * 11. <u>QS form completed</u>.
-* 12. <u>Scored study backup</u>.  A copy of the folder with the scored study is placed in Family Scored Files folder.  A second copy of the folder with the scored files (without Rawdata.slp file) placed on the file server (Drive N on scorers’ computer).  Then save a copy to a CD. Once the study is saved to a CD, it may be deleted. **<u>NOTE</u>:** Verify that the CD is working and can be read BEFORE deleting the study from the hard drive.
+* 12. <u>Scored study backup</u>.  A copy of the folder with the scored study is placed in Family Scored Files folder.  A second copy of the folder with the scored files (without Rawdata.slp file) placed on the file server (Drive N on scorers’ computer).  Then save a copy to a CD. Once the study is saved to a CD, it may be deleted.
+
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    Verify that the CD is working and can be read BEFORE deleting the study from the hard drive.
+  </p>
+</div>
+
 * 13. <u>Scored study deleted from the hard drive</u>.
 
 ### 17.14.1 Sleep Staging and Arousals
