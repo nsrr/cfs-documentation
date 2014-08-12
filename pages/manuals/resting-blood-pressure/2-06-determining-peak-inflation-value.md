@@ -9,7 +9,13 @@ It is necessary to determine, for each participant, the pressure level to which 
 3. When sufficient pressure has been applied, the pulse will no longer be felt. When this pulse disappearance has been detected, the cuff is inflated another 20 mm Hg and then quickly and completely deflated.
 4. The observed pulse obliteration pressure is noted and 20 mm Hg are added. This sum is the <u>peak inflation level</u>; the cuff is to be inflated to this level for all readings at this examination.
 
-**<u>NOTE</u>:**  All readings are made to the nearest even digit. Any reading which appears to fall exactly between markings on the column should be read to the next marking immediately above, i.e., 2, 4, 6, 8, or 0.
+
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    All readings are made to the nearest even digit. Any reading which appears to fall exactly between markings on the column should be read to the next marking immediately above, i.e., 2, 4, 6, 8, or 0.
+  </p>
+</div>
 
 
 <div class="center">
