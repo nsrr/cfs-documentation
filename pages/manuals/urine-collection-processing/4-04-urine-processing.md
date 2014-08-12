@@ -17,7 +17,12 @@
 
 * 4. Once the first collection is received, measured and divided, swirl the urine and acid in the second container to mix the contents.  Take care to avoid splashing.
 
- * **<u>NOTE</u>:**  We recommend that this procedure be carried out in a fume hood.  While not toxic at the levels used for this study, acetic acid has a strong, unpleasant odor and the addition of acid to the urine may generate a small amount of heat.
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    We recommend that this procedure be carried out in a fume hood.  While not toxic at the levels used for this study, acetic acid has a strong, unpleasant odor and the addition of acid to the urine may generate a small amount of heat.
+  </p>
+</div>
 
 * 5. Once the acid is added and the container is capped, the container can be safely removed for storage in the refrigerator.
 * 6. The addition of subsequent urine samples to this container should also take place in the fume hood. The container can be removed from the refrigerator and the urine added in the hood. The container can then be re-capped and stored in the refrigerator until the next urine addition or processing.
