@@ -23,8 +23,6 @@
   </p>
 </div>
 
-
-
 <div class="bs-callout bs-callout-info">
   <p>
     <strong>Note:</strong>
