@@ -24,7 +24,7 @@
     Buccal Collection and Processing
   </a>
 
-  <a href=":pages_path:/manuals/buccal-collection-processing/5-03-02-processing-procedure" class="btn btn-success">
+  <a href=":pages_path:/manuals/buccal-collection-processing/5-03-02-processing-procedure.md" class="btn btn-success">
     5.3.2 Processing Procedure
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
