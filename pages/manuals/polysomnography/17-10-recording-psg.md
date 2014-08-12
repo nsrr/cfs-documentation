@@ -21,7 +21,12 @@
 
 * 10. Click **OK** at the bottom.
 
-**<u>NOTE</u>:** Must at least select ‘Configuration’ to be able to record. Next to the blinking box on the icon toolbar the patient information will be displayed.
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    Must at least select ‘Configuration’ to be able to record. Next to the blinking box on the icon toolbar the patient information will be displayed.
+  </p>
+</div>
 
 ### 17.10.2 Set the Computer to Record the Sleep Study
 
