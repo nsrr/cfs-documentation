@@ -4,7 +4,12 @@
 2. Measure up the head 10%. This is Oz or the central O.
 3. Mark this spot with a china marker. Measure to the left 10% for O1. Measure out to the right for O2. Visually, these channels should be symmetrical on the patient’s head behind the eyes.
 
-**<u>NOTE</u>:** O1 and O2 are only used for the Sleep Vigilance concentration test. The channels are not recorded with the sleep studies.
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    O1 and O2 are only used for the Sleep Vigilance concentration test. The channels are not recorded with the sleep studies.
+  </p>
+</div>
 
 
 <div class="center">
