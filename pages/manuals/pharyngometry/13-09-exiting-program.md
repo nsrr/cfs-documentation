@@ -3,7 +3,12 @@
 1. To exit program and return to Window’s main screen, press **Esc**.
 2. The screen will be black with red script reading: **“If you wish to exit the program, press Esc. To return to the program, press any key.”** Press **Esc**. You should now be back to the Window’s main screen.
 
-**<u>NOTE</u>:** Once you exit the program back to the Window’s main screen, any unsaved data will be lost
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    Once you exit the program back to the Window’s main screen, any unsaved data will be lost
+  </p>
+</div>
 
 
 <div class="center">
