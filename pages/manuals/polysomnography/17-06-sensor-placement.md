@@ -2,7 +2,12 @@
 
 Proper sensor placement is very important for effectively recording sleep patterns.  Because you will be connecting the sensors to the patient, you should become familiar with each sensor and learn how to correctly place and connect them.  All sensors should be labeled to simplify their identification and connections.
 
-**<u>NOTE</u>:** When connecting the sensors, be sure to hold the sensors by the ends, **not** by the wires.  Also, for cleanliness, use non-sterile patient-care gloves when applying electrodes.
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    When connecting the sensors, be sure to hold the sensors by the ends, **not** by the wires.  Also, for cleanliness, use non-sterile patient-care gloves when applying electrodes.
+  </p>
+</div>
 
 Below are general rules for good sensor placement:
 
