@@ -13,7 +13,7 @@ After packing the boxes, wipe down all areas with 10% bleach solution (or approv
 
 <div class="center">
 <div class="btn-group">
-  <a href=":pages_path:/manuals/blood-collection-processing/3-06-10-01-blind-duplicate-process-completion.md" class="btn btn-default">
+  <a href=":pages_path:/manuals/blood-collection-processing/3-06-10-00-processing-completion.md" class="btn btn-default">
     <span class="glyphicon glyphicon-chevron-left"></span>
     3.6.10 Processing Completion
   </a>
