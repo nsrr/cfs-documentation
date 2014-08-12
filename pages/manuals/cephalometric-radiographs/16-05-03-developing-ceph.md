@@ -5,7 +5,15 @@ When you are finished with all participants or when you are out of fresh cassett
 1. Enter darkroom and lock door behind you.
 2. Turn on safety lights and turn off regular lights.
 3. Open the first cassette and remove the film.
-4. Gently feed the edge of the film into the receiving slot of the developer.  **<u>NOTE</u>:** The slot is just a little bigger than a ceph film, be very careful that it is feeding straight or it could get stuck
+4. Gently feed the edge of the film into the receiving slot of the developer.
+
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    The slot is just a little bigger than a ceph film, be very careful that it is feeding straight or it could get stuck
+  </p>
+</div>
+
 5. Once assured that the film is feeding properly, take the now-empty cassette and reload with a fresh film from the film box.
 6. Repeat steps 5-7 until all cassettes are reloaded.
 7. When last film is inside developer, and the film box is resealed, you can turn on the lights again.
