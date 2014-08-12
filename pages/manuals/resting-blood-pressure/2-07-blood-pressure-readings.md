@@ -2,7 +2,12 @@
 
 The observer should proceed to carry out the first BP reading. <u>The systolic value (1st phase Korotkoff) can be identified as the pressure level where the first of 2 or more sounds are heard in the appropriate rhythm. The diastolic value (5th phase Korotkoff) can be identified as the pressure level where the last of these rhythmic sounds is heard.</u>
 
-**<u>NOTE</u>:** A single sound heard in isolation (i.e., _not in rhythmic sequence_) before the first of the rhythmic sounds (systolic) or following the last of the rhythmic sounds (diastolic) does not meet these criteria for the systolic or diastolic endpoints. _If the sounds are heard all the way to 0 mm Hg, record the 4th phase DBP. The measurement should be recorded as Korotkoff 1/Korotkoff 4/ Korotoff 5 (e.g., 122/60/0 on the physioform in the margin, just to bring it to our attention)._
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    A single sound heard in isolation (i.e., _not in rhythmic sequence_) before the first of the rhythmic sounds (systolic) or following the last of the rhythmic sounds (diastolic) does not meet these criteria for the systolic or diastolic endpoints. _If the sounds are heard all the way to 0 mm Hg, record the 4th phase DBP. The measurement should be recorded as Korotkoff 1/Korotkoff 4/ Korotoff 5 (e.g., 122/60/0 on the physioform in the margin, just to bring it to our attention)._
+  </p>
+</div>
 
 The American Heart Association (1980) defines the K-sounds as follows. (American Heart Association. _Recommendation for Human Blood Pressure Determination by Sphygmomanometer._ Dallas, American Heart Association, 1980).
 
