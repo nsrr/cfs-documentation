@@ -23,7 +23,15 @@ Standard procedures as outlined below is followed for most Vacutainer tubes with
 * After centrifugation (30,000 g-minutes), the plasma from this tube must be filtered.
 * Use a 3 cc syringe with Luer adapter (no needle) and remove the plunger.
 * Attach a filter (0.2 micron Gelman Acrodisk) to the end of the syringe.
-* Using a calibrated, plastic transfer pipet, draw up approximately 1.0 mL from the middle region of the plasma in the Diatube and place it into the bottom of the syringe.  **<u>NOTE</u>:** Plasma will not drip through the filter unless pressure is exerted on it.
+* Using a calibrated, plastic transfer pipet, draw up approximately 1.0 mL from the middle region of the plasma in the Diatube and place it into the bottom of the syringe.
+
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    Plasma will not drip through the filter unless pressure is exerted on it.
+  </p>
+</div>
+
 * Insert the syringe plunger and slowly push the plasma through the filter into a cryovial.  It will become steadily harder to push the plunger through.  Avoid pushing through the foam at the end.
 * Dispose of the syringe and filter in biohazardous waste container.
 * Freeze the filtered plasma in an upright position immediately at –70°C.
