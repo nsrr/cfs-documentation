@@ -1,6 +1,12 @@
 ## 10.15 Nitroglycerin
 
-**<u>NOTE</u>: Nitrogycerin is not to be done on patients useless the principal investigator has written out orders for this procedure.**
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    Nitrogycerin is not to be done on patients useless the principal investigator has written out orders for this procedure.
+  </p>
+</div>
+
 
 The NTG portion of the procedure will not be performed until the image quality and the timing of the reactive hyperemia portion of the procedure are adequate. If inadequate, the reactive hyperemia portion of the procedure will be repeated after a 15-minute rest. If adequate, the NTG portion will be performed. One NTG is administered, the patient’s artery will not return to its resting diameter for 30 minutes. NTG should not be given to individuals with systolic blood pressure ≤ 90 mmHg.
 
