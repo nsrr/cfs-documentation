@@ -16,10 +16,19 @@
      * Min duration of respiratory event < 10 sec.  **<u>NOTE</u>:** duration of respiratory event should be at least 10 sec, but due to the rounding error (length of events is rounded on the computer screen and truncated at the reports) some events length 9 sec will be left in the report.
      * Max duration of resp. event  > 150 sec
 
-**<u>NOTE</u>:**
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    Program will also return outliers in the Heart Rate.  These messages should be ignored.
+  </p>
+</div>
 
-* Program will also return outliers in the Heart Rate.  These messages should be ignored.
-* When edited lights are set to one epoch before sleep onset in the report, sleep latency (seventh number in the first line) will be reported at “30sec”.  Programs dealing with outliers are not set to pick this one. It will be ignored.  It will cause errors in reading the report to SAS.   To correct this, the report has to be open and the string “30sec” has to be manually replaced with **“00:00”**. Save report.
+<div class="bs-callout bs-callout-info">
+  <p>
+    <strong>Note:</strong>
+    When edited lights are set to one epoch before sleep onset in the report, sleep latency (seventh number in the first line) will be reported at “30sec”.  Programs dealing with outliers are not set to pick this one. It will be ignored.  It will cause errors in reading the report to SAS.   To correct this, the report has to be open and the string “30sec” has to be manually replaced with **“00:00”**. Save report.
+  </p>
+</div>
 
 
 <div class="center">
