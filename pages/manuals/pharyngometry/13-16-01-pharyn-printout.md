@@ -15,7 +15,9 @@ Test Quality is judged by the following criteria:
 
 ### 13.16.1.1 Figure 1: Digital Screen of Pharyngometry Testing Program
 
-MISSING_IMAGE
+<div class="center">
+  <img src=":images_path:/13.16.1 Pharyngometry Printout.png">
+</div>
 
 This figure represents the digital screen of the pharyngometry testing program.  This figure reveals the following:
 

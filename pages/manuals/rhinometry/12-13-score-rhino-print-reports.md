@@ -13,7 +13,9 @@ Test Quality is judged by the following criteria:
 
 #### 12.13.1.1 Figure 1: Digital Screen of Rhinometry Testing Program
 
-MISSING_IMAGE
+<div class="center">
+  <img src=":images_path:/12.13 Score Rhinometry.png">
+</div>
 
 This graphic represents the digital screen of the Rhinometry testing program.  This graphic reveals the following:
 

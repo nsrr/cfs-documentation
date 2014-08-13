@@ -19,7 +19,13 @@
  * EMG 2 – Orange (right submental)
  * EMG 3 – Brown (left submental)
 
-MISSING_IMAGE
+<div class="center">
+  <img src=":images_path:/17.8.3.13 Attachment Sites-1.png">
+</div>
+
+<div class="center">
+  <img src=":images_path:/17.8.3.13 Attachment Sites-2.png">
+</div>
 
 
 <div class="center">

@@ -12,7 +12,9 @@
 
 ### 7.5.2.1 Figure 1. Electrode Placement
 
-MISSING_IMAGE
+<div class="center">
+  <img src=":images_path:/7.5.2.1 Electrode Placement.png">
+</div>
 
 
 <div class="center">

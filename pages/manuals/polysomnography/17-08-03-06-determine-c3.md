@@ -7,7 +7,9 @@
 5. Continue to hold the tape measure in place as you make a mark at the 20% location.
 6. Without moving the tape measure, make another line, following the edge of the tape measure, to intersect the 20% mark.  After removing the tape measure, extend both lines so they intersect. **The point at which the lines intersect is the site for the C3 electrode placement.**
 
-MISSING_IMAGE
+<div class="center">
+  <img src=":images_path:/17.8.3.6 Determine C3.png">
+</div>
 
 
 <div class="center">

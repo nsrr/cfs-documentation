@@ -10,7 +10,9 @@ When the inion cannot be determined use the following method:
 2. Re-identify both pre-auricular landmarks, which have been lightly marked.
 3. Standing on the side of the participant, visualize an imaginary line forming a band around the head, using the nasion and preauricular sites that have been marked.  The back of this imaginary band should identify the inion. Mark the inion lightly.
 
-MISSING_IMAGE
+<div class="center">
+  <img src=":images_path:/17.8.3.1 Identify Landmarks.png">
+</div>
 
 
 <div class="center">

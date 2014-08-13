@@ -5,23 +5,31 @@
 * 1. Open the Cyrus program by selecting the Cyrus icon (Tree) on the computer desk top.
 * 2. Select **FamilyApnea.db** on the Cyprus screen.
 
-MISSING_IMAGE
+<div class="center">
+  <img src=":images_path:/7.6.1 Generating Report-2.png">
+</div>
 
 * 3. Select **Subject Input** to switch windows in the Cyprus Program
 
-MISSING_IMAGE
+<div class="center">
+  <img src=":images_path:/7.6.1 Generating Report-3.png">
+</div>
 
 * 4. Enter the first name, familyid and personi as a 7 digit number (ex. 999-9999 would be 9999999), height, weight, age, select whether the person is female or male, Resistance and Reactance.
 * 5. If you need to adjust the date or time simply click on the date bar and a small screen will appear. Adjust time or date and click and hit change date.
 * 6. Select **Save**.
 
-MISSING_IMAGE
+<div class="center">
+  <img src=":images_path:/7.6.1 Generating Report-6.png">
+</div>
 
 * 7. In the left hand box will appear **Subject(s) Found**.
 * 8. Select **Date and Time** and a box will appear around your selection.
 * 9. Select the **Body Comp Results** tab to switch screens within the Cyprus Program.
 
-MISSING_IMAGE
+<div class="center">
+  <img src=":images_path:/7.6.1 Generating Report-9.png">
+</div>
 
 * 10. Select **Print Report**
 * 11. Select **OK**.

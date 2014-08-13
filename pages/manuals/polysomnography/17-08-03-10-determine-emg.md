@@ -6,7 +6,9 @@ The EEG waveforms in REM sleep resemble the waveforms of wakefulness.  The facia
 2. The other two EMG electrodes are placed on each side of the submentalis, which is a large muscle located underneath the chin.  Having the participant activate this muscle may be helpful for determining the placement of the EMG electrodes.  To activate the muscle, place your hand under the participant’s chin, between the tip if the chin and the neck.  Ask the participant to swallow.  You will feel the submentalis muscle move.
 3. The electrodes are placed on each side of this muscle but at least 3 cm. apart from each other.  Placing one electrode on the ledge of the chin (below the lower lip) and two electrodes on the belly of the submentalis muscle is also acceptable but not preferred.
 
-MISSING_IMAGE
+<div class="center">
+  <img src=":images_path:/17.8.3.10 Determine EMG.png">
+</div>
 
 
 <div class="center">

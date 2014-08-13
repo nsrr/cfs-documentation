@@ -8,7 +8,9 @@
 * 6. Page up through the rest of the log and check that there are no red or green ERROR messages.  If you find errors, contact a data manager for troubleshooting.
 * 7. Check that you do not see details of a data file printed in the log.  This may happen if a file is corrupted or has too few or too many lines in it.  The program cannot read it in properly and you will see errors like the following:
 
-MISSING_IMAGE
+<div class="center">
+  <img src=":images_path:/13.5.3 Check Pharyngometry Files-7.png">
+</div>
 
  * If this occurs, check the file that was the last one read in (PT3514 in the example above) to verify that it has the correct number of lines and otherwise appears to be in the correct format.  Pharyngometry files should contain 151 lines.
 

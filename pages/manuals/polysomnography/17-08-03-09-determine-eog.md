@@ -4,7 +4,9 @@ The EOG recording electrodes are placed about 1 cm. (one finger breadth) lateral
 
 Asymmetric placement of the EOG electrodes can create uncertainties in the data interpretation.
 
-MISSING_IMAGE
+<div class="center">
+  <img src=":images_path:/17.8.3.9 Determine EOG.png">
+</div>
 
 
 <div class="center">

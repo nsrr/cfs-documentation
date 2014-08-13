@@ -54,7 +54,9 @@ Setup of the screen used for scoring should be the same on all scorers’ comput
 * As a default for scoring sleep stages and arousals, zoom for both EEGs should be x5 (full scale 125 mV).  In some cases, (alpha intrusion) scoring, use zoom x8 (full scale 250 mV).
 * No tracing with the respiratory signals should be visible during this phase of scoring.
 
-MISSING_IMAGE
+<div class="center">
+  <img src=":images_path:/17.14 Scoring Procedure.png">
+</div>
 
 ### 17.14.2 Setting Lights
 
@@ -65,7 +67,9 @@ MISSING_IMAGE
 
 For scoring respiratory events, the following tracings are displayed (from the top to the bottom of the screen): L Leg, R Leg, Nasal Pressure, Airflow, Thoracic, Abdomen, SaO2 and SaO2 status.  No other signals should be visible during scoring respiratory events. As a default, Timebase: 5 min/page is used.
 
-MISSING_IMAGE
+<div class="center">
+  <img src=":images_path:/17.14.3 Respiratory Events.png">
+</div>
 
 ### 17.14.4 Patient Information Window
 

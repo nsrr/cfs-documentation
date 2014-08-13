@@ -18,7 +18,9 @@ The Patient Interface Box (sometimes referred to as a "headbox") is the device t
 
 The table below shows the PIB/headbox configuration for Family as it is displayed on the PIB.
 
-MISSING_IMAGE
+<div class="center">
+  <img src=":images_path:/17.3.2 Equipment Preparation.png">
+</div>
 
 _Positive leads are blue on the PIB and Negative leads are black on the PIB._
 

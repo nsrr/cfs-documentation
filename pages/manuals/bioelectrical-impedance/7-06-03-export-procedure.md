@@ -2,12 +2,16 @@
 
 * 1. Select the **Import & Export** menu on the Cyprus screen.
 
- MISSING_IMAGE
+<div class="center">
+  <img src=":images_path:/7.6.3 Export Procedure-1.png">
+</div>
 
 * 2. A smaller window will open.
-* 3. Click on **Expor*t**. This will sent the file to an Excel.dat file.
+* 3. Click on **Export**. This will sent the file to an Excel.dat file.
 
- MISSING_IMAGE
+<div class="center">
+  <img src=":images_path:/7.6.3 Export Procedure-3.png">
+</div>
 
 * 4. After exporting, select **Close**.
 * 5. Exit program, if done.
