@@ -18,7 +18,7 @@
     Schedule of Visits
   </a>
 
-  <a href=":pages_path:/manuals/schedule-of-visits/1-02-timing-of-in-lab-procedures" class="btn btn-success">
+  <a href=":pages_path:/manuals/schedule-of-visits/1-02-timing-of-in-lab-procedures.md" class="btn btn-success">
     1.2 Timing of In-Lab Procedures
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
