@@ -33,8 +33,8 @@ Re-certification will be required of any personnel who fall below the pre-set le
     Polysomnography
   </a>
 
-  <a href=":pages_path:/manuals/polysomnography/17-02-01-certification.md" class="btn btn-success">
-    17.2.1 Certification
+  <a href=":pages_path:/manuals/polysomnography/17-03-01-ppt-prep.md" class="btn btn-success">
+    17.3.1 Participant Preparation
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
