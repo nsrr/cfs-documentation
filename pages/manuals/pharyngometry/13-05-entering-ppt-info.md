@@ -1,26 +1,22 @@
 ## 13.5 Entering Participant Information and Labeling Trial Graphs
 
-* 1. There are word functions underneath the smaller graphs.  Use the left/right arrow keys to highlight **Patient**.
-* 2. Press **Enter**. You are now in a screen to:
-
+1. There are word functions underneath the smaller graphs.  Use the left/right arrow keys to highlight **Patient**.
+2. Press **Enter**. You are now in a screen to:
  * Input subject specific information
  * Label the four smaller ‘trial’ graphs.
-
-* 3. Press **Enter** or use the up/down arrow keys to move from each requested item.
-* 4. Type in **Patient Name**: ###-#### (familyID-personID)
-* 5. Type in birth date numerically (MM/DD/YY).
-* 6. Type in **Operator**: your initials
-* 7. Leave **Referring Physician** and **Medical Record Number** blank.
-* 8. Make sure each of the four graphs, listed top to bottom, are labeled:
-
+3. Press **Enter** or use the up/down arrow keys to move from each requested item.
+4. Type in **Patient Name**: ###-#### (familyID-personID)
+5. Type in birth date numerically (MM/DD/YY).
+6. Type in **Operator**: your initials
+7. Leave **Referring Physician** and **Medical Record Number** blank.
+8. Make sure each of the four graphs, listed top to bottom, are labeled:
  * nose breath
  * mouth breath
  * mouth breath
  * mouth breath
-
-* 9.  Press **Esc** to exit.  You will return to Main Data Acquisition screen.
-* 10. Highlight **acquire** on the screen, using the left/right keys.
-* 11. Select the 1st, 2nd, 3rd, or 4th screen with the up/down keys. Begin recording trials on the first screen on the left.
+9.  Press **Esc** to exit.  You will return to Main Data Acquisition screen.
+10. Highlight **acquire** on the screen, using the left/right keys.
+11. Select the 1st, 2nd, 3rd, or 4th screen with the up/down keys. Begin recording trials on the first screen on the left.
 
 
 <div class="center">
