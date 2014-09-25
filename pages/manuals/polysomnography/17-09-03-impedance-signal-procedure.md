@@ -2,23 +2,19 @@
 
 Checking of the signal can be done in any order however it is described here in the order of display on the screen.
 
-* 1. SaO2 channel only displays a value of oxygen saturation in %.  The adequacy of the oximeter reading will be assessed by:
-
+1. SaO2 channel only displays a value of oxygen saturation in %.  The adequacy of the oximeter reading will be assessed by:
  * Checking that oxygen saturation reads “GOOD”.  A reading of “POOR” or “MARGINAL” indicates that the pulse reading is poor, probably due to poor placement or an overly tight probe. Sometimes, a poor or marginal reading will occur during movement.  If so, wait 10 seconds and recheck. If still poor, replace sensor.
  * Check that the reading appears reasonable (>88%). If <88%, re-position, wait 2 minutes, and re-record.  If abnormal on a second try, apply to your own finger. If signals are correct on your finger (>88% sat and correct heart rate), try again on the participant using a different finger and/or switch probes. Note oximetry reading on the Signals Verification Form.
-
-* 2. View the impedance level or the actual live data from each channel.  The Signal Verification Form requires you to do both, but you may choose the order in which they are performed.
-* 3. <u>To check impedance:</u> Toggle the **Impedance** icon at the top of the screen. When the screen opens you will see the impedances screen displayed to the far right. The impedance level of the channel will be displayed as > (a number) k.
-* 4. Change the threshold to 10k.
-* 5. Select all channels by clicking on this selection. Impedance values will be displayed.
-* 6. Toggle the **Impedance** icon to close.  For further description of menu options see your Compumedics manual.
-* 7. Note impedance levels of each channel on the Signal Verifications Form.
-* 8. Check quality of the live data. As each signal is checked, indicate the quality of that channel on the Signal Verification Form (View Signals area). Signals will be displayed in the following order:
-
+2. View the impedance level or the actual live data from each channel.  The Signal Verification Form requires you to do both, but you may choose the order in which they are performed.
+3. <u>To check impedance:</u> Toggle the **Impedance** icon at the top of the screen. When the screen opens you will see the impedances screen displayed to the far right. The impedance level of the channel will be displayed as > (a number) k.
+4. Change the threshold to 10k.
+5. Select all channels by clicking on this selection. Impedance values will be displayed.
+6. Toggle the **Impedance** icon to close.  For further description of menu options see your Compumedics manual.
+7. Note impedance levels of each channel on the Signal Verifications Form.
+8. Check quality of the live data. As each signal is checked, indicate the quality of that channel on the Signal Verification Form (View Signals area). Signals will be displayed in the following order:
  * Top window pane: LOC-A2, ROC-A1, C3-A2, C4-A1, EMG1-EMG2, ECG1-ECG2.
  * Lower window pane: L Leg, R Leg, Snore, Nasal Pres, Airflow, THOR EFFORT, SUM, ABDO EFFORT, SpO2, OX STATUS, PULSE, POSITION, and Pulse Waveform.
-
-* 9.  When viewing live data, use the following procedure for specific channels:
+9.  When viewing live data, use the following procedure for specific channels:
 
  * <u>Channel 1</u> - LOC: Left Eye. Ask patient to stare at a point on the wall and not blink. Trace should be centered and less than 2mm thick on 5mm/s trace speed.  Ask patient to close eyes. Trace should be centered and less that 2mm thick on 5mm/s trace speed. Ask patient to look left and right, and keep head still. Have patient look up and down. Trace should be deflect full scale.
  * <u>Channel 2</u> - ROC: Right Eye. The same as Channel 1 (LOC).
