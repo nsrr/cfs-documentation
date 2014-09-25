@@ -12,15 +12,12 @@ During the impedance check, if all electrodes register high (>10 k) remove the g
 
 ### 17.9.2.2 If Only Certain Electrodes Register High
 
-* 1. If impedance of any pair of electrodes (other than ECG) is >10k, or the difference between any pair of electrodes is > 5 k, remove the electrode, re-prep the electrode site and replace the electrode.
-* 2. If, on a second placement, impedance is still high there are two possible problems:
-
+1. If impedance of any pair of electrodes (other than ECG) is >10k, or the difference between any pair of electrodes is > 5 k, remove the electrode, re-prep the electrode site and replace the electrode.
+2. If, on a second placement, impedance is still high there are two possible problems:
  * The area of the skin identified for sensor placement has an unusually high impedance or
  * The lead wire or sensor is damaged.
-
  Therefore, attempt to address both potential problems by choosing an alternative electrode site (e.g., immediately adjacent to previous site or use of one of the alternative sites indicated above), and change lead wires.
-
-* 3. If impedance is still high on a third attempt do not attempt to re-prep area. Document your activities on the Signal Verification form.
+3. If impedance is still high on a third attempt do not attempt to re-prep area. Document your activities on the Signal Verification form.
 
 
 <div class="center">
