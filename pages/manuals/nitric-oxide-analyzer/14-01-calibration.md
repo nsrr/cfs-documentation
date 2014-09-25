@@ -2,19 +2,17 @@
 
 ### 14.1.1 Start Mode Procedure
 
-* 1. Connect the RS-232 cable to the laptop
-* 2. Turn on nitric oxide analyzer power using switch on back. Warm-up time is 15 minutes
-* 3. Connect regulator to oxygen outlet and set to 10 PSIG.  This is already set in Room 685 and is usually connected to the wall.
-* 4. From main menu, Press **Clear** to display status screen
-* 5. Verify the following:
-
+1. Connect the RS-232 cable to the laptop
+2. Turn on nitric oxide analyzer power using switch on back. Warm-up time is 15 minutes
+3. Connect regulator to oxygen outlet and set to 10 PSIG.  This is already set in Room 685 and is usually connected to the wall.
+4. From main menu, Press **Clear** to display status screen
+5. Verify the following:
  * Cooler Temp -12 ± 0.2 PSIG (Adjust black knob on back)
  * Supply pressure 6.0 ± 0.2 PSIG
  * Cell Pressure >300 torr
-
-* 6. Press **Clear** to return to main menu
-* 7. With the **Analyzer** option highlighted, press **Enter**
-* 8. From the analyzer menu, select **Start**. The NOA <u>must</u> be in start mode to perform a calibration
+6. Press **Clear** to return to main menu
+7. With the **Analyzer** option highlighted, press **Enter**
+8. From the analyzer menu, select **Start**. The NOA <u>must</u> be in start mode to perform a calibration
 
 ## 14.1.2 Calibration Gas Procedure
 
