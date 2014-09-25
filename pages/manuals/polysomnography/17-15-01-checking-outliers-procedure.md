@@ -1,8 +1,8 @@
 ## 17.15.1 Checking Outliers Procedure
 
-* 1. Double click on the <u>Outlier.exe</u> icon placed on the desktop.  DOS window will open and program will prompt for Participant ID.
-* 2. Enter Participant ID and press **Enter**. Program will check the following:
-
+1. Double click on the <u>Outlier.exe</u> icon placed on the desktop.  DOS window will open and program will prompt for Participant ID.
+2. Enter Participant ID and press **Enter**. Program will check the following:
+ 
  * <u>Typed participant ID, name of the folder containing final report, and name of the report (text file) are matching.</u>  If not error message will appear and program will stop.
  * <u>Typed participant ID and first field of the report (which should be participant ID) are matching.</u>  If they are not error message appears (program will not stop).
  * <u>Scorer ID is correct.  Program is checking, if second field of the SAS report is three-digit number starting from 9.</u>  If it's something else error message (scorer ID out of range) appears.
