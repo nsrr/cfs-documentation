@@ -1,19 +1,15 @@
 ## 9.2.4 Application of Blood Pressure Cuffs
 
-* 1. Place 4 blood pressure cuffs on the participant and attach the sphygmomanometer to the arm cuff for the first reading.
-* 2. Place one cuff on each arm.
-
+1. Place 4 blood pressure cuffs on the participant and attach the sphygmomanometer to the arm cuff for the first reading.
+2. Place one cuff on each arm.
  * Use the same arm and cuff size that were used for the seated blood pressure measurement.
  * If only one arm can be used please note the reason for the change.
-
-* 3. Place one standard adult size (or appropriate size) cuff on each ankle
-* 4. Apply the ankle cuffs with the midpoint of the bladder over the posterior tibial artery, with the lower end of the bladder approximately 3 cm above the medial malleolus.
-
+3. Place one standard adult size (or appropriate size) cuff on each ankle
+4. Apply the ankle cuffs with the midpoint of the bladder over the posterior tibial artery, with the lower end of the bladder approximately 3 cm above the medial malleolus.
  * Rarely, the velcro will not hold due to the ankles being very thin or large. In these cases use pediatric or large adult cuffs.
  * The size guidelines used above in the section on seated blood pressure can be applied here as well.
  * If not enough cuffs of the correct size are available; the appropriate cuff will need to be moved to make measurements.
-
-* 5. Apply ultrasound gel on each limb over the appropriate artery at this time.
+5. Apply ultrasound gel on each limb over the appropriate artery at this time.
 
 
 <div class="center">
