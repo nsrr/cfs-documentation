@@ -6,19 +6,15 @@ If the ultrasound machine uses a trackball to control several functions (i.e., c
 
 ### 10.13.2 Procedure
 
-* 1. When the artery has been fully occluded for 5 minutes, the pressure in the cuff will be rapidly released all at once.
-* 2. As the cuff deflates, the cable end of the scanhead may need to be tilted in the opposite direction that was used when the cuff was inflated to keep the artery in view. If the artery is not seen when the cuff is released, the following maneuver will be performed:
-
+1. When the artery has been fully occluded for 5 minutes, the pressure in the cuff will be rapidly released all at once.
+2. As the cuff deflates, the cable end of the scanhead may need to be tilted in the opposite direction that was used when the cuff was inflated to keep the artery in view. If the artery is not seen when the cuff is released, the following maneuver will be performed:
  * Slide the scanhead about 1 inch laterally across the surface of the arm
  * Sweep the face of the scanhead medially up and into the short head of the biceps until the artery reappears on the screen.
  * When first learning this procedure, the immediate release Doppler step should be bypassed and the 1-minute post image should be performed.
-
-* 3. The artery will be optimally displayed on the screen (i.e., not splayed).
-
+3. The artery will be optimally displayed on the screen (i.e., not splayed).
  * If it is splayed, the scanhead will be rotated slightly so that the proximal and disPtal ends appear to be the same diameter.
  * Before the PW spectral trace is engaged, the sample volume will be positioned and sized to include the entire lumen.
-
-* 4. The PW Doppler spectral trace will be acquired in one full sweep. No more than two full sweeps will be acquired since the reactive hyperemia quickly decays and it will be important to provide as much time as possible for acquiring the more important 2-D post stimulus image.
+4. The PW Doppler spectral trace will be acquired in one full sweep. No more than two full sweeps will be acquired since the reactive hyperemia quickly decays and it will be important to provide as much time as possible for acquiring the more important 2-D post stimulus image.
 
 
 <div class="center">
