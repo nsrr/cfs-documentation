@@ -15,7 +15,7 @@ Supported by grants (HL46380, M01 RR00080-39, T32-HL07567, RO1-46380) from the N
 
 ## Dataset Download
 
-Dataset coming in October 2014.
+<a href=":files_path:/datasets" class="btn btn-success btn-lg">Download Full Dataset</a> 5 MB
 
 ## Protocols and Manuals
 
