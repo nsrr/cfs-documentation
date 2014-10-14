@@ -1,3 +1,7 @@
+### October 14, 2014
+
+- Add Dataset Introduction
+
 ### October 10, 2014
 
 - Add link to 0.1.0 dataset
