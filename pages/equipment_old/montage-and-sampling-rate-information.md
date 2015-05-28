@@ -61,5 +61,5 @@ The settings below represent the standards set at the beginning of the project. 
 
 * CFS v1 and v2 montage differences are changes in sampling rate.
 
-For more information please refer to [Polysomnography](https://sleepdata.org/datasets/cfs/pages/manuals/polysomnography)
+For more information please refer to [Polysomnography](:pages_path:/manuals/polysomnography)
 

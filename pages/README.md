@@ -24,7 +24,7 @@ Read more in the [Dataset Introduction](:pages_path:/dataset-introduction.md).
 - [CFS Visit 5 Manuals](:pages_path:/manuals/manuals-toc.md)
 
 ## Equipment
-- [Montage and Sampling Rate Information](https://sleepdata.org/datasets/cfs/pages/equipment/montage-and-sampling-rate-information.md)
+- [Montage and Sampling Rate Information](:pages_path:/equipment/montage-and-sampling-rate-information.md)
 
 ## Recent Changes
 
