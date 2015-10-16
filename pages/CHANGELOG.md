@@ -1,3 +1,8 @@
+### October 16, 2015
+
+- Release 0.2.0 datasets
+- Add description of EEG spectral analysis datasets/process
+
 ### July 30, 2015
 
 - Update NSRR XML annotation files to fix issues with duration calculation in first staging period and to not exclude last staging period in output

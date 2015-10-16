@@ -26,6 +26,10 @@ Read more in the [Dataset Introduction](:pages_path:/dataset-introduction.md).
 ## Equipment
 - [Montage and Sampling Rate Information](:pages_path:/equipment/montage-and-sampling-rate-information.md)
 
+## EEG Spectral Analysis
+
+As part of the NSRR's effort to explore the CFS data in more detail, EEG spectral analysis was performed. Read more about the [methods, validation, and results for the NSRR EEG spectral analysis efforts](:pages_path:/eeg-spectral-analysis.md). [Summary datasets are available](:files_path:/datasets/eeg-spectral-analysis) and the [included variables can be browsed here](https://www.sleepdata.org/datasets/cfs/variables?folder=Spectral+Analysis).
+
 ## Recent Changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
