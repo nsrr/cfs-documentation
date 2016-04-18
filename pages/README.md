@@ -8,8 +8,9 @@ The Cleveland Family Study (CFS) is the largest family-based study of sleep apne
 
 When citing this dataset please use:
 
-1. The familial aggregation of obstructive sleep apnea. Redline S, Tishler PV, Tosteson TD, Williamson J, Kump K, Browner I, Ferrette V, Krejci P. Am J Respir Crit Care Med. 1995 Mar;151(3 Pt 1):682-7.
-2. Redline, S., et al. "Cleveland Family Study." National Sleep Research Resource. Web. http://sleepdata.org/datasets/cfs.
+1. Dean, D. A., Goldberger, A. L., Mueller, R., Kim, M., Rueschman, M., Mobley, D., Sahoo, S. S., Jayapandian, C. P., Cui, L., Morrical, M. G., Surovec, S., Zhang, G. Q., & Redline, S. (2016). Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource. *Sleep*. Advance online publication. pii: sp-00021-15
+
+2. Redline, S., Tishler, P. V., Tosteson, T. D., Williamson, J., Kump, K., Browner, I., Ferrette, V., & Krejci, P. (1995). The familial aggregation of obstructive sleep apnea. *American journal of respiratory and critical care medicine, 3 Pt 1,* 682–687.
 
 Supported by grants (HL46380, M01 RR00080-39, T32-HL07567, RO1-46380) from the National Institutes of Health.
 
