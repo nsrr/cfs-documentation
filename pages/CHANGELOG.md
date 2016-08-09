@@ -1,3 +1,7 @@
+### August 9, 2016
+
+- Add primary citation to documentation index
+
 ### May 19, 2016
 
 - Update citations for users of the dataset

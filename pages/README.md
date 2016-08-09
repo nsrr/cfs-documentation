@@ -4,17 +4,6 @@ The Cleveland Family Study (CFS) is the largest family-based study of sleep apne
 
 *Note:* Data from CFS Visit 5 (i.e. the last exam) will be posted to the NSRR first. Visit 5 included full overnight PSG. Data from prior CFS visits will be posted in the future.
 
-## Citation
-
-When citing this dataset please use:
-
-1. [Dean, D. A., Goldberger, A. L., Mueller, R., Kim, M., Rueschman, M., Mobley, D., Sahoo, S. S., Jayapandian, C. P., Cui, L., Morrical, M. G., Surovec, S., Zhang, G. Q., & Redline, S. (2016). Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource. *Sleep, 5*, 1151–1164](http://www.ncbi.nlm.nih.gov/pubmed/27070134)
-
-
-2. [Redline, S., Tishler, P. V., Tosteson, T. D., Williamson, J., Kump, K., Browner, I., Ferrette, V., & Krejci, P. (1995). The familial aggregation of obstructive sleep apnea. *American journal of respiratory and critical care medicine, 3 Pt 1,* 682–687.](http://www.ncbi.nlm.nih.gov/pubmed/7881656)
-
-Supported by grants (HL46380, M01 RR00080-39, T32-HL07567, RO1-46380) from the National Institutes of Health.
-
 ## Dataset Download
 
 <a href=":files_path:/datasets" class="btn btn-success btn-lg">Download Full Dataset</a> 5 MB
@@ -39,3 +28,13 @@ As part of the NSRR's effort to explore the CFS data in more detail, EEG spectra
 ## Publication Links
 
 - [Risk factors for sleep-disordered breathing in children. Associations with obesity, race, and respiratory problems.](http://www.ncbi.nlm.nih.gov/pubmed/10228121)
+
+## Citation
+
+When citing this dataset please use:
+
+1. [Dean, D. A., Goldberger, A. L., Mueller, R., Kim, M., Rueschman, M., Mobley, D., Sahoo, S. S., Jayapandian, C. P., Cui, L., Morrical, M. G., Surovec, S., Zhang, G. Q., & Redline, S. (2016). Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource. *Sleep, 5,* 1151–1164](http://www.ncbi.nlm.nih.gov/pubmed/27070134)
+2. [Redline, S., Tishler, P. V., Tosteson, T. D., Williamson, J., Kump, K., Browner, I., Ferrette, V., & Krejci, P. (1995). The familial aggregation of obstructive sleep apnea. *American journal of respiratory and critical care medicine, 3 Pt 1,* 682–687.](http://www.ncbi.nlm.nih.gov/pubmed/7881656)
+3. [Redline, S., Tishler, P. V., Schluchter, M., Aylor, J., Clark, K., & Graham, G. (1999). Risk factors for sleep-disordered breathing in children. Associations with obesity, race, and respiratory problems. *American journal of respiratory and critical care medicine, 5 Pt 1,* 1527–1532.](http://www.ncbi.nlm.nih.gov/pubmed/10228121)
+
+Supported by grants (HL46380, M01 RR00080-39, T32-HL07567, RO1-46380) from the National Institutes of Health.
