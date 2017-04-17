@@ -1,3 +1,7 @@
+### April 17, 2017
+
+- Add polysomnography introduction and make other minor updates
+
 ### August 9, 2016
 
 - Add primary citation to documentation index

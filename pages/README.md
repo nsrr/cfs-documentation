@@ -1,16 +1,16 @@
-# About the Study
+# About
 
 The Cleveland Family Study (CFS) is the largest family-based study of sleep apnea worldwide, consisting of 2,284 individuals (46% African American) from 361 families studied on up to 4 occasions over a period of 16 years. The study was begun in 1990 with the initial aims of quantifying the familial aggregation of sleep apnea. NIH renewals provided expansion of the original cohort (including increased minority recruitment) and longitudinal follow-up, with the last exam occurring in February 2006.
 
 *Note:* Data from CFS Visit 5 (i.e. the last exam) will be posted to the NSRR first. Visit 5 included full overnight PSG. Data from prior CFS visits will be posted in the future.
 
-## Dataset Download
+## Data overview
 
-<a href=":files_path:/datasets" class="btn btn-success btn-lg">Download Full Dataset</a> 5 MB
+**[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/dataset-introduction.md)) <br/> Core data from Cleveland Family Study.
 
-Read more in the [Dataset Introduction](:pages_path:/dataset-introduction.md).
+**[/polysomnography](:files_path:/polysomnography)** ([introduction](:pages_path:/polysomnography-introduction.md))<br/> Overnight polysomnography (PSG) data from Cleveland Family Study.
 
-## Protocols and Manuals
+## Protocols and manuals
 
 - [CFS Visit 5 Manuals](:pages_path:/manuals/manuals-toc.md)
 
@@ -21,11 +21,11 @@ Read more in the [Dataset Introduction](:pages_path:/dataset-introduction.md).
 
 As part of the NSRR's effort to explore the CFS data in more detail, EEG spectral analysis was performed. Read more about the [methods, validation, and results for the NSRR EEG spectral analysis efforts](:pages_path:/eeg-spectral-analysis.md). [Summary datasets are available](:files_path:/datasets/eeg-spectral-analysis) and the [included variables can be browsed here](https://www.sleepdata.org/datasets/cfs/variables?folder=Spectral+Analysis).
 
-## Recent Changes
+## Recent changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
 
-## Publication Links
+## Publication links
 
 - [Risk factors for sleep-disordered breathing in children. Associations with obesity, race, and respiratory problems.](http://www.ncbi.nlm.nih.gov/pubmed/10228121)
 

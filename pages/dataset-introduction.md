@@ -1,4 +1,4 @@
-# Dataset Introduction
+# Dataset introduction
 
 The [CFS dataset](:files_path:/datasets) posted on the NSRR has gone through various post-processing steps in order to prepare the data for more widespread sharing. The source data are from the Cleveland Family Study Coordinating Center. Changes and updates to the source data and have been coordinated in the [cfs-data-dictionary repository](https://github.com/sleepepi/cfs-data-dictionary).
 
