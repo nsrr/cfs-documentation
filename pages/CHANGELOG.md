@@ -1,3 +1,7 @@
+### June 7, 2017
+
+- Add notes about XML files to PSG introducation
+
 ### April 17, 2017
 
 - Add polysomnography introduction and make other minor updates
