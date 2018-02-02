@@ -50,7 +50,6 @@ Studies may still be of sufficient quality to stage sleep.
 **<u>Unusual occurrences during sleep</u>**
 
 The following patterns are also noted on the QS form:
-
 * Abnormal Awake EEG:  when the waking EEG background rhythm consists of waves in the theta range.  This should be distinguished from presence of theta waves as a result of excessive sleepiness, which will disappear after some period of sleep, and may indicate a neurological disorder or toxicity  ([QSFigure](:pages_path:/mop/6-AA-mop-list-of-illustrations.md) 1a and 1b).
 
 * Physiologic alpha intrusion - when alpha rhythm is present in more than 40% of Non-REM sleep,  Alpha delta sleep ([QSFigure](:pages_path:/mop/6-AA-mop-list-of-illustrations.md) 2a, 2b, and 2c).
@@ -86,9 +85,9 @@ Some studies do not contain usable signals for the entire recording time or incl
 Will be checked "yes" if any criteria for medical alert as listed below are met:
 
 * Heart rate > 150 bpm for ≥ 2 min
-* Heart rate < 30 bpm for ≥ 2 min.
-* Oxygen Saturation < 75% for >10% TST.
-* RDI > 50.
+* Heart rate < 30 bpm for ≥ 2 min
+* Oxygen Saturation < 75% for >10% TST
+* RDI > 50
 
 <hr class="soften" style="margin-top: 20px;margin-bottom: 20px;"/>
 
