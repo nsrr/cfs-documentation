@@ -6,8 +6,8 @@ It is necessary to determine, for each participant, the pressure level to which 
 
 1. The cuff tubing should be attached to the sphygmomanometer.
 2. The cuff should be inflated while the radial pulse is palpated and the mercury column watched closely.
-3. When sufficient pressure has been applied, the pulse will no longer be felt. When this pulse disappearance has been detected, the cuff is inflated another 20 mm Hg and then quickly and completely deflated.
-4. The observed pulse obliteration pressure is noted and 20 mm Hg are added. This sum is the <u>peak inflation level</u>; the cuff is to be inflated to this level for all readings at this examination.
+3. When sufficient pressure has been applied, the pulse will no longer be felt. When this pulse disappearance has been detected, the cuff is inflated another 20 mmHg and then quickly and completely deflated.
+4. The observed pulse obliteration pressure is noted and 20 mmHg are added. This sum is the <u>peak inflation level</u>; the cuff is to be inflated to this level for all readings at this examination.
 
 
 <div class="bs-callout bs-callout-info">
