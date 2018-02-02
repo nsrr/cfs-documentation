@@ -2,14 +2,14 @@
 
 ### 5.2.2.1 Materials Needed
 
-* 50 ml conical tube
-* 25 ml distilled water
-* 25 ml .1 N NaOH
+* 50 mL conical tube
+* 25 mL distilled water
+* 25 mL .1 N NaOH
 
 ### 5.2.2.2 Procedure
 
-1.  Place 25 ml distilled water into conical tube (up to the 25 mark on side of tube).
-2.  Add 25-ml .1N NaOH to tube (up to the 50 mark on the side of the tube)
+1.  Place 25 mL distilled water into conical tube (up to the 25 mark on side of tube).
+2.  Add 25-mL .1N NaOH to tube (up to the 50 mark on the side of the tube)
 3.  Mix well and place in rack.
 
 
