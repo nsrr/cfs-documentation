@@ -54,8 +54,7 @@ The following patterns are also noted on the QS form:
 * Abnormal Awake EEG:  when the waking EEG background rhythm consists of waves in the theta range.  This should be distinguished from presence of theta waves as a result of excessive sleepiness, which will disappear after some period of sleep, and may indicate a neurological disorder or toxicity  ([QSFigure](:pages_path:/mop/6-AA-mop-list-of-illustrations.md) 1a and 1b).
 
 * Physiologic alpha intrusion - when alpha rhythm is present in more than 40% of Non-REM sleep,  Alpha delta sleep ([QSFigure](:pages_path:/mop/6-AA-mop-list-of-illustrations.md) 2a, 2b, and 2c).
-
-* Alpha artifact-when alpha range activity is seen throughout all periods of sleep, does not vary with eye closure, may be evident on non-cerebral channels (i.e., EOG) ([QSFigure](:pages_path:/mop/6-AA-mop-list-of-illustrations.md) 2d). <div class="bs-callout bs-callout-info"><p><strong>TIP:</strong><ul><li><u>Alpha artifact</u> was more likely than alpha intrusion when the activity in question:<ul><li>Occurs across most sleep stages, and does not vary by sleep state;</li><li>The activity is fairly similar in amplitude throughout the study</li><li>Often is superimposed on top of the EEG signal</li></ul></li><li><u>Alpha intrusion</u> is more likely when:<ul><li>Varied by sleep stage</li><li>Displayed a fluctuating amplitude</li></ul></li></ul></p></div>
+* Alpha artifact-when alpha range activity is seen throughout all periods of sleep, does not vary with eye closure, may be evident on non-cerebral channels (i.e., EOG) ([QSFigure](:pages_path:/mop/6-AA-mop-list-of-illustrations.md) 2d). <div class="bs-callout bs-callout-info"><p><strong>TIP:</strong><ul><li><u>Alpha artifact</u> was more likely than alpha intrusion when the activity in question:<ul><li>Occurs across most sleep stages, and does not vary by sleep state</li><li>The activity is fairly similar in amplitude throughout the study</li><li>Often is superimposed on top of the EEG signal</li></ul></li><li><u>Alpha intrusion</u> is more likely when:<ul><li>Varied by sleep stage</li><li>Displayed a fluctuating amplitude</li></ul></li></ul></p></div>
 
 * <u>Abnormal Eye Movements:</u>  presence of the rhythmical lateral eye movements in Non-REM sleep, or asymmetrical or disconjugate movements  ([QSFigure](:pages_path:/mop/6-AA-mop-list-of-illustrations.md) 3a, 3b, 3c, 3d, 3e, and 3f).
 
@@ -105,7 +104,7 @@ The Outlier program will be run after each study is scored and a report generate
 * Minimum desaturation < 40 %
 * AI (Arousal Index ) < 3
 * Apnea or hypopnea duration < 10 s.
-* Oxygen saturation = 0.
+* Oxygen saturation = 0
 
 If any of the outliers will be found, the scorer will review the study and identify the source. Any errors in scoring or editing will be corrected. New Short and Full reports will be generated and saved. The identification of outliers and the results of the review process (with corrections) will be noted on the QS Form.
 
