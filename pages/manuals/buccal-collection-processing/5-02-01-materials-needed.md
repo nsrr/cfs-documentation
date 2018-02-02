@@ -3,7 +3,7 @@
 ### 5.2.1 Materials Needed
 
 * Cytobrush Plus Cell Collectors
-* 1.5 ml microcentrifuge tubes with screw on caps filled with 600uL 50 mM NaOH
+* 1.5 mL microcentrifuge tubes with screw on caps filled with 600uL 50 mM NaOH
 * Scissors or wire cutters
 * Permanent marker
 
