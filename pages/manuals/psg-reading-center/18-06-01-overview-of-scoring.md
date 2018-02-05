@@ -10,9 +10,9 @@ During manual scoring, the following are primary “events” that are identifie
 
 <u>Arousals</u> will be characterized by the ASDA (now American Academy of Sleep Medicine) criteria (The Atlas Task Force, EEG Arousals: Scoring Rules and Examples.  Sleep 1992: 15:173-84).
 
-<u>Obstructive Apneas</u> will be identified if the amplitude (peak to trough) of the airflow signal is flat or nearly flat. This is noted when amplitude of airflow decreases below at least 75% of the amplitude of “baseline” breathing, i.e. to < 25% of the baseline, (identified during a period of regular breathing with stable oxygen levels), and if this change lasts for > 10 s.  Obstructive apneas cannot be designated in areas of the study where thermistry is missing or uninterpretable.
+<u>Obstructive Apneas</u> will be identified if the amplitude (peak to trough) of the airflow signal is flat or nearly flat. This is noted when amplitude of airflow decreases below at least 75% of the amplitude of “baseline” breathing, i.e. to < 25% of the baseline, (identified during a period of regular breathing with stable oxygen levels), and if this change lasts for ≥ 10 s.  Obstructive apneas cannot be designated in areas of the study where thermistry is missing or uninterpretable.
 
-<u>Hypopneas</u> will be identified if the amplitude of any respiratory signal decreases by at least (approximately) 30% of the amplitude of “baseline”, i.e. to < 70% of baseline, (identified during a period of regular breathing with stable oxygen levels), if this change lasts for > 10 s.
+<u>Hypopneas</u> will be identified if the amplitude of any respiratory signal decreases by at least (approximately) 30% of the amplitude of “baseline”, i.e. to < 70% of baseline, (identified during a period of regular breathing with stable oxygen levels), if this change lasts for ≥ 10 s.
 
 <u>Central Apneas</u> will be noted if no displacement is seen on either the chest or abdominal inductance channels.  Otherwise, events will be noted as “obstructive”. Central events cannot be designated if either or both band data are missing or uninterpretable.
 
@@ -24,7 +24,7 @@ The <u>desaturation associated with any respiratory event</u> will be based on t
 
 <u>RDI</u> (Respiratory Disturbance Index) is defined as the number of respiratory events (apneas and hypopneas) per hour of the sleep. Events will be included in different indices according to level of associated desaturation and/or arousal:
 
-* All events (regardless of desaturation or arousal)
+* All events (regardless of desaturation or arousal).
 * Summary RDI values, based on events associated with ≥ 2%, ≥ 3%, ≥ 4%, and ≥ 5% desaturation levels.
 * Summary RDI values based on events associated with > 2%, 3%, 4%, and 5% desaturation levels or associated arousal.
 * Summary RDI values based on events associated with arousal regardless of desaturation.
