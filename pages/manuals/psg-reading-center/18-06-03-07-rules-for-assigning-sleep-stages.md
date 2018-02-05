@@ -31,7 +31,7 @@ Stage 1 is defined by a background of relatively low voltage, mixed frequency EE
 
 Traces of low voltage activity at 12-14 Hz may begin to appear as the transition to Stage 2 approaches, but this activity is not defined as a sleep spindles until the rhythmic bursts are clearly visible for at least 0.5 s.
 
-Intervals of > 3 minutes between K complexes or spindles (and which do  not meet criteria for REM of delta sleep or Wake ) are staged as Stage 1 (“3 minute rule”).
+
  
 
 **<u>Stage 2 sleep</u>**
