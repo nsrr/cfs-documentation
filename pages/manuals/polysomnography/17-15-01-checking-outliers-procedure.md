@@ -33,7 +33,7 @@
 <div class="bs-callout bs-callout-info">
   <p>
     <strong>Note:</strong>
-    When edited lights are set to one epoch before sleep onset in the report, sleep latency (seventh number in the first line) will be reported at “30sec”.  Programs dealing with outliers are not set to pick this one. It will be ignored.  It will cause errors in reading the report to SAS.   To correct this, the report has to be open and the string “30sec” has to be manually replaced with **“00:00”**. Save report.
+    When edited lights are set to one epoch before sleep onset in the report, sleep latency (seventh number in the first line) will be reported as “30sec”.  Programs dealing with outliers are not set to pick this one. It will be ignored.  It will cause errors in reading the report to SAS.   To correct this, the report has to be open and the string “30sec” has to be manually replaced with **“00:00”**. Save report.
   </p>
 </div>
 
