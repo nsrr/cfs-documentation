@@ -31,26 +31,20 @@ Stage 1 is defined by a background of relatively low voltage, mixed frequency EE
 
 Traces of low voltage activity at 12-14 Hz may begin to appear as the transition to Stage 2 approaches, but this activity is not defined as a sleep spindles until the rhythmic bursts are clearly visible for at least 0.5 s.
 
-
- 
-
 **<u>Stage 2 sleep</u>**
 
-Stage 2 is defined by a background similar to Stage 1 sleep with the presence of the K complexes and/or sleep spindles.  It is impossible to define the difference between Stage 1 and Stage 2 sleep on the basis of background activity alone. Bursts of other polymorphic high voltage slow waves, which do not have the precise morphology of K complex, are also frequently seen.  Delta waves: high amplitude ( > 75 μV), slow (≤ 4 Hz;  duration 0.5 s. and longer) activity occupy no more than 19% of the epoch.  At the beginning of the Stage 2, slow eye movements may infrequently, and only briefly, persist after the appearance of sleep spindles and K complexes. ([SsFigures](:pages_path:/manuals/psg-reading-center/18-AA-list-of-illustrations.md) 3a, 3b, and 3c)
+Stage 2 is defined by a background similar to Stage 1 sleep with the presence of the K complexes and/or sleep spindles.  It is impossible to define the difference between Stage 1 and Stage 2 sleep on the basis of background activity alone. Bursts of other polymorphic high voltage slow waves, which do not have the precise morphology of K complex, are also frequently seen.  Delta waves: high amplitude ( > 75 μV), slow (0.5-2 Hz;  duration 0.5-2 sec) activity occupy no more than 19% of the epoch.  At the beginning of the Stage 2, slow eye movements may infrequently, and only briefly, persist after the appearance of sleep spindles and K complexes. ([SsFigures](:pages_path:/manuals/psg-reading-center/18-AA-list-of-illustrations.md) 3a, 3b, and 3c)
 
-Relatively long periods may intervene between K complexes and/or sleep spindles without a background change in the EEG.  Regardless of the presence of the arousal:
-
-* If there is <3 minutes of the low voltage, mixed frequency EEG between sleep spindles and/or K complexes, this portion of the record is scored as Stage 2.
-* Otherwise if > 3 minutes, this portion of the record is scored Stage 1.
+Relatively long periods may intervene between K complexes and/or sleep spindles without a background change in the EEG. 
 
 K complexes may be imbedded within an arousal and nonetheless constitute evidence of Stage 2.
 ([SsFigure](:pages_path:/manuals/psg-reading-center/18-AA-list-of-illustrations.md) 4a)
 
 **<u>Deep Sleep (Stage 3 and 4)</u>**
 
-In SHHS, no attempt is made to distinguish Stage 3 from Stage 4 which are combined into a single category: Deep Sleep.
+In SHHS and Family Study, no attempt is made to distinguish Stage 3 from Stage 4 which are combined into a single category: Deep Sleep.
 
-Deep Sleep is scored when 20% or more of the epoch consists of delta waves which are < 2 Hz (duration 0.5 s.) and have an amplitude greater than 75 μV.  The 20% criteria refers specifically to the time occupied by the high amplitude, slow waves, and does not include intervening waves of higher frequency and lower amplitude or K complexes. To fulfill the criteria for Deep Sleep, one should be able to find at least 5-6 high voltage delta waves in the 30second sleep epoch ([SsFigures](:pages_path:/manuals/psg-reading-center/18-AA-list-of-illustrations.md) 5a and 5b).  Delta waves embedded in increased frequency activity (an arousal) do not contribute to the calculation of time in delta sleep. ([SsFigure](:pages_path:/manuals/psg-reading-center/18-AA-list-of-illustrations.md) 5c)
+Deep Sleep is scored when 20% or more of the epoch consists of delta waves which are 0.5-2 Hz (duration 0.5-2 sec) and have an amplitude greater than 75 μV.  The 20% criteria refers specifically to the time occupied by the high amplitude, slow waves, and does not include intervening waves of higher frequency and lower amplitude or K complexes. To fulfill the criteria for Deep Sleep, one should be able to find at least 5-6 high voltage delta waves in the 30second sleep epoch ([SsFigures](:pages_path:/manuals/psg-reading-center/18-AA-list-of-illustrations.md) 5a and 5b).  Delta waves embedded in increased frequency activity (an arousal) do not contribute to the calculation of time in delta sleep. ([SsFigure](:pages_path:/manuals/psg-reading-center/18-AA-list-of-illustrations.md) 5c)
 
 Sleep spindles and K complexes may or may not be present in Deep Sleep ([SsFigure](:pages_path:/manuals/psg-reading-center/18-AA-list-of-illustrations.md) 5d).  Eye movements do not occur in Deep Sleep, although the EOG may reflect the high voltage slow wave activity.  The EMG is tonically active, although the tracing may achieve very low levels, indistinguishable from that of REM sleep.
 
