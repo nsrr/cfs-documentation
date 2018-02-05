@@ -51,7 +51,7 @@ Setup of the screen used for scoring should be the same on all scorers’ comput
 ### 17.14.1 Sleep Staging and Arousals
 
 * For staging and arousals the following tracings are displayed (from the top to the bottom of the screen):  EOG(L), EOG(R), EMG, EEG, EEG(sec) and ECG.  Timebase: (Top) 30 sec.
-* As a default for scoring sleep stages and arousals, zoom for both EEGs should be x5 (full scale 125 mV).  In some cases, (alpha intrusion) scoring, use zoom x8 (full scale 250 mV).
+* As a default for scoring sleep stages and arousals, zoom for both EEGs should be x5 (full scale 125 μV).  In some cases, (alpha intrusion) scoring, use zoom x8 (full scale 250 μV).
 * No tracing with the respiratory signals should be visible during this phase of scoring.
 
 <div class="center">
