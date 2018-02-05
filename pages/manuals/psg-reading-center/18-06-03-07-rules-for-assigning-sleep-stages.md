@@ -31,9 +31,6 @@ Stage 1 is defined by a background of relatively low voltage, mixed frequency EE
 
 Traces of low voltage activity at 12-14 Hz may begin to appear as the transition to Stage 2 approaches, but this activity is not defined as a sleep spindles until the rhythmic bursts are clearly visible for at least 0.5 s.
 
-Intervals of > 3 minutes between K complexes or spindles (and which do  not meet criteria for REM of delta sleep or Wake ) are staged as Stage 1 (“3 minute rule”).
-  
-
 **<u>Stage 2 sleep</u>**
 
 Stage 2 is defined by a background similar to Stage 1 sleep with the presence of the K complexes and/or sleep spindles.  It is impossible to define the difference between Stage 1 and Stage 2 sleep on the basis of background activity alone. Bursts of other polymorphic high voltage slow waves, which do not have the precise morphology of K complex, are also frequently seen.  Delta waves: high amplitude ( > 75 μV), slow (0.5-2 Hz;  duration 0.5-2 sec) activity occupy no more than 19% of the epoch.  At the beginning of the Stage 2, slow eye movements may infrequently, and only briefly, persist after the appearance of sleep spindles and K complexes. ([SsFigures](:pages_path:/manuals/psg-reading-center/18-AA-list-of-illustrations.md) 3a, 3b, and 3c)
