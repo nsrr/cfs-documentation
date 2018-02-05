@@ -189,7 +189,7 @@ Arousals lasting > 15 s. and containing awake EEG within an epoch cause the epoc
 
 <u>Arousals in REM</u>
 
-In stage REM, an EEG frequency shift must be accompanied by a simultaneous increase in amplitude of the chin EMG (lasting over 0.5 s.).  An arousal starts when a definite change in background EEG is visualized.  The increase in the chin EMG can occur anytime during the arousal (can be at the end) and is not a marker for the beginning of the arousal  However, increased EMG activity without a change in background EEG does not constitute an arousal (ArFigures 6a, 6b and 6c)
+In stage REM, an EEG frequency shift must be accompanied by a simultaneous increase in amplitude of the chin EMG (lasting over 0.5 s.).  An arousal starts when a definite change in background EEG is visualized.  The increase in the chin EMG can occur anytime during the arousal (can be at the end) and is not a marker for the beginning of the arousal.  However, increased EMG activity without a change in background EEG does not constitute an arousal (ArFigures 6a, 6b and 6c).
 
 <div class="row">
   <div class="col-xs-12 col-sm-4">
@@ -231,7 +231,7 @@ In stage REM, an EEG frequency shift must be accompanied by a simultaneous incre
 
 **Potential Problems:**
 
-Some studies with high RDIs have many arousals that may appear to last > 15 sec. within given epochs. If all such epochs were classified as AWAKE, then the respiratory events would not be included in the RDI and the RDI will be underestimated. When faced with this situation, the scorer may attempt to keep the duration of the arousal to as short as feasible (e.g., corresponding to the length of the waking EEG in that epoch.) This will maximize the number of epochs containing arousals that are captured as "sleep".
+Some studies with high RDIs have many arousals that may appear to last > 15 sec. within given epochs. If all such epochs were classified as AWAKE, then the respiratory events would not be included in the RDI and the RDI will be underestimated. When faced with this situation, the scorer may attempt to keep the duration of the arousal to as short as feasible (e.g., corresponding to the length of the waking EEG in that epoch). This will maximize the number of epochs containing arousals that are captured as "sleep".
 
 
 <div class="center">
