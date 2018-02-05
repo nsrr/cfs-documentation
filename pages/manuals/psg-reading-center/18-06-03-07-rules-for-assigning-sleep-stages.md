@@ -71,7 +71,6 @@ Stage REM is defined by a background of relatively low voltage, mixed frequency 
 The EOG shows bursts of rapid eye movements; often the density of such bursts increase as sleep progresses. Thus, earlier Stage REM episodes usually contain fewer REMs than later episodes.
 
 Rarely delta waves may be observed in an epoch that is within a period of REM ([SsFigures](:pages_path:/manuals/psg-reading-center/18-AA-list-of-illustrations.md) 7a and 7b).  If occurring within period of REM, a low EMG, continue to score as REM.  Large sawtooth waves also may be confused with hypersyncrony  ([SsFigure](:pages_path:/manuals/psg-reading-center/18-AA-list-of-illustrations.md) 7c).
-
 <div class="bs-callout bs-callout-info">
   <p>
     <strong>Note:</strong>
@@ -89,7 +88,7 @@ At the start of Stage REM, K complexes, sleep spindles and delta waves end, char
 
 <u>Periods of elevated sustained EMG during Stage REM sleep:</u>
 
-When EMG is elevated above the REM level for longer than .5 sec, then this portion of the record is scored as a Non-REM sleep or WAKE.  If phasic twiches or sawtooth waves are seen, but intervening EMG is low, the epoch remains REM ([SsFigure](:pages_path:/manuals/psg-reading-center/18-AA-list-of-illustrations.md) 6e).
+When EMG is elevated above the REM level for longer than 15 sec, then this portion of the record is scored as a Non-REM sleep or WAKE.  If phasic twiches or sawtooth waves are seen, but intervening EMG is low, the epoch remains REM ([SsFigure](:pages_path:/manuals/psg-reading-center/18-AA-list-of-illustrations.md) 6e).
 
 **WAKE-REM Transition:**
 
