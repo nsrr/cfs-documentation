@@ -7,7 +7,7 @@ In order of importance:
 3. <u>Chin electrodes are needed to determine REM stage sleep during the night.
 4. <u>At least one **EEG** sensor (C3 or C4) and either A1 or A2</u> should be a good valid signal. Impedances should remain under 10K.
 5. <u>EKG electrodes</u>, snore microphone, position sensor, and leg sensors ideally should remain valid all night. If problems occur, please call Heather.  Write a note on the problem flow sheet.
-6. With <u>new gold disk leg electrodes</u>, please keep impedances under 30K. It is more important that the impedance values are balanced for each leg then it is to be under 30K.  Impedance values between legs should be within about 5K of each other.  Being too close together can artificially inflate the impedance value—make sure that the sensors are at least 1 inch apart..
+6. With <u>new gold disk leg electrodes</u>, please keep impedances under 30K. It is more important that the impedance values are balanced for each leg then it is to be under 30K.  Impedance values between legs should be within about 5K of each other.  Being too close together can artificially inflate the impedance value—make sure that the sensors are at least 1 inch apart.
 
 
 <div class="center">
