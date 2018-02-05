@@ -26,7 +26,7 @@ The <u>desaturation associated with any respiratory event</u> will be based on t
 
 * All events (regardless of desaturation or arousal)
 * Summary RDI values, based on events associated with ≥ 2%, ≥ 3%, ≥ 4%, and ≥ 5% desaturation levels.
-* Summary RDI values based on events associated with > 2%, 3%, 4%, and 5% desaturation levels or associated arousal.
+* Summary RDI values based on events associated with ≥ 2%, ≥3%, ≥4%, and ≥5% desaturation levels or associated arousal.
 * Summary RDI values based on events associated with arousal regardless of desaturation.
 
 <u>Time in apnea or hypopnea:</u>
@@ -37,7 +37,7 @@ The <u>desaturation associated with any respiratory event</u> will be based on t
 <u>Oxygen Desaturation Profile:</u>
 
 * Percent sleep time in desaturation (<95%, <90%, <85%, <80%, <75%).
-* Number of desaturations/hour of sleep (unlinked with respiratory events) of 2%, 3%, 4%, 5%.
+* Number of desaturations/hour of sleep (unlinked with respiratory events) of ≥2%, ≥3%, ≥4%, ≥5%.
 
 <u>Sleep Architecture:</u>
 
