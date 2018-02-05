@@ -41,7 +41,7 @@ Stage 2 is defined by a background similar to Stage 1 sleep with the presence of
 Relatively long periods may intervene between K complexes and/or sleep spindles without a background change in the EEG.  Regardless of the presence of the arousal:
 
 * If there is <3 minutes of the low voltage, mixed frequency EEG between sleep spindles and/or K complexes, this portion of the record is scored as Stage 2.
-* Otherwise if > 3 minutes,  this portion of the record is scored Stage 1.
+* Otherwise if > 3 minutes, this portion of the record is scored Stage 1.
 
 K complexes may be imbedded within an arousal and nonetheless constitute evidence of Stage 2.
 ([SsFigure](:pages_path:/manuals/psg-reading-center/18-AA-list-of-illustrations.md) 4a)
@@ -57,7 +57,7 @@ Sleep spindles and K complexes may or may not be present in Deep Sleep ([SsFigur
 <div class="bs-callout bs-callout-info">
   <p>
     <strong>Note:</strong>
-    In the Compumedics software Stages 2, 3/4 are assigned based on the amount of the  “delta-H” waves.  K complexes and all the waves from the delta range (< 2 Hz) are considered by the computer algorithm  in the count of these waves. The computer based calculation of delta sleep can be used to help determine % of slow waves when there are K complexes or events or other artifact.  When any ambiguity exists, the scorer must quantify the percentage of time delta waves occupy within the epoch.   Any questionable areas should be re-measured, subtracting time occupied by K complexes and other waveforms.
+    In the Compumedics software Stages 2, 3/4 are assigned based on the amount of the  “delta-H” waves.  K complexes and all the waves from the delta range (< 2 Hz) are considered by the computer algorithm  in the count of these waves. The computer based calculation of delta sleep can be used to help determine % of slow waves when there are K complexes or events or other artifact.  When any ambiguity exists, the scorer must quantify the percentage of time delta waves occupy within the epoch.  Any questionable areas should be re-measured, subtracting time occupied by K complexes and other waveforms.
   </p>
 </div>
 
@@ -66,7 +66,7 @@ An attempt should be made to distinguish between spontaneous K complexes and del
 
 **<u>Stage REM sleep</u>**
 
-Stage REM is defined by a background of relatively low voltage, mixed frequency EEG with accompanying episodes of REMs (Rapid Eye Movements).  The EEG pattern resembles Stage 1, except that vertex sharp waves are not readily noticeable.  Bursts of characteristic “sawtooth” waves may appear, appearing as notched waves in the theta range.  Alpha activity is usually more prominent than in Stage 1 and its frequency is 1-2 Hz slower than the alpha rhythm in wakefulness.  The EMG reaches its lowest levels (it cannot be higher than the level during the preceding stage). Phasic twitches and intermittent increases of EMG activity may be observed but intervening baseline must remain low.  Phasic twitch (EMG) defined as:  short (no longer than .10 sec burst of EMG activity superimposed on suppressed muscle tone which physically manifests as a twitch (contraction) of a muscle or jerk of a limb.  In REM such muscle contractions may be isolated or become repetitive, but they remain distinctive.  Periods of the relatively low voltage, mixed frequency EEG and EMG at Stage REM level but without eye movements may follow unambiguous stage REM and is considered Stage REM unless criteria for a state change are met. ([SsFigures](:pages_path:/manuals/psg-reading-center/18-AA-list-of-illustrations.md) 6a, 6b, 6c, 6d, and 6e)
+Stage REM is defined by a background of relatively low voltage, mixed frequency EEG with accompanying episodes of REMs (Rapid Eye Movements).  The EEG pattern resembles Stage 1, except that vertex sharp waves are not readily noticeable.  Bursts of characteristic “sawtooth” waves may appear, appearing as notched waves in the theta range.  Alpha activity is usually more prominent than in Stage 1 and its frequency is 1-2 Hz slower than the alpha rhythm in wakefulness.  The EMG reaches its lowest levels (it cannot be higher than the level during the preceding stage). Phasic twitches and intermittent increases of EMG activity may be observed but intervening baseline must remain low.  Phasic twitch (EMG) defined as:  short (no longer than .10 sec) burst of EMG activity superimposed on suppressed muscle tone which physically manifests as a twitch (contraction) of a muscle or jerk of a limb.  In REM such muscle contractions may be isolated or become repetitive, but they remain distinctive.  Periods of the relatively low voltage, mixed frequency EEG and EMG at Stage REM level but without eye movements may follow unambiguous stage REM and is considered Stage REM unless criteria for a state change are met. ([SsFigures](:pages_path:/manuals/psg-reading-center/18-AA-list-of-illustrations.md) 6a, 6b, 6c, 6d, and 6e)
 
 The EOG shows bursts of rapid eye movements; often the density of such bursts increase as sleep progresses. Thus, earlier Stage REM episodes usually contain fewer REMs than later episodes.
 
