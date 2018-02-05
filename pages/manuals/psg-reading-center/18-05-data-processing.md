@@ -6,7 +6,7 @@ This Compumedics program must be run prior to review of studies and final scorin
 
 ### 18.5.2 Preliminary Review
 
-After offline analysis of the record, the CP will then review each study to determine if overall quality is sufficient to be scored (passed/failed), and identify any potential medical alerts (defined as preliminary RDI >45).      In addition, the CP will note any signal quality issues, possible monitor malfunctions, and recommendations for electrode replacements on the Receipt form.
+After offline analysis of the record, the CP will then review each study to determine if overall quality is sufficient to be scored (passed/failed), and identify any potential medical alerts (defined as preliminary RDI >45).  In addition, the CP will note any signal quality issues, possible monitor malfunctions, and recommendations for electrode replacements on the Receipt form.
 
 Minimal criteria for study acceptability:  The record must contain at least 4 hours of scorable EEG, oximetry and respiratory data (either airflow, thoracic or abdomen) between (edited) lights off and lights on (Total Recording Time). Recorded time after final awakening will not contribute to this time. Two continuous blocks of scorable data, each at least 2 hours long are required to consider study acceptable for scoring.
 
@@ -18,7 +18,7 @@ The site coordinator is to verify that all information on the Record of Receipts
 
 ### 18.5.4 Assignment of Studies to Scorers
 
-Potential Medical Alerts - Studies identified as potential medical alerts will be triaged for immediate full scoring (within 48 hours of assignment to scorer).   Once fully scored and determined to meet criteria for Medical Alerts (final RDI > 50, time in desaturation of <70% for >10% TST, or average heart rate > 150 BPM or <30 BPM for 2 minutes), a physician investigator will be asked to review the study.  If the medical alert is ascertained, it will be logged into a Medical Alert Log and the site will receive the Participant Feedback Sleep Report   and quality grades (QS form) with the regular weekly reports.
+Potential Medical Alerts - Studies identified as potential medical alerts will be triaged for immediate full scoring (within 48 hours of assignment to scorer).  Once fully scored and determined to meet criteria for Medical Alerts (final RDI > 50, time in desaturation of <70% for >10% TST, or average heart rate > 150 BPM or <30 BPM for 2 minutes), a physician investigator will be asked to review the study.  If the medical alert is ascertained, it will be logged into a Medical Alert Log and the site will receive the Participant Feedback Sleep Report and quality grades (QS form) with the regular weekly reports.
 
 All remaining studies are scored based on date received. Bi-monthly review of scored studies by site by scorer is done to maintain equal distribution of studies from all sites among the scorers.
 
@@ -32,7 +32,7 @@ All data contained in the QS form (quality grades and scoring notes) will be ent
 
 After full scoring, the scorer will generate:
 
-* <u>Family Participant Feedback Report</u> (rtf format),  contains summary sleep data. Data will be displayed in two parts (top/bottom of form), including the RDI (the number of apneas and hypopneas per hour of the sleep associated with a desaturation > 3%), a summary of the desaturation profile, time in REM/Non-REM sleep, stage distributions, and the arousal index.  The top half of the report will be used in the Participant Feedback Letters, and the bottom half (containing stage distribution and arousal indices) can be used in communications with local physicians.
+* <u>Family Participant Feedback Report</u> (rtf format),  contains summary sleep data. Data will be displayed in two parts (top/bottom of form), including the RDI (the number of apneas and hypopneas per hour of the sleep associated with a desaturation ≥ 3%), a summary of the desaturation profile, time in REM/Non-REM sleep, stage distributions, and the arousal index.  The top half of the report will be used in the Participant Feedback Letters, and the bottom half (containing stage distribution and arousal indices) can be used in communications with local physicians.
 
 * <u>SAS report</u>
 * <u>Completed QS form</u> containing all quality grades and scoring notes.
