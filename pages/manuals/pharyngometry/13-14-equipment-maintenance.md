@@ -15,11 +15,11 @@ The pharyngometer wave tube should be cleaned after every participant use.
 9. Use the brush with no color at the handle. This brush should be dry, scrub the inside of the tube with the dry brush several times.
 10. Wipe the outside of the wave tube with rubbing alcohol. The tube is now ready for another participant.
 
-### 13.14.2 Nose and Mouth Pieces
+### 13.14.2 Mouth Pieces
 
-Nose pieces and mouth pieces will be cleaned after every use.
+Mouth pieces will be cleaned after every use.
 
-1. Using soap and water, clean every mouth and nose piece to remove any obvious dirt.
+1. Using soap and water, clean every mouth piece to remove any obvious dirt.
 2. Mix a solution of bleach and water in the container provided. The ratio of bleach to water is 1:50.
 3. After the pieces have been soaking for at least 20 minutes, rinse the pieces with tap water.
 4. Using the spray bottle labeled rubbing alcohol, spray the pieces (this will be a diluted to 1:2, alcohol to water). An alternative would be to rinse the pieces with sterile water after they have been disinfected.
