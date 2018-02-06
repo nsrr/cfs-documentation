@@ -3,7 +3,7 @@
 <u>**We are Looking for That Area Between the Oropharyngeal Junction and the Epligotti, Called the Oropharynx**</u>
 
 * A good example of this landmark would be represented on the below graphic _as the second smaller hill next to the first large hill on the graph_, between the two small triangles. Typically, this can be found in the first “hump” after the oral cavity – from the first “dip” to the second “dip”.  In some graphs, that area may be harder to identify.
-* To locate the oropharynx on the Pharyngometry display screen, search about 10 cm “mouth-ward” of the glottis. This is the pharynx.  The glottis is the dip located at around 20 cm, corresponding to the narrow area around the vocal cords.  This landmark may then help us to locate the area we are interested in located just left of the pharynx
+* To locate the oropharynx on the Pharyngometry display screen, search about 10 cm “mouth-ward” of the glottis. This is the pharynx.  The glottis is the dip located at around 20 cm, corresponding to the narrow area around the vocal cords.  This landmark may then help us to locate the area we are interested in located just left of the pharynx.
 
 <u>**Placement of the Mouthpiece and Ways to Troubleshoot**</u>
 
@@ -13,7 +13,7 @@
 
 <u>**The Tongue is Misplaced**</u>
 
-* Tongue is most likely misplaced at the roof of the mouth
+* Tongue is most likely misplaced at the roof of the mouth.
 * Reposition the tongue; making sure that it is resting under the ledge of the mouthpiece.  If this fails, try inserting the mouthpiece without the wave tube attached, and look, with a flashlight, to see if placement is correct.
 * For those individuals with “meaty tongues”, it may be possible that, even with correct placement of the mouthpiece, the graph will appear this way.  In that case, note that in the comment section.
 
@@ -27,7 +27,7 @@
 
 Gary Glass approved of these techniques, and suggested the nose holding technique, as a <u>final option</u> when all others have failed.
 
-* One can tell the subject is nose-breathing because the dip after the oral cavity hits 0.  That is appropriate for the nose-breath trial, but be sure that for the mouth-breath” trial you attain proper data, with that same dip falling above zero.
+* One can tell the subject is nose-breathing because the dip after the oral cavity hits 0.  That is appropriate for the nose-breath trial, but be sure that for the "mouth-breath” trial you attain proper data, with that same dip falling above zero.
 * If the subject has trouble breathing through the mouth only, instruct them to inhale slowly though their mouth, and throat.  This may help.
 * You may also ask them to blow out slowly – as if they were blowing up a balloon.
 * As a last resort, you may have them hold their nose, so they will only breathe though their mouth.
