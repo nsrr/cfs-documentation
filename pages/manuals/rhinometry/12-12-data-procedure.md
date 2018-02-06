@@ -11,12 +11,12 @@ RF1234ns.000
 * F to identify Family Study
 * 1234 – 4-digit Participant ID
 * __  – 2 underscores
-* Ns identifies test after nasal spray
+* Ns identifies test after nasal drops
 
 <div class="bs-callout bs-callout-info">
   <p>
     <strong>Note:</strong>
-    There should be two files for each ID, one before and one after administration of nasal spray.  Raw data disks are returned to the Research Center for processing.
+    There should be two files for each ID, one before and one after administration of nasal drops.  Raw data disks are returned to the Research Center for processing.
   </p>
 </div>
 
@@ -24,11 +24,11 @@ RF1234ns.000
 
 Upon receipt at the Research Center by a designated research assistant responsible for Rhinometry data, data is uploaded to the network file server and backed up on floppy disk.  In order to carry out the data procedures a computer needs the following specifications (typically DCEPC109 is used):
 
-* Windows 2000 or higher, with connections to DCE network.
-* Floppy drive.
+* Windows 2000 or higher, with connections to DCE network
+* Floppy drive
 * Oral_scoring.bat batch file installed (found in the Family Data Procedures folder)
 * Network drive N:\ mapped to Family Study folder
-* SAS for Windows V9.1x installed.
+* SAS for Windows V9.1x installed
 * Rhinometry scoring software (ORAL 5.03) installed
 
 #### 12.12.2.1 Upload Data to Network
