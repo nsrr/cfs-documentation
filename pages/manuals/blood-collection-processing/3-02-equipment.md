@@ -37,7 +37,7 @@
 * Vacutainer barrels
 * Tourniquets
 * Alcohol prep pads
-* auze (2x2)
+* Gauze (2x2)
 * Surgical tape or paper tape (easier on participants)
 * Band-Aids
 * Blood tube racks
