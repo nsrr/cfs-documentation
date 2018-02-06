@@ -1,4 +1,4 @@
-## 12.3 Compputer Setup
+## 12.3 Computer Setup
 
 1. Assure that the rhinometer is connected securely to the back of the hard drive in the appropriate jack (marked “nose”).
 2. From the Windows start menu, restart computer in MS-DOS mode.
