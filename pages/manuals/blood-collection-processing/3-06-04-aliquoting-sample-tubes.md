@@ -47,7 +47,7 @@ Standard procedures as outlined below are followed for most Vacutainer tubes wit
   </p>
 </div>
 
-* Samples should not be snap-frozen in a dry ice bath or in a –70°C freezer, once preparation is complete.  When room temperature handling and processing is not available, Astandard processing at 4°C may be used with an effort to limit the time the sample is in the cold, with the understand that some degree of activation will occur.
+* Samples should not be snap-frozen in a dry ice bath or in a –70°C freezer, once preparation is complete.  When room temperature handling and processing is not available, a standard processing at 4°C may be used with an effort to limit the time the sample is in the cold, with the understanding that some degree of activation will occur.
 
 ### 3.6.4.4 Any Citrate Tube for PAI-1 Assays
 
