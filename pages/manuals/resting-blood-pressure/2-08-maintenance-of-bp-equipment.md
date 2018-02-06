@@ -16,7 +16,7 @@ The condition of the instruments for BP measurement is too often neglected in co
   </a>
 
   <a href=":pages_path:/manuals/resting-blood-pressure/2-09-checking-sphygo-accuracy.md" class="btn btn-success">
-    2.9 Checking Shygmomanometer for Accuracy
+    2.9 Checking Sphygmomanometer for Accuracy
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
