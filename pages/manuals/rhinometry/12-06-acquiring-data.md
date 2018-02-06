@@ -3,7 +3,7 @@
 1. Using the left/right arrow keys, highlight **Acquire** on the screen.
 2. Select the appropriate 1st, 2nd, 3rd, or 4th trial windows with the up/down keys.
 3. Prepare the rhinometer by securing the rubber nosepiece to the end of the rhinometer tube.
-4. Place the rhinometer under the nares of the subject. The nosepiece should be touching the base of the nares close enough to ensure a good seal, but <u>not</u> pushing into the nares, which will distort the shape of the nasal, distorting results.
+4. Place the rhinometer under the nares of the subject. The nosepiece should be touching the base of the nares close enough to ensure a good seal, but <u>not</u> pushing into the nares, which will distort the shape of the nasal cavity, distorting results.
 5. Inform the subject to stop breathing and to hold very still for a few seconds while you run the test.
 
 <div class="bs-callout bs-callout-info">
