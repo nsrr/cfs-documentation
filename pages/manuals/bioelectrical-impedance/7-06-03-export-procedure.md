@@ -7,7 +7,7 @@
 </div>
 
 * 2. A smaller window will open.
-* 3. Click on **Export**. This will sent the file to an Excel.dat file.
+* 3. Click on **Export**. This will send the file to an Excel.dat file.
 
 <div class="center">
   <img src=":images_path:/7.6.3 Export Procedure-3.png">
