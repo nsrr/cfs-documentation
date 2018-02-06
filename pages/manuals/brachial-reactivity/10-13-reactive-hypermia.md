@@ -12,7 +12,7 @@ If the ultrasound machine uses a trackball to control several functions (i.e., c
  * Sweep the face of the scanhead medially up and into the short head of the biceps until the artery reappears on the screen.
  * When first learning this procedure, the immediate release Doppler step should be bypassed and the 1-minute post image should be performed.
 3. The artery will be optimally displayed on the screen (i.e., not splayed).
- * If it is splayed, the scanhead will be rotated slightly so that the proximal and disPtal ends appear to be the same diameter.
+ * If it is splayed, the scanhead will be rotated slightly so that the proximal and distal ends appear to be the same diameter.
  * Before the PW spectral trace is engaged, the sample volume will be positioned and sized to include the entire lumen.
 4. The PW Doppler spectral trace will be acquired in one full sweep. No more than two full sweeps will be acquired since the reactive hyperemia quickly decays and it will be important to provide as much time as possible for acquiring the more important 2-D post stimulus image.
 

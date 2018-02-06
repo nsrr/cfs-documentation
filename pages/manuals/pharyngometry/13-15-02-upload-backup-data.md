@@ -2,11 +2,11 @@
 
 Upon receipt at the Research Center by a designated research assistant responsible for Pharyngometry data, data is uploaded to the network file server and backed up on floppy disk.  In order to carry out the data procedures, a computer needs the following specifications (typically DCEPC109 is used):
 
-* Windows 2000 or higher, with connections to DCE network.
-* Floppy drive.
-* Oral_scoring.bat batch file installed (found in the Family Data Procedures folder)..
+* Windows 2000 or higher, with connections to DCE network
+* Floppy drive
+* Oral_scoring.bat batch file installed (found in the Family Data Procedures folder)
 * Network drive N:\ mapped to Family Study folder
-* SAS for Windows V9.1x installed.
+* SAS for Windows V9.1x installed
 * Pharyngometry scoring software (ORAL 5.03) installed
 
 ### 13.15.2.1 Backup Files on Disc

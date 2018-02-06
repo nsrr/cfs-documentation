@@ -2,7 +2,7 @@
 
 * [12.1 Background](:pages_path:/manuals/rhinometry/12-01-background.md)
 * [12.2 Equipmemt](:pages_path:/manuals/rhinometry/12-02-equipment.md)
-* [12.3 Compputer Setup](:pages_path:/manuals/rhinometry/12-03-computer-setup.md)
+* [12.3 Computer Setup](:pages_path:/manuals/rhinometry/12-03-computer-setup.md)
 * [12.4 Rhinometry Calibration](:pages_path:/manuals/rhinometry/12-04-rhinometry-calibration.md)
 * [12.5 Entering Participant Information and Labeling Trial Graphs](:pages_path:/manuals/rhinometry/12-05-entering-ppt-info.md)
 * [12.6 Acquiring Data](:pages_path:/manuals/rhinometry/12-06-acquiring-data.md)
@@ -15,7 +15,7 @@
  * 12.10.2 Participant Slowly Leans Away from Administrator During the Trial
 * [12.11 Equipment Maintenance](:pages_path:/manuals/rhinometry/12-11-equipment-maintenance.md)
  * 12.11.1 Wave Pieces
- * 12.11.2 Nose Pieces and Mouth Pieces
+ * 12.11.2 Nose Pieces
 * [12.12 Data Procedure](:pages_path:/manuals/rhinometry/12-12-data-procedure.md)
  * 12.12.1 Testing and Raw Data Download
  * 12.12.2 Upload and Backup of Data
