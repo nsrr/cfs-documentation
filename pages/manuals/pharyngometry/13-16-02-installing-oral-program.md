@@ -2,16 +2,16 @@
 
 **Do NOT install this program on the same computer used for performing Pharyngometry.**  This would cause immeasurable harm to the testing software.
 
-1. Exit windows to the C:/ root directory
+1. Exit windows to the C:\ root directory
 2. Insert program disk into the A: drive
-3. At the MS-DOS prompt, type **'a:/'**
+3. At the MS-DOS prompt, type **'a:\'**
 4. Press **Enter**
 5. Type **'install'**
 6. Press **Enter**
 7. Type **'cd..ORAL'**
 8. Press **Enter**
 9. Type **'edit nosedef.dat'**
-10. In the DOS editor, the first line is “SRCE PATH”.  In this line type **'C:/oralfile'**
+10. In the DOS editor, the first line is “SRCE PATH”.  In this line type **'C:\oralfile'**
 11. Press **Enter** to save change
 12. In the DOS editor, select **File**
 13. Select **Save**
