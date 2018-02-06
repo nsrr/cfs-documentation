@@ -20,7 +20,7 @@ It should be emphasized that the steps outlined here can satisfactorily be follo
   </a>
 
   <a href=":pages_path:/manuals/resting-blood-pressure/2-02-equipment.md" class="btn btn-success">
-    2.2 Personnel
+    2.2 Equipment
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
