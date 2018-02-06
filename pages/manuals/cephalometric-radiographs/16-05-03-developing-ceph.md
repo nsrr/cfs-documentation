@@ -15,7 +15,7 @@ When you are finished with all participants or when you are out of fresh cassett
 </div>
 
 5. Once assured that the film is feeding properly, take the now-empty cassette and reload with a fresh film from the film box.
-6. Repeat steps 5-7 until all cassettes are reloaded.
+6. Repeat steps 3-5 until all cassettes are reloaded.
 7. When last film is inside developer, and the film box is resealed, you can turn on the lights again.
 8. Replace fresh cassettes in the film cabinet on “unexposed” side.
 

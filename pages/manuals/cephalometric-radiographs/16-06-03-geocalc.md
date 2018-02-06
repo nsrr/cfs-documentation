@@ -3,7 +3,7 @@
 To harvest tongue area from the radiograph, a software program called GeoCalc is utilized.  During the location of the landmarks on the ceph, the tongue area will have been outlined by the analyst. To harvest these data, the operator simply needs to trace this outline with a digitizing mouse on a SummaGraphics digitizing tablet.  The procedures for accomplishing this are listed below.
 
 1. Turn on the PC designated for this task.
-2. Open Windows by typing **“win”** at the C:/ prompt.
+2. Open Windows by typing **“win”** at the C:\ prompt.
 3. From Windows, select **Exit to DOS** option.
 4. At the DOS prompt, type **“GC98”**.
 5. At the green start up screen, press **Enter**.
@@ -16,7 +16,7 @@ To harvest tongue area from the radiograph, a software program called GeoCalc is
 12. Press the **yellow** button to begin the process.
 13. Carefully follow the outline of the tongue area with the mouse, trying to remain on the outside of the line at all times.
 14. When you return to the starting point, press the **blue** button on the mouse.
-15. The program will give you a strange message while it is processing the data.  Ignore it and be participant.
+15. The program will give you a strange message while it is processing the data.  Ignore it and be patient.
 16. Record tongue area on the acetate.
 17. Repeat the procedure two more times.
 18. Choose the median score.

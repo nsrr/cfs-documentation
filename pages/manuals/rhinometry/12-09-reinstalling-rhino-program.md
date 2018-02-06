@@ -3,7 +3,7 @@
 In the event that power is disrupted during the time the rhinometry program is running, or any other serious flaws exist which cannot be eliminated, the rhinometry program should be reinstalled.
 
 1. Exit any programs to reach the “C:\” prompt.
-2. Type in **“A:/”** to reach the “A” prompt.
+2. Type in **“A:\”** to reach the “A” prompt.
 3. Insert Floppy that has backup copy of rhinometry program into Drive A:
 4. Type **“reinstall”** and allow the computer to update the program files.  You may need to reboot the computer before it can officially update the program.
 5. Re-run the program to see if reinstallation was successful.

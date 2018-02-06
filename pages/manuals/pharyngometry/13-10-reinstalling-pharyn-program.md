@@ -4,7 +4,7 @@ In the event that power is disrupted during the time the pharyngometry program i
 
 1. From the Window’s Main Screen, double click the **Short Cut to MSDOS** icon.  You will now be at a C:\ prompt.
 2. Insert the floppy disk containing the Pharyngometry program into drive A:\.
-3. Type **“A:/”** to reach the A prompt.
+3. Type **“A:\”** to reach the A prompt.
 4. Type **“reinstall”** and allow the computer to update the program files.  You may need to reboot the computer before it can officially update the program.
 5. Re-run the program to see if reinstallation was successful.
 

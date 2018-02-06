@@ -8,7 +8,7 @@ Listed are some features that will assure a successful visit:
 * Be sensitive to participant's needs.
 * Provide overview of the Sleep Study.
 * Be patient / Be interested.
-* Make sure he/she understands all aspects of study/Have subject demonstrate or repeat critical areas (e.g., detaching oximeter if needed).
+* Make sure he/she understands all aspects of study.  Have subject demonstrate or repeat critical areas (e.g., detaching oximeter if needed).
 * Provide participant with telephone number to call for "help".
 * Schedule morning pick-up of the Eden-tec according to participant's needs.
 * Keep a Positive Attitude.
