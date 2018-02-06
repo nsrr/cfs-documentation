@@ -1,6 +1,6 @@
 ## 3.6.4 Aliquoting Sample Tubes
 
-Standard procedures as outlined below is followed for most Vacutainer tubes with anticoagulants such as EDTA, Citrate, and Silicon-coating for serum collection.  However, the LCBR offers other collection tubes for hemostasis assays that have specific handling requirements:
+Standard procedures as outlined below are followed for most Vacutainer tubes with anticoagulants such as EDTA, Citrate, and Silicon-coating for serum collection.  However, the LCBR offers other collection tubes for hemostasis assays that have specific handling requirements:
 
 * Aliquoting consists of removing the serum or plasma in small amounts (e.g.: 1.0 mL) by pipette and placing it into the appropriate color-coded cryovials (as outlined in cryovial specifications and the aliquoting schemes).  Color-coding is predetermined and used to identify sample type such as EDTA plasma vs. Serum, etc.
 * This process must be done while the tubes and cryovials are on ice (unless otherwise  noted).
