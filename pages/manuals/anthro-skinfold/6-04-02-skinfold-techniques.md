@@ -16,7 +16,7 @@ The following techniques are taken from the Applied Body Composition Assessment.
 * Take skinfold measurements in a rotational order (circuits) rather than consecutive readings at each site.
 * Measurements should be taken when the subject’s skin is dry and lotion-free, and they should not be taken immediately following exercise.
 
-Once all the measures are complete on the data sheet, make a copy for Karen Worman and return the original data sheet to the participant’s file. Karen Worman will run input the information and give this data to our office for analysis.
+Once all the measures are complete on the data sheet, make a copy for Karen Worman and return the original data sheet to the participant’s file. Karen Worman will input the information and give this data to our office for analysis.
 
 
 <div class="center">
