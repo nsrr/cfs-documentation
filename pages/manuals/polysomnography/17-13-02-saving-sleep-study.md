@@ -2,11 +2,11 @@
 
 1. Go to the Profusion Scoring icon from the main Windows screen and double click. This will open the program.
 2. Click on the Study drop menu and select **Open**.
-3. Go to C:/ on the bottom of the window and select the study by highlighting it.
+3. Go to C:\ on the bottom of the window and select the study by highlighting it.
 4. The click on **OK**.
 5. Review the study briefly.
 6. Make sure you name the study with the ID number (F1231234): F with 3 digit familyi and 4 digit personi. Use a 0 when you have a 3 digit personi (personi 400 becomes 0400).
-7. Label the CD: date the CD and CD label with the study date
+7. Label the CD: date the CD and CD label with the study date.
 8. Go to the Study drop down menu and select **Close**.
 9. Exit this program by going to the Study drop down menu and selecting **Exit** or you may click on the **X** in the upper right hand corner of you screen.
 10. Insert a new, empty cd into the cd slot.
