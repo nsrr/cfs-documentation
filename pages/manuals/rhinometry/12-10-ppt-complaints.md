@@ -8,7 +8,7 @@
 
 ### 12.10.2 Participant Slowly Leans Away from Administrator During the Trial
 
-* Hold back of neck or head
+* Hold back of neck or head.
 * Have other RA stand behind subject and put hands behind participant’s back or head to prevent them from drifting backward.
 
 <div class="center">
