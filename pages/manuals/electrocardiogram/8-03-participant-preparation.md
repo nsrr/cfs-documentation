@@ -1,6 +1,6 @@
 ## 8.3 Participant Preparation
 
-* The participant, stripped to the waist, is asked to sit or lie in a supine position on the recording bed with shoulders straight and arms related at the sides. Some participants are too infirm to lie flat.
+* The participant, stripped to the waist, is asked to sit or lie in a supine position on the recording bed with shoulders straight and arms relaxed at the sides. Some participants are too infirm to lie flat.
 * The ECGs will be taken in a supine or semi-recumbent position (some participants may be too infirm to be comfortable in a supine position). The participant’s safety is imperative.
 * The location for ECG recording must be stable and properly supported (ex. bed). A reclining chair (eg, Lazy Boy) can be used for the ECG, if necessary.
 * To assure compatibility of data, follow the uniform procedures for electrode placement, skin preparation and quality assurance below.
