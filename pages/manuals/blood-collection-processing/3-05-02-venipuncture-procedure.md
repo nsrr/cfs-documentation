@@ -19,8 +19,7 @@
 8. Make sure the participant's arm is in a flat or downward position while maintaining the tube below the site when the needle is in the vein.  It may be helpful to have the participant make a fist with the opposite hand and place it under the elbow for support.
 9. Grasp the flange of the Vacutainer holder and gently push the tube forward until the butt end of the needle punctures the stopper, exposing the full lumen of the needle.
 <div class="bs-callout bs-callout-info">
-  <p>
-    <strong>Note:</strong>
+  <p>    <strong>Note:</strong>
     Attention should be paid to <u>minimizing turbulence</u> whenever possible.
   </p>
 </div>
@@ -52,7 +51,7 @@ Oral glucose will be administered _after_ fasting, post-sleep venipuncture is pe
 
 1. After final awakening and prior to rising and eating in the morning, oral glucose will be administered by study nurse (75 grams or up to 1.75 g/kg in children).
 2. Have patient lie down after drinking.
-3. Approximately 2-hours after administration, draw 5 mL blood in serum tube.  Use a 21-guage butterfly needle with 12 inches of plastic tubing between the venipuncture site and the blood co9llection tubes.  Use the same procedure as outlined above.
+3. Approximately 2-hours after administration, draw 5 mL blood in serum tube.  Use a 21-guage butterfly needle with 12 inches of plastic tubing between the venipuncture site and the blood collection tubes.  Use the same procedure as outlined above.
 
 <div class="center">
 <div class="btn-group">
