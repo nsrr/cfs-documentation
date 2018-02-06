@@ -31,7 +31,7 @@ Once the cuff and device are connected, as required beforehand for determination
 * 6. By opening the thumb valve slightly, and maintaining a constant rate of deflation at approximately <u>2mm per second</u>, allow the cuff to deflate, listening throughout the entire range of deflation, from the peak inflation pressure past the systolic reading (the pressure where the <u>first</u> regular sound is heard), until 10 mm Hg <u>below</u> the level of the diastolic reading (that is, 10 mm Hg below level where the last regular sound is heard).
 * 7. The cuff is then fully deflated by opening the thumb valve, and is disconnected; the stethoscope earpieces are removed from the ears; and the systolic and diastolic readings are entered in the spaces provided on the form.
 * 8. The subject’s arm is raised, passively, overhead for 15 seconds. The arm is then lowered gently.
-* 9. The BP measurements are repeated exactly as before two more times. The observed SBP and DBP values are recorded Nursing Assessment Form (data sheet).
+* 9. The BP measurements are repeated exactly as before two more times. The observed SBP and DBP values are recorded on the Nursing Assessment Form (data sheet).
 * 10. Remove the cuff and store the equipment safely after the last reading.
 
 ### 2.7.2 Ways to Emphasize Sound
