@@ -4,11 +4,11 @@
 
 After hook-up, you will test the quality of each signal from each electrode or sensor. You will check the impedance of each EEG, EOG, ECG, and EMG sensor. You will also be able to check the quality/accuracy of the tracings or values of the signals.
 
-You will record the results of your impedance and signal checks on a Signal Verification Form.  This form is a log of key events related to the in-home procedures. Data from this document will be used to:
+You will record the results of your impedance and signal checks on a Signal Verification Form.  This form is a log of key events related to the in-lab procedures. Data from this document will be used to:
 
 1. Monitor the technical aspects of the study (time requirements, adequacy of hookups, etc.)
 2. Identify and document Immediate and Urgent Referrals
-3. Provide information that may be useful for "trouble shooting" bad studies (e.g. impedance checks).
+3. Provide information that may be useful for "trouble shooting" bad studies (e.g. impedance checks)
 
 This form includes the following:
 
