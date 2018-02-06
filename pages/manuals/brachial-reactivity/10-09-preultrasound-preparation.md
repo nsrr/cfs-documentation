@@ -23,13 +23,13 @@ The patient’s left arm will be scanned if the ultrasonographer only scans with
 
 The appropriate exam type, such as peripheral artery, will be selected on the ultrasound machine. All ultrasound manufacturers determine the optimum operational settings, for every model ultrasound machine and for each of the different exams to be performed. If the ultrasound machine does not have a vascular package, select an application designed for superficial structures such as small parts, musculoskeletal or breast.
 
-However, since the ultrasonic evaluation of vasoactivity is not yet a common application, the ultrasonographer will probably need to modify the exam presets. After the appropriate settings are determined for the ultrasound machine, they will be stored increase efficiency and reproducibility. The user-defined preset should be saved on a floppy or optical disc so that it can be reloaded in case of inadvertent erasure.
+However, since the ultrasonic evaluation of vasoactivity is not yet a common application, the ultrasonographer will probably need to modify the exam presets. After the appropriate settings are determined for the ultrasound machine, they will be stored to increase efficiency and reproducibility. The user-defined preset should be saved on a floppy or optical disc so that it can be reloaded in case of inadvertent erasure.
 
 Typical presets for this application will include:
 
 * Depth of 4 cm
-* Initial transmit power in the range of 2% so as not to saturate the area of interest.
-* Highest image line density.
+* Initial transmit power in the range of 2% so as not to saturate the area of interest
+* Highest image line density
 
 The patient ID will be entered as follows: patient initials, screening number, and protocol number. The annotation will be indicated as “UA BL” (i.e., upper arm baseline) and a S-VHS videocassette tape will be loaded into the VCR and the tape counter will be reset to zero. Only three procedures will be recorded per videocassette tape.
 
