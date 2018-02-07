@@ -20,8 +20,8 @@
     Polysomnography
   </a>
 
-  <a href=":pages_path:/manuals/polysomnography/17-14-scoring-procedures.md" class="btn btn-success">
-    17.14 Scoring Procedures
+  <a href=":pages_path:/manuals/polysomnography/17-13-04-family-ppt-feedback-report.md" class="btn btn-success">
+    17.13.4 Creating Family Participant Feedback Report
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
