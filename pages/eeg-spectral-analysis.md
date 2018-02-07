@@ -6,7 +6,7 @@ Sleep is a complex dynamic process often quantified through spectral analysis of
 
 ## Current Approaches
 
-The current gold standard approach to applying spectral analysis to EEG studies involves manual identification and removal of EEG artifacts prior to performing spectral analysis. Commercial software tools for manually identifying artifacts and performing spectral analysis are commonly provided as part of an EEG data collection system or can be purchased as a standalone software product. Our estimates for performing spectral analysis with manual artifact detection by the gold standard approach range between 1 and 2 hours per lead in each study. Although commercial software tools provide a turnkey solution for analyzing small numbers of sleep studies, the cost of manual artifact detection can become prohibitive when epidemiological scale (thousands of studies) of spectral analysis is required.
+The current gold standard approach to applying spectral analysis to EEG studies involves manual identification and removal of EEG artifacts prior to performing spectral analysis. Commercial software tools for manually identifying artifacts and performing spectral analysis are commonly provided as part of an EEG data collection system or can be purchased as a stand-alone software product. Our estimates for performing spectral analysis with manual artifact detection by the gold standard approach range between 1 and 2 hours per lead in each study. Although commercial software tools provide a turnkey solution for analyzing small numbers of sleep studies, the cost of manual artifact detection can become prohibitive when epidemiological scale (thousands of studies) of spectral analysis is required.
 
 ## NSRR Approach
 
@@ -14,7 +14,7 @@ In order to the address the need for a computationally efficient spectral analys
 
 ## Automated Artifact Detection and Spectral Analysis
 
-EEG spectral analysis was applied according to published automated artifact detection (Buckelmuller at al.) and spectral analyses (Aeschbach et al.) methods for EEG data collected during sleep. Results from previous manual scoring of the [SOF dataset](https://sleepdata.org/datasets/sof) (the "gold standard") were compared to results from automatic artifact detection of the SOF data generated using various artifact rejection thresholds to establish settings that coincided most with "gold standard" results. Agreement of these results was not based on identifying the same epochs as artifact, or the same number of artifacts, but rather overall spectral power results for Sleep, REM and NREM.
+EEG spectral analysis was applied according to published automated artifact detection (Buckelmuller at al.) and spectral analyses (Aeschbach et al.) methods for EEG data collected during sleep. Results from previous manual scoring of the [SOF dataset](https://sleepdata.org/datasets/sof) (the "gold standard") were compared to results from automatic artifact detection of the Study of Osteoporotic Fractures (SOF) data generated using various artifact rejection thresholds to establish settings that coincided most with "gold standard" results. Agreement of these results was not based on identifying the same epochs as artifact, or the same number of artifacts, but rather overall spectral power results for Sleep, REM and NREM.
 
 ## Validation Methods and Results
 
