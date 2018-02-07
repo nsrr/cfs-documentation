@@ -36,7 +36,7 @@ Upon awakening, the nurse will have stopped the recording of the study.
   </a>
 
   <a href=":pages_path:/manuals/polysomnography/17-13-00-data-collection.md" class="btn btn-success">
-    17.13 Data Management
+    17.13 Data Collection
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>

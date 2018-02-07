@@ -1,4 +1,4 @@
-## 17.13 Data Processing
+## 17.13 Data Collection
 
 Offlines (automatic analysis) are run on all studies over at the GCRC before saving to a CD disc and brought back to the scoring office to be scored.  CD discs with the studies for scoring are placed in the folders with the accompanying papers.  Only studies, which passed initial screening, are scored.
 
