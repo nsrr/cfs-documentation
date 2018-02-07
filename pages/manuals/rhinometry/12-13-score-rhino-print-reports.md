@@ -19,7 +19,7 @@ Test Quality is judged by the following criteria:
 
 This graphic represents the digital screen of the Rhinometry testing program.  This graphic reveals the following:
 
-* This is the post nasal steroid test; thus, the screens are labeled “BEFORE” (The post test will look markedly similar)
+* This is the before steroid test; thus, the screens are labeled “BEFORE” (The post test will look markedly similar)
 * Test #4, featured on the graphic, is a bit noisy—this is indicated by the dots around the line (scatter) this is due to an inconsistent seal on the nostril by the tester
 * Otherwise, all the tests are acceptably consistent
 
