@@ -8,4 +8,12 @@ The [CFS dataset](:files_path:/datasets) posted on the NSRR has gone through var
 
 The Visit 5 dataset contains 735 rows. Datasets from prior visits will contain additional rows for subjects that did not participate in Visit 5.
 
-If you have additional questions about the CFS dataset, please contact <a href="mailto:support@sleepdata.org">support@sleepdata.org</a>.
+## Data collection forms
+
+The NSRR provides [original data collection forms as PDFs](:files_path:/forms). Many [variables link to these forms](:datasets_path:/cfs/variables) to give users a better idea about the origins of the underlying data.
+
+The forms are included here for historical purposes only and are not intended for use in prospective studies. If you wish to use these forms, please check existing copyrights and regulations beforehand.
+
+## Questions?
+
+Please reach out to us at support@sleepdata.org or in the [Forum](https://sleepdata.org/forum) if you have questions.
