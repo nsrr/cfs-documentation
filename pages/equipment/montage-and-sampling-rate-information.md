@@ -19,7 +19,7 @@ The settings below represent the standards set at the beginning of the project. 
 | Right Submentalis EMG | EMG3        | EMG3        | Fpz     | 256                | High Pass .16/Low Pass 105 | Gold cup electrode                   |
 | Left Leg EMG          | L Leg       | L Leg       | Fpz     | 64                 | High Pass .16/Low Pass 105 | Compumedics piezo leg leads          |
 | Right Leg EMG         | R Leg       | R Leg       | Fpz     | 64                 | High Pass .16/Low Pass 105 | Compumedics piezo leg leads          |
-| Thermistor            | Airflow     | Airflow     | -       | 32                 | -                          | Compumedics thermistor               |
+| Airflow            | Airflow     | Airflow     | -       | 32                 | -                          | Compumedics thermistor               |
 | Abdomen               | Thor Effort | Thor Effort | -       | 32                 | -                          | Compumedics Summit IP RIP            |
 | Thorax                | Abdo Effort | Abdo Effort | -       | 32                 | -                          | Compumedics Summit IP RIP            |
 | Sum                   | Sum         | Sum         | -       | 32                 | -                          | Compumedics Summit IP RIP            |
@@ -49,7 +49,7 @@ The settings below represent the standards set at the beginning of the project. 
 | Right Submentalis EMG | EMG3        | EMG3        | Fpz     | 256                | High Pass .16/Low Pass 105 | Gold cup electrode                   |
 | Left Leg EMG          | L Leg       | L Leg       | Fpz     | 64                 | High Pass .16/Low Pass 105 | Compumedics piezo leg leads          |
 | Right Leg EMG         | R Leg       | R Leg       | Fpz     | 64                 | High Pass .16/Low Pass 105 | Compumedics piezo leg leads          |
-| Thermistor            | Airflow     | Airflow     | -       | 32                 | -                          | Compumedics thermistor               |
+| Airflow            | Airflow     | Airflow     | -       | 32                 | -                          | Compumedics thermistor               |
 | Abdomen               | Thor Effort | Thor Effort | -       | 32                 | -                          | Compumedics Summit IP RIP            |
 | Thorax                | Abdo Effort | Abdo Effort | -       | 32                 | -                          | Compumedics Summit IP RIP            |
 | Sum                   | Sum         | Sum         | -       | 32                 | -                          | Compumedics Summit IP RIP            |
