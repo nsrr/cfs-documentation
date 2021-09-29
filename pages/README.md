@@ -4,6 +4,10 @@ The Cleveland Family Study (CFS) is the largest family-based study of sleep apne
 
 *Note:* Data from CFS Visit 5 (i.e. the last exam) will be posted to the NSRR first. Visit 5 included full overnight PSG. Data from prior CFS visits will be posted in the future.
 
+## Data access restrictions
+
+The Cleveland Family Study (CFS) dataset is only available for non-commercial use.
+
 ## Citation and acknowledgement
 
 When using this dataset, please cite the following:
