@@ -20,8 +20,8 @@ The settings below represent the standards set at the beginning of the project. 
 | Left Leg EMG          | L Leg       | L Leg       | Fpz     | 64                 | High Pass .16/Low Pass 105 | Compumedics piezo leg leads          |
 | Right Leg EMG         | R Leg       | R Leg       | Fpz     | 64                 | High Pass .16/Low Pass 105 | Compumedics piezo leg leads          |
 | Airflow            | Airflow     | Airflow     | -       | 32                 | -                          | Compumedics thermistor               |
-| Abdomen               | Thor Effort | Thor Effort | -       | 32                 | -                          | Compumedics Summit IP RIP            |
-| Thorax                | Abdo Effort | Abdo Effort | -       | 32                 | -                          | Compumedics Summit IP RIP            |
+| Abdomen               | Abdo Effort | Abdo Effort | -       | 32                 | -                          | Compumedics Summit IP RIP            |
+| Thorax                | Thor Effort | Thor Effort | -       | 32                 | -                          | Compumedics Summit IP RIP            |
 | Sum                   | Sum         | Sum         | -       | 32                 | -                          | Compumedics Summit IP RIP            |
 | Snore                 | Snore       | Snore       | -       | 256                | -                          | Compumedics snore mic                |
 | Position              | Position    | Position    | -       | 1                  | -                          | Compumedics external position sensor |
@@ -50,8 +50,8 @@ The settings below represent the standards set at the beginning of the project. 
 | Left Leg EMG          | L Leg       | L Leg       | Fpz     | 64                 | High Pass .16/Low Pass 105 | Compumedics piezo leg leads          |
 | Right Leg EMG         | R Leg       | R Leg       | Fpz     | 64                 | High Pass .16/Low Pass 105 | Compumedics piezo leg leads          |
 | Airflow            | Airflow     | Airflow     | -       | 32                 | -                          | Compumedics thermistor               |
-| Abdomen               | Thor Effort | Thor Effort | -       | 32                 | -                          | Compumedics Summit IP RIP            |
-| Thorax                | Abdo Effort | Abdo Effort | -       | 32                 | -                          | Compumedics Summit IP RIP            |
+| Abdomen               | Abdo Effort | Abdo Effort | -       | 32                 | -                          | Compumedics Summit IP RIP            |
+| Thorax                | Thor Effort | Thor Effort | -       | 32                 | -                          | Compumedics Summit IP RIP            |
 | Sum                   | Sum         | Sum         | -       | 32                 | -                          | Compumedics Summit IP RIP            |
 | Snore                 | Snore       | Snore       | -       | 256                | -                          | Compumedics snore mic                |
 | Position              | Position    | Position    | -       | 1                  | -                          | Compumedics external position sensor |
